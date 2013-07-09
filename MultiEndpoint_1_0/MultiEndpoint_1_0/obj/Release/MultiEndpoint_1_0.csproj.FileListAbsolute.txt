@@ -1,0 +1,6 @@
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\bin\Release\MultiEndpoint_1_0.exe.config
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\bin\Release\MultiEndpoint_1_0.exe
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\bin\Release\MultiEndpoint_1_0.pdb
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\obj\Release\MultiEndpoint_1_0.csprojResolveAssemblyReference.cache
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\obj\Release\MultiEndpoint_1_0.exe
+C:\yxiao\MyHydroShare\MultiEndpoint_1_0\MultiEndpoint_1_0\obj\Release\MultiEndpoint_1_0.pdb
