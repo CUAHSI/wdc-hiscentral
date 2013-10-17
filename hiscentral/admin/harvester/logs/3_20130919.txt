@@ -1,0 +1,1315 @@
+9/19/2013 9:52:41 PM::Begin Harvest for service ID:3
+9/19/2013 9:52:41 PM::9/19/2013 9:52:41 PM
+9/19/2013 9:52:41 PM::Clearing staging tables
+9/19/2013 9:52:57 PM::SiteBARTON RIVER NEAR COVENTRY, VT
+9/19/2013 9:52:58 PM::Series: site BARTON RIVER NEAR COVENTRY, VT- varGage height, feet
+9/19/2013 9:52:58 PM::Series: site BARTON RIVER NEAR COVENTRY, VT- varDischarge, cubic feet per second
+9/19/2013 9:52:58 PM::Series: site BARTON RIVER NEAR COVENTRY, VT- varStream velocity, feet per second
+9/19/2013 9:52:59 PM::SiteMISSISQUOI RIVER NEAR NORTH TROY, VT
+9/19/2013 9:52:59 PM::Series: site MISSISQUOI RIVER NEAR NORTH TROY, VT- varPrecipitation, total, inches
+9/19/2013 9:52:59 PM::Series: site MISSISQUOI RIVER NEAR NORTH TROY, VT- varGage height, feet
+9/19/2013 9:52:59 PM::Series: site MISSISQUOI RIVER NEAR NORTH TROY, VT- varDischarge, cubic feet per second
+9/19/2013 9:52:59 PM::SiteBLACK RIVER AT COVENTRY, VT
+9/19/2013 9:52:59 PM::Series: site BLACK RIVER AT COVENTRY, VT- varGage height, feet
+9/19/2013 9:52:59 PM::Series: site BLACK RIVER AT COVENTRY, VT- varDischarge, cubic feet per second
+9/19/2013 9:52:59 PM::SiteSNAKE RIVER NEAR ANATONE, WA
+9/19/2013 9:53:00 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:53:00 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varGage height, feet
+9/19/2013 9:53:00 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:53:00 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varBarometric pressure, millimeters of mercury
+9/19/2013 9:53:00 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:01 PM::Series: site SNAKE RIVER NEAR ANATONE, WA- varTotal partial pressure of dissolved gases, water, unfiltered, percent of saturation
+9/19/2013 9:53:01 PM::SiteASOTIN CREEK BELOW CONFLUENCE NEAR ASOTIN, WA
+9/19/2013 9:53:01 PM::Series: site ASOTIN CREEK BELOW CONFLUENCE NEAR ASOTIN, WA- varGage height, feet
+9/19/2013 9:53:01 PM::Series: site ASOTIN CREEK BELOW CONFLUENCE NEAR ASOTIN, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:01 PM::SiteSANPOIL RIVER AB 13 MILE CREEK NEAR REPUBLIC, WA
+9/19/2013 9:53:01 PM::Series: site SANPOIL RIVER AB 13 MILE CREEK NEAR REPUBLIC, WA- varGage height, feet
+9/19/2013 9:53:01 PM::Series: site SANPOIL RIVER AB 13 MILE CREEK NEAR REPUBLIC, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:01 PM::SiteWEST FORK SANPOIL RIVER NEAR REPUBLIC, WA
+9/19/2013 9:53:01 PM::Series: site WEST FORK SANPOIL RIVER NEAR REPUBLIC, WA- varGage height, feet
+9/19/2013 9:53:01 PM::Series: site WEST FORK SANPOIL RIVER NEAR REPUBLIC, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:02 PM::SiteKETTLE RIVER NEAR FERRY, WA
+9/19/2013 9:53:02 PM::Series: site KETTLE RIVER NEAR FERRY, WA- varGage height, feet
+9/19/2013 9:53:02 PM::Series: site KETTLE RIVER NEAR FERRY, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:02 PM::Series: site KETTLE RIVER NEAR FERRY, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:02 PM::SiteSANPOIL RIVER ABOVE JACK CREEK AT KELLER, WA
+9/19/2013 9:53:02 PM::Series: site SANPOIL RIVER ABOVE JACK CREEK AT KELLER, WA- varGage height, feet
+9/19/2013 9:53:02 PM::Series: site SANPOIL RIVER ABOVE JACK CREEK AT KELLER, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:03 PM::SiteKETTLE RIVER NEAR LAURIER, WA
+9/19/2013 9:53:03 PM::Series: site KETTLE RIVER NEAR LAURIER, WA- varGage height, feet
+9/19/2013 9:53:03 PM::Series: site KETTLE RIVER NEAR LAURIER, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:03 PM::SiteHUGE CREEK NEAR WAUNA, WA
+9/19/2013 9:53:03 PM::Series: site HUGE CREEK NEAR WAUNA, WA- varGage height, feet
+9/19/2013 9:53:03 PM::Series: site HUGE CREEK NEAR WAUNA, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:03 PM::SiteYAKIMA RIVER AT UMTANUM, WA
+9/19/2013 9:53:03 PM::Series: site YAKIMA RIVER AT UMTANUM, WA- varGage height, feet
+9/19/2013 9:53:03 PM::Series: site YAKIMA RIVER AT UMTANUM, WA- varDischarge, cubic feet per second
+9/19/2013 9:53:03 PM::SiteELK RIVER AT CLAY, WV
+9/19/2013 9:53:03 PM::Series: site ELK RIVER AT CLAY, WV- varGage height, feet
+9/19/2013 9:53:04 PM::SiteTUG FORK AT WELCH, W. VA.
+9/19/2013 9:53:04 PM::Series: site TUG FORK AT WELCH, W. VA.- varGage height, feet
+9/19/2013 9:53:04 PM::Series: site TUG FORK AT WELCH, W. VA.- varDischarge, cubic feet per second
+9/19/2013 9:53:04 PM::Site Mcd-0204
+9/19/2013 9:53:04 PM::Series: site  Mcd-0204- varDepth to water level, feet below land surface
+9/19/2013 9:53:05 PM::SitePANTHER CREEK NEAR PANTHER, WV
+9/19/2013 9:53:05 PM::Series: site PANTHER CREEK NEAR PANTHER, WV- varGage height, feet
+9/19/2013 9:53:05 PM::Series: site PANTHER CREEK NEAR PANTHER, WV- varDischarge, cubic feet per second
+9/19/2013 9:53:05 PM::SiteDRY FORK AT BEARTOWN, W. VA.
+9/19/2013 9:53:05 PM::Series: site DRY FORK AT BEARTOWN, W. VA.- varGage height, feet
+9/19/2013 9:53:05 PM::Series: site DRY FORK AT BEARTOWN, W. VA.- varDischarge, cubic feet per second
+9/19/2013 9:53:05 PM::SiteBUCKHANNON RIVER AT ALTON, WV
+9/19/2013 9:53:05 PM::Series: site BUCKHANNON RIVER AT ALTON, WV- varGage height, feet
+9/19/2013 9:53:05 PM::Series: site BUCKHANNON RIVER AT ALTON, WV- varDischarge, cubic feet per second
+9/19/2013 9:53:06 PM::SiteSAND RUN NEAR BUCKHANNON, WV
+9/19/2013 9:53:06 PM::Series: site SAND RUN NEAR BUCKHANNON, WV- varGage height, feet
+9/19/2013 9:53:06 PM::Series: site SAND RUN NEAR BUCKHANNON, WV- varDischarge, cubic feet per second
+9/19/2013 9:53:06 PM::SiteBUCKHANNON R AT BUCKHANNON, WV
+9/19/2013 9:53:06 PM::Series: site BUCKHANNON R AT BUCKHANNON, WV- varGage height, feet
+9/19/2013 9:53:06 PM::SiteWHITTLESEY CREEK NEAR ASHLAND, WI
+9/19/2013 9:53:06 PM::Series: site WHITTLESEY CREEK NEAR ASHLAND, WI- varPrecipitation, total, inches
+9/19/2013 9:53:06 PM::Series: site WHITTLESEY CREEK NEAR ASHLAND, WI- varGage height, feet
+9/19/2013 9:53:06 PM::Series: site WHITTLESEY CREEK NEAR ASHLAND, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:06 PM::SiteNAMEKAGON RIVER AT LEONARDS, WI
+9/19/2013 9:53:06 PM::Series: site NAMEKAGON RIVER AT LEONARDS, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:06 PM::Series: site NAMEKAGON RIVER AT LEONARDS, WI- varGage height, feet
+9/19/2013 9:53:06 PM::Series: site NAMEKAGON RIVER AT LEONARDS, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:07 PM::SiteLEMONWEIR RIVER AT NEW LISBON, WI
+9/19/2013 9:53:07 PM::Series: site LEMONWEIR RIVER AT NEW LISBON, WI- varGage height, feet
+9/19/2013 9:53:07 PM::Series: site LEMONWEIR RIVER AT NEW LISBON, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:07 PM::SiteYELLOW RIVER AT NECEDAH, WI
+9/19/2013 9:53:07 PM::Series: site YELLOW RIVER AT NECEDAH, WI- varGage height, feet
+9/19/2013 9:53:07 PM::Series: site YELLOW RIVER AT NECEDAH, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:07 PM::SiteST. CROIX RIVER AT PRESCOTT, WI
+9/19/2013 9:53:07 PM::Series: site ST. CROIX RIVER AT PRESCOTT, WI- varPrecipitation, total, inches
+9/19/2013 9:53:07 PM::Series: site ST. CROIX RIVER AT PRESCOTT, WI- varGage height, feet
+9/19/2013 9:53:07 PM::Series: site ST. CROIX RIVER AT PRESCOTT, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:07 PM::Series: site ST. CROIX RIVER AT PRESCOTT, WI- varStream velocity, feet per second
+9/19/2013 9:53:08 PM::SiteMISSISSIPPI RIVER AT PRESCOTT, WI
+9/19/2013 9:53:08 PM::Series: site MISSISSIPPI RIVER AT PRESCOTT, WI- varGage height, feet
+9/19/2013 9:53:08 PM::Series: site MISSISSIPPI RIVER AT PRESCOTT, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:08 PM::SiteEAU GALLE RIVER AT SPRING VALLEY, WI
+9/19/2013 9:53:08 PM::Series: site EAU GALLE RIVER AT SPRING VALLEY, WI- varGage height, feet
+9/19/2013 9:53:08 PM::Series: site EAU GALLE RIVER AT SPRING VALLEY, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:08 PM::SiteKINNICKINNIC RIVER NEAR RIVER FALLS, WI
+9/19/2013 9:53:08 PM::Series: site KINNICKINNIC RIVER NEAR RIVER FALLS, WI- varPrecipitation, total, inches
+9/19/2013 9:53:08 PM::Series: site KINNICKINNIC RIVER NEAR RIVER FALLS, WI- varGage height, feet
+9/19/2013 9:53:08 PM::Series: site KINNICKINNIC RIVER NEAR RIVER FALLS, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:09 PM::SiteCANAL MOCA BLW HWY 112, PR
+9/19/2013 9:53:09 PM::Series: site CANAL MOCA BLW HWY 112, PR- varGage height, feet
+9/19/2013 9:53:09 PM::Series: site CANAL MOCA BLW HWY 112, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:09 PM::SiteLAGO REGULADOR DE ISABELA NR HWY 112 ISABELA, PR
+9/19/2013 9:53:09 PM::Series: site LAGO REGULADOR DE ISABELA NR HWY 112 ISABELA, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:09 PM::Series: site LAGO REGULADOR DE ISABELA NR HWY 112 ISABELA, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:09 PM::Series: site LAGO REGULADOR DE ISABELA NR HWY 112 ISABELA, PR- varPrecipitation, total, inches
+9/19/2013 9:53:10 PM::SiteCANAL MOCA BLW FOREBAY, PR
+9/19/2013 9:53:10 PM::Series: site CANAL MOCA BLW FOREBAY, PR- varGage height, feet
+9/19/2013 9:53:10 PM::Series: site CANAL MOCA BLW FOREBAY, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:10 PM::SiteCHIPPEWA RIVER AT DURAND, WI
+9/19/2013 9:53:10 PM::Series: site CHIPPEWA RIVER AT DURAND, WI- varPrecipitation, total, inches
+9/19/2013 9:53:10 PM::Series: site CHIPPEWA RIVER AT DURAND, WI- varGage height, feet
+9/19/2013 9:53:10 PM::Series: site CHIPPEWA RIVER AT DURAND, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:10 PM::SiteFLAMBEAU RIVER NEAR BRUCE, WI
+9/19/2013 9:53:11 PM::Series: site FLAMBEAU RIVER NEAR BRUCE, WI- varPrecipitation, total, inches
+9/19/2013 9:53:11 PM::Series: site FLAMBEAU RIVER NEAR BRUCE, WI- varGage height, feet
+9/19/2013 9:53:11 PM::Series: site FLAMBEAU RIVER NEAR BRUCE, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:11 PM::SiteJUMP RIVER AT SHELDON, WI
+9/19/2013 9:53:11 PM::Series: site JUMP RIVER AT SHELDON, WI- varPrecipitation, total, inches
+9/19/2013 9:53:11 PM::Series: site JUMP RIVER AT SHELDON, WI- varGage height, feet
+9/19/2013 9:53:11 PM::Series: site JUMP RIVER AT SHELDON, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:11 PM::SiteCHIPPEWA RIVER NEAR BRUCE, WI
+9/19/2013 9:53:11 PM::Series: site CHIPPEWA RIVER NEAR BRUCE, WI- varGage height, feet
+9/19/2013 9:53:11 PM::Series: site CHIPPEWA RIVER NEAR BRUCE, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:12 PM::SiteWILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK,WI
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK,WI- varPrecipitation, total, inches
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK,WI- varGage height, feet
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:12 PM::SiteWILLOW RIVER @ COUNTY TRUNK HIGHWAY T AT JEWETT,WI
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER @ COUNTY TRUNK HIGHWAY T AT JEWETT,WI- varGage height, feet
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER @ COUNTY TRUNK HIGHWAY T AT JEWETT,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:12 PM::Series: site WILLOW RIVER @ COUNTY TRUNK HIGHWAY T AT JEWETT,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:12 PM::SiteDISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI
+9/19/2013 9:53:12 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varPrecipitation, total, inches
+9/19/2013 9:53:12 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varMoisture content, soil, volumetric, percent of total volume
+9/19/2013 9:53:13 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varSoil temperature, degrees Fahrenheit
+9/19/2013 9:53:13 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:13 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varWind speed, miles per hour
+9/19/2013 9:53:13 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varWind direction, degrees clockwise from true north
+9/19/2013 9:53:13 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varRelative humidity, percent
+9/19/2013 9:53:14 PM::Series: site DISCOVERY FARMS-WILLOW WEATHER NEAR WOODVILLE, WI- varWater Science Center special 99902
+9/19/2013 9:53:14 PM::SiteSOUTH FORK WILLOW RIVER AT US HWY 63 NEAR CYLON,WI
+9/19/2013 9:53:14 PM::Series: site SOUTH FORK WILLOW RIVER AT US HWY 63 NEAR CYLON,WI- varGage height, feet
+9/19/2013 9:53:14 PM::Series: site SOUTH FORK WILLOW RIVER AT US HWY 63 NEAR CYLON,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:14 PM::Series: site SOUTH FORK WILLOW RIVER AT US HWY 63 NEAR CYLON,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:14 PM::SiteDRY RUN AT 190TH STREET NEAR JEWETT, WI
+9/19/2013 9:53:14 PM::Series: site DRY RUN AT 190TH STREET NEAR JEWETT, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:14 PM::Series: site DRY RUN AT 190TH STREET NEAR JEWETT, WI- varGage height, feet
+9/19/2013 9:53:14 PM::Series: site DRY RUN AT 190TH STREET NEAR JEWETT, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:15 PM::SiteDISCOVERY FARMS-WILLOW WATERWAY 2 NR WOODVILLE, WI
+9/19/2013 9:53:15 PM::Series: site DISCOVERY FARMS-WILLOW WATERWAY 2 NR WOODVILLE, WI- varGage height, feet
+9/19/2013 9:53:15 PM::Series: site DISCOVERY FARMS-WILLOW WATERWAY 2 NR WOODVILLE, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:15 PM::SiteDISCOVERY FARMS-WILLOW WATERWAY 1 NEAR CYLON, WI
+9/19/2013 9:53:15 PM::Series: site DISCOVERY FARMS-WILLOW WATERWAY 1 NEAR CYLON, WI- varPrecipitation, total, inches
+9/19/2013 9:53:15 PM::Series: site DISCOVERY FARMS-WILLOW WATERWAY 1 NEAR CYLON, WI- varGage height, feet
+9/19/2013 9:53:15 PM::Series: site DISCOVERY FARMS-WILLOW WATERWAY 1 NEAR CYLON, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:15 PM::SiteCROW CREEK AT 19TH STREET, AT CHEYENNE, WY
+9/19/2013 9:53:15 PM::Series: site CROW CREEK AT 19TH STREET, AT CHEYENNE, WY- varGage height, feet
+9/19/2013 9:53:15 PM::Series: site CROW CREEK AT 19TH STREET, AT CHEYENNE, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:16 PM::Site13-068-21abc02 BRO-2
+9/19/2013 9:53:16 PM::Series: site 13-068-21abc02 BRO-2- varDepth to water level, feet below land surface
+9/19/2013 9:53:16 PM::Site13-068-21abc03 BRO-1a
+9/19/2013 9:53:16 PM::Series: site 13-068-21abc03 BRO-1a- varDepth to water level, feet below land surface
+9/19/2013 9:53:16 PM::SiteBIG SANDY RIVER NEAR FARSON, WY
+9/19/2013 9:53:16 PM::Series: site BIG SANDY RIVER NEAR FARSON, WY- varGage height, feet
+9/19/2013 9:53:16 PM::Series: site BIG SANDY RIVER NEAR FARSON, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:16 PM::SiteNEW FORK RIVER NEAR BIG PINEY, WY
+9/19/2013 9:53:16 PM::Series: site NEW FORK RIVER NEAR BIG PINEY, WY- varGage height, feet
+9/19/2013 9:53:16 PM::Series: site NEW FORK RIVER NEAR BIG PINEY, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:17 PM::SiteGREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY
+9/19/2013 9:53:17 PM::Series: site GREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY- varGage height, feet
+9/19/2013 9:53:17 PM::Series: site GREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:17 PM::SitePINE CREEK ABOVE FREMONT LAKE, WY
+9/19/2013 9:53:17 PM::Series: site PINE CREEK ABOVE FREMONT LAKE, WY- varGage height, feet
+9/19/2013 9:53:17 PM::Series: site PINE CREEK ABOVE FREMONT LAKE, WY- varTemperature, water, degrees Celsius
+9/19/2013 9:53:17 PM::Series: site PINE CREEK ABOVE FREMONT LAKE, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:17 PM::SiteRIO LOCO AT LAS LATAS NR LA JOYA NR GUANICA, PR
+9/19/2013 9:53:17 PM::Series: site RIO LOCO AT LAS LATAS NR LA JOYA NR GUANICA, PR- varGage height, feet
+9/19/2013 9:53:17 PM::Series: site RIO LOCO AT LAS LATAS NR LA JOYA NR GUANICA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:18 PM::SiteRIO CANOVANAS NR CAMPO RICO, PR
+9/19/2013 9:53:18 PM::Series: site RIO CANOVANAS NR CAMPO RICO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:18 PM::Series: site RIO CANOVANAS NR CAMPO RICO, PR- varGage height, feet
+9/19/2013 9:53:18 PM::Series: site RIO CANOVANAS NR CAMPO RICO, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:18 PM::SiteRAINGAGE AT EL PORTAL IN EL YUNQUE, PR
+9/19/2013 9:53:18 PM::Series: site RAINGAGE AT EL PORTAL IN EL YUNQUE, PR- varPrecipitation, total, inches
+9/19/2013 9:53:18 PM::SiteRIO SABANA AT SABANA, PR
+9/19/2013 9:53:18 PM::Series: site RIO SABANA AT SABANA, PR- varGage height, feet
+9/19/2013 9:53:18 PM::Series: site RIO SABANA AT SABANA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:19 PM::SiteTWELVEPOLE CREEK BELOW WAYNE, WV
+9/19/2013 9:53:19 PM::Series: site TWELVEPOLE CREEK BELOW WAYNE, WV- varGage height, feet
+9/19/2013 9:53:19 PM::Site Way-0144
+9/19/2013 9:53:19 PM::Series: site  Way-0144- varDepth to water level, feet below land surface
+9/19/2013 9:53:19 PM::SiteEAST FORK TWELVEPOLE CREEK NEAR DUNLOW, WV
+9/19/2013 9:53:19 PM::Series: site EAST FORK TWELVEPOLE CREEK NEAR DUNLOW, WV- varGage height, feet
+9/19/2013 9:53:19 PM::Series: site EAST FORK TWELVEPOLE CREEK NEAR DUNLOW, WV- varDischarge, cubic feet per second
+9/19/2013 9:53:20 PM::SiteFOX RIVER NEAR NEW MUNSTER, WI
+9/19/2013 9:53:20 PM::Series: site FOX RIVER NEAR NEW MUNSTER, WI- varPrecipitation, total, inches
+9/19/2013 9:53:20 PM::Series: site FOX RIVER NEAR NEW MUNSTER, WI- varGage height, feet
+9/19/2013 9:53:20 PM::Series: site FOX RIVER NEAR NEW MUNSTER, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:20 PM::SitePIKE RIVER NEAR RACINE, WI
+9/19/2013 9:53:20 PM::Series: site PIKE RIVER NEAR RACINE, WI- varGage height, feet
+9/19/2013 9:53:20 PM::Series: site PIKE RIVER NEAR RACINE, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:20 PM::SitePESHTIGO RIVER AT PESHTIGO, WI
+9/19/2013 9:53:20 PM::Series: site PESHTIGO RIVER AT PESHTIGO, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:20 PM::Series: site PESHTIGO RIVER AT PESHTIGO, WI- varGage height, feet
+9/19/2013 9:53:20 PM::Series: site PESHTIGO RIVER AT PESHTIGO, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:20 PM::SiteMENOMINEE RIVER AT NIAGARA, WI
+9/19/2013 9:53:20 PM::Series: site MENOMINEE RIVER AT NIAGARA, WI- varPrecipitation, total, inches
+9/19/2013 9:53:20 PM::Series: site MENOMINEE RIVER AT NIAGARA, WI- varGage height, feet
+9/19/2013 9:53:21 PM::Series: site MENOMINEE RIVER AT NIAGARA, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:21 PM::SiteMENOMINEE RIVER NEAR MC ALLISTER, WI
+9/19/2013 9:53:21 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:53:21 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:21 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:22 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:53:22 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:53:22 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varGage height, feet
+9/19/2013 9:53:22 PM::Series: site MENOMINEE RIVER NEAR MC ALLISTER, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:22 PM::SitePIKE RIVER AT AMBERG, WI
+9/19/2013 9:53:22 PM::Series: site PIKE RIVER AT AMBERG, WI- varGage height, feet
+9/19/2013 9:53:22 PM::Series: site PIKE RIVER AT AMBERG, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:22 PM::SitePESHTIGO RIVER AT PORTERFIELD, WI
+9/19/2013 9:53:22 PM::Series: site PESHTIGO RIVER AT PORTERFIELD, WI- varPrecipitation, total, inches
+9/19/2013 9:53:22 PM::Series: site PESHTIGO RIVER AT PORTERFIELD, WI- varGage height, feet
+9/19/2013 9:53:22 PM::Series: site PESHTIGO RIVER AT PORTERFIELD, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:22 PM::Series: site PESHTIGO RIVER AT PORTERFIELD, WI- varStream velocity, feet per second
+9/19/2013 9:53:23 PM::SitePESHTIGO RIVER NEAR WABENO, WI
+9/19/2013 9:53:23 PM::Series: site PESHTIGO RIVER NEAR WABENO, WI- varPrecipitation, total, inches
+9/19/2013 9:53:23 PM::Series: site PESHTIGO RIVER NEAR WABENO, WI- varGage height, feet
+9/19/2013 9:53:23 PM::Series: site PESHTIGO RIVER NEAR WABENO, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:23 PM::SiteNORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI
+9/19/2013 9:53:23 PM::Series: site NORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI- varGage height, feet
+9/19/2013 9:53:23 PM::Series: site NORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:23 PM::SiteMUSKELLUNGE CR-MUSKELLUNGE L OTL-NR EAGLE RIVER,WI
+9/19/2013 9:53:23 PM::Series: site MUSKELLUNGE CR-MUSKELLUNGE L OTL-NR EAGLE RIVER,WI- varGage height, feet
+9/19/2013 9:53:23 PM::Series: site MUSKELLUNGE CR-MUSKELLUNGE L OTL-NR EAGLE RIVER,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:24 PM::SiteLAC VIEUX DESERT NEAR LAND O'LAKES, WI
+9/19/2013 9:53:24 PM::Series: site LAC VIEUX DESERT NEAR LAND O'LAKES, WI- varPrecipitation, total, inches
+9/19/2013 9:53:24 PM::Series: site LAC VIEUX DESERT NEAR LAND O'LAKES, WI- varGage height, feet
+9/19/2013 9:53:24 PM::SiteMUSKELLUNGE CREEK NEAR ST. GERMAIN, WI
+9/19/2013 9:53:24 PM::Series: site MUSKELLUNGE CREEK NEAR ST. GERMAIN, WI- varGage height, feet
+9/19/2013 9:53:24 PM::Series: site MUSKELLUNGE CREEK NEAR ST. GERMAIN, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:24 PM::SiteSTEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI
+9/19/2013 9:53:24 PM::Series: site STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI- varGage height, feet
+9/19/2013 9:53:24 PM::Series: site STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:25 PM::SiteANVIL LAKE NEAR EAGLE RIVER, WI
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varPrecipitation, total, inches
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varAtmospheric water vapor pressure, calculated, kilopascals
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varTotal solar radiation (direct + diffuse radiation on a horizontal surface), watts per square meter
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varGage height, feet
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varWind speed, miles per hour
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varWind direction, degrees clockwise from true north
+9/19/2013 9:53:25 PM::Series: site ANVIL LAKE NEAR EAGLE RIVER, WI- varRelative humidity, percent
+9/19/2013 9:53:26 PM::SiteALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varPrecipitation, total, inches
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varOxidation reduction potential, millivolts
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varGage height, feet
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:53:26 PM::Series: site ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:26 PM::SiteTROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI
+9/19/2013 9:53:27 PM::Series: site TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI- varGage height, feet
+9/19/2013 9:53:27 PM::Series: site TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI- varDischarge, cubic feet per second
+9/19/2013 9:53:27 PM::SiteALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI
+9/19/2013 9:53:27 PM::Series: site ALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI- varGage height, feet
+9/19/2013 9:53:27 PM::Series: site ALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:27 PM::SiteBIGHORN RIVER AT BASIN, WY
+9/19/2013 9:53:27 PM::Series: site BIGHORN RIVER AT BASIN, WY- varGage height, feet
+9/19/2013 9:53:27 PM::Series: site BIGHORN RIVER AT BASIN, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:27 PM::SiteBIGHORN RIVER AT KANE, WY
+9/19/2013 9:53:27 PM::Series: site BIGHORN RIVER AT KANE, WY- varGage height, feet
+9/19/2013 9:53:27 PM::Series: site BIGHORN RIVER AT KANE, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:28 PM::SiteSHOSHONE RIVER NEAR LOVELL, WY
+9/19/2013 9:53:28 PM::Series: site SHOSHONE RIVER NEAR LOVELL, WY- varGage height, feet
+9/19/2013 9:53:28 PM::Series: site SHOSHONE RIVER NEAR LOVELL, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:28 PM::SiteSHELL CREEK ABOVE SHELL CREEK RESERVOIR, WY
+9/19/2013 9:53:28 PM::Series: site SHELL CREEK ABOVE SHELL CREEK RESERVOIR, WY- varGage height, feet
+9/19/2013 9:53:28 PM::Series: site SHELL CREEK ABOVE SHELL CREEK RESERVOIR, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:28 PM::SiteSHELL CREEK NEAR SHELL, WY
+9/19/2013 9:53:28 PM::Series: site SHELL CREEK NEAR SHELL, WY- varGage height, feet
+9/19/2013 9:53:28 PM::Series: site SHELL CREEK NEAR SHELL, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:29 PM::SiteSTONEPILE CREEK AT MOUTH, NEAR GILLETTE, WY
+9/19/2013 9:53:29 PM::Series: site STONEPILE CREEK AT MOUTH, NEAR GILLETTE, WY- varGage height, feet
+9/19/2013 9:53:29 PM::Series: site STONEPILE CREEK AT MOUTH, NEAR GILLETTE, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:29 PM::SiteLITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY
+9/19/2013 9:53:29 PM::Series: site LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY- varGage height, feet
+9/19/2013 9:53:29 PM::Series: site LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY- varTemperature, water, degrees Celsius
+9/19/2013 9:53:29 PM::Series: site LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:29 PM::SiteBELLE FOURCHE R BL RATTLESNAKE C, NR PINEY, WY
+9/19/2013 9:53:29 PM::Series: site BELLE FOURCHE R BL RATTLESNAKE C, NR PINEY, WY- varGage height, feet
+9/19/2013 9:53:29 PM::Series: site BELLE FOURCHE R BL RATTLESNAKE C, NR PINEY, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:30 PM::SiteDONKEY CREEK NEAR GILLETTE, WY
+9/19/2013 9:53:30 PM::Series: site DONKEY CREEK NEAR GILLETTE, WY- varGage height, feet
+9/19/2013 9:53:30 PM::Series: site DONKEY CREEK NEAR GILLETTE, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:30 PM::SiteRIO CULEBRINAS AT MARGARITA DAMSITE NR AGUADA, PR
+9/19/2013 9:53:30 PM::Series: site RIO CULEBRINAS AT MARGARITA DAMSITE NR AGUADA, PR- varGage height, feet
+9/19/2013 9:53:30 PM::Series: site RIO CULEBRINAS AT MARGARITA DAMSITE NR AGUADA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:30 PM::SiteCANAL MOCA ABV AGUADILLA PLANT, AGUADILLA, PR
+9/19/2013 9:53:30 PM::Series: site CANAL MOCA ABV AGUADILLA PLANT, AGUADILLA, PR- varGage height, feet
+9/19/2013 9:53:30 PM::Series: site CANAL MOCA ABV AGUADILLA PLANT, AGUADILLA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:31 PM::SiteCANAL DE AGUADILLA ABV LAGO RAMEY, AGUADILLA PR
+9/19/2013 9:53:31 PM::Series: site CANAL DE AGUADILLA ABV LAGO RAMEY, AGUADILLA PR- varGage height, feet
+9/19/2013 9:53:31 PM::Series: site CANAL DE AGUADILLA ABV LAGO RAMEY, AGUADILLA PR- varDischarge, cubic feet per second
+9/19/2013 9:53:31 PM::SiteCANAL AGUADILLA BLW LAGO RAMEY, AGUADILLA PR
+9/19/2013 9:53:31 PM::Series: site CANAL AGUADILLA BLW LAGO RAMEY, AGUADILLA PR- varGage height, feet
+9/19/2013 9:53:31 PM::Series: site CANAL AGUADILLA BLW LAGO RAMEY, AGUADILLA PR- varDischarge, cubic feet per second
+9/19/2013 9:53:31 PM::SiteOJO DE AGUA SPRING, AGUADILLA, PR
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varGage height, feet
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varTemperature, water, degrees Celsius
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varpH, water, unfiltered, field, standard units
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:53:31 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:32 PM::Series: site OJO DE AGUA SPRING, AGUADILLA, PR- varSalinity, water, unfiltered, parts per thousand
+9/19/2013 9:53:32 PM::SiteRAMEY RESERVE CENTER RAINGAGE AGUADILLA, PR
+9/19/2013 9:53:32 PM::Series: site RAMEY RESERVE CENTER RAINGAGE AGUADILLA, PR- varPrecipitation, total, inches
+9/19/2013 9:53:32 PM::SiteSTORMWATER STATION AT NSRR CEIBA, PR
+9/19/2013 9:53:32 PM::Series: site STORMWATER STATION AT NSRR CEIBA, PR- varPrecipitation, total, inches
+9/19/2013 9:53:32 PM::SiteRIO GRANDE DE MANATI AT CIALES, PR
+9/19/2013 9:53:32 PM::Series: site RIO GRANDE DE MANATI AT CIALES, PR- varPrecipitation, total, inches
+9/19/2013 9:53:32 PM::Series: site RIO GRANDE DE MANATI AT CIALES, PR- varGage height, feet
+9/19/2013 9:53:32 PM::Series: site RIO GRANDE DE MANATI AT CIALES, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:33 PM::SiteQUEBRADA ARENAS RAINGAGE, SAN LORENZO PR
+9/19/2013 9:53:33 PM::Series: site QUEBRADA ARENAS RAINGAGE, SAN LORENZO PR- varPrecipitation, total, inches
+9/19/2013 9:53:33 PM::SiteRIO GUADIANA NR GUADIANA, NARANJITO PR
+9/19/2013 9:53:33 PM::Series: site RIO GUADIANA NR GUADIANA, NARANJITO PR- varPrecipitation, total, inches
+9/19/2013 9:53:33 PM::Series: site RIO GUADIANA NR GUADIANA, NARANJITO PR- varGage height, feet
+9/19/2013 9:53:33 PM::Series: site RIO GUADIANA NR GUADIANA, NARANJITO PR- varDischarge, cubic feet per second
+9/19/2013 9:53:33 PM::SiteCEDRO ARRIBA RAINGAGE, NARANJITO, PR
+9/19/2013 9:53:33 PM::Series: site CEDRO ARRIBA RAINGAGE, NARANJITO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:34 PM::SiteCANAL DE RIEGO DE LAJAS ABV MAJINAS FILT. PLANT PR
+9/19/2013 9:53:34 PM::Series: site CANAL DE RIEGO DE LAJAS ABV MAJINAS FILT. PLANT PR- varGage height, feet
+9/19/2013 9:53:34 PM::Series: site CANAL DE RIEGO DE LAJAS ABV MAJINAS FILT. PLANT PR- varDischarge, cubic feet per second
+9/19/2013 9:53:34 PM::SiteLATERAL M37L AT CANAL DE RIEGO DE LAJAS SABANA GRA
+9/19/2013 9:53:34 PM::Series: site LATERAL M37L AT CANAL DE RIEGO DE LAJAS SABANA GRA- varGage height, feet
+9/19/2013 9:53:34 PM::Series: site LATERAL M37L AT CANAL DE RIEGO DE LAJAS SABANA GRA- varDischarge, cubic feet per second
+9/19/2013 9:53:34 PM::SiteCANAL DE RIEGO DE LAJAS BLW MAJINAS FILT. PLANT PR
+9/19/2013 9:53:34 PM::Series: site CANAL DE RIEGO DE LAJAS BLW MAJINAS FILT. PLANT PR- varGage height, feet
+9/19/2013 9:53:34 PM::Series: site CANAL DE RIEGO DE LAJAS BLW MAJINAS FILT. PLANT PR- varDischarge, cubic feet per second
+9/19/2013 9:53:35 PM::SiteLAGO LOIZA AT DAMSITE NR TRUJILLO ALTO, PR
+9/19/2013 9:53:35 PM::Series: site LAGO LOIZA AT DAMSITE NR TRUJILLO ALTO, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:35 PM::Series: site LAGO LOIZA AT DAMSITE NR TRUJILLO ALTO, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:35 PM::Series: site LAGO LOIZA AT DAMSITE NR TRUJILLO ALTO, PR- varGate opening, height, feet
+9/19/2013 9:53:35 PM::SiteRIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR
+9/19/2013 9:53:35 PM::Series: site RIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR- varPrecipitation, total, inches
+9/19/2013 9:53:35 PM::Series: site RIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR- varGage height, feet
+9/19/2013 9:53:35 PM::Series: site RIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:36 PM::SiteQUEBRADA GRANDE AT BO. DOS BOCAS, PR
+9/19/2013 9:53:36 PM::Series: site QUEBRADA GRANDE AT BO. DOS BOCAS, PR- varGage height, feet
+9/19/2013 9:53:36 PM::Series: site QUEBRADA GRANDE AT BO. DOS BOCAS, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:36 PM::SiteSt. Francis River near Connors, New Brunswick
+9/19/2013 9:53:36 PM::Series: site St. Francis River near Connors, New Brunswick- varGage height, feet
+9/19/2013 9:53:36 PM::Series: site St. Francis River near Connors, New Brunswick- varDischarge, cubic feet per second
+9/19/2013 9:53:36 PM::Site56G 57
+9/19/2013 9:53:36 PM::Series: site 56G 57- varDepth to water level, feet below land surface
+9/19/2013 9:53:36 PM::Site55H 20
+9/19/2013 9:53:36 PM::Series: site 55H 20- varDepth to water level, feet below land surface
+9/19/2013 9:53:37 PM::Site62G 15 SOW 121
+9/19/2013 9:53:37 PM::Series: site 62G 15 SOW 121- varDepth to water level, feet below land surface
+9/19/2013 9:53:37 PM::Site63H  6 SOW 103A
+9/19/2013 9:53:37 PM::Series: site 63H  6 SOW 103A- varDepth to water level, feet below land surface
+9/19/2013 9:53:37 PM::SiteFINE CREEK AT FINE CREEK MILLS, VA
+9/19/2013 9:53:37 PM::Series: site FINE CREEK AT FINE CREEK MILLS, VA- varGage height, feet
+9/19/2013 9:53:37 PM::Series: site FINE CREEK AT FINE CREEK MILLS, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:38 PM::SiteROANOKE RIVER AT GLENVAR, VA
+9/19/2013 9:53:38 PM::Series: site ROANOKE RIVER AT GLENVAR, VA- varGage height, feet
+9/19/2013 9:53:38 PM::Series: site ROANOKE RIVER AT GLENVAR, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:38 PM::SiteROANOKE RIVER AT NIAGARA, VA
+9/19/2013 9:53:38 PM::Series: site ROANOKE RIVER AT NIAGARA, VA- varGage height, feet
+9/19/2013 9:53:38 PM::Series: site ROANOKE RIVER AT NIAGARA, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:38 PM::SiteBACK CREEK NEAR DUNDEE, VA
+9/19/2013 9:53:38 PM::Series: site BACK CREEK NEAR DUNDEE, VA- varGage height, feet
+9/19/2013 9:53:38 PM::Series: site BACK CREEK NEAR DUNDEE, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:38 PM::SiteMAURY RIVER AT ROCKBRIDGE BATHS, VA
+9/19/2013 9:53:38 PM::Series: site MAURY RIVER AT ROCKBRIDGE BATHS, VA- varGage height, feet
+9/19/2013 9:53:38 PM::Series: site MAURY RIVER AT ROCKBRIDGE BATHS, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:39 PM::SiteKERRS CREEK NEAR LEXINGTON, VA
+9/19/2013 9:53:39 PM::Series: site KERRS CREEK NEAR LEXINGTON, VA- varGage height, feet
+9/19/2013 9:53:39 PM::Series: site KERRS CREEK NEAR LEXINGTON, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:39 PM::Site35K  1 SOW 063
+9/19/2013 9:53:39 PM::Series: site 35K  1 SOW 063- varDepth to water level, feet below land surface
+9/19/2013 9:53:39 PM::SiteCALFPASTURE RIVER ABOVE MILL CREEK AT GOSHEN, VA
+9/19/2013 9:53:39 PM::Series: site CALFPASTURE RIVER ABOVE MILL CREEK AT GOSHEN, VA- varGage height, feet
+9/19/2013 9:53:39 PM::Series: site CALFPASTURE RIVER ABOVE MILL CREEK AT GOSHEN, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:40 PM::SiteMAURY RIVER NEAR BUENA VISTA, VA
+9/19/2013 9:53:40 PM::Series: site MAURY RIVER NEAR BUENA VISTA, VA- varGage height, feet
+9/19/2013 9:53:40 PM::Series: site MAURY RIVER NEAR BUENA VISTA, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:40 PM::SiteM BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA
+9/19/2013 9:53:40 PM::Series: site M BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:40 PM::SiteS BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA
+9/19/2013 9:53:40 PM::Series: site S BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:41 PM::SiteAQUIA CREEK NEAR GARRISONVILLE, VA
+9/19/2013 9:53:41 PM::Series: site AQUIA CREEK NEAR GARRISONVILLE, VA- varGage height, feet
+9/19/2013 9:53:41 PM::Series: site AQUIA CREEK NEAR GARRISONVILLE, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:41 PM::SiteNEW RIVER AT IVANHOE, VA
+9/19/2013 9:53:41 PM::Series: site NEW RIVER AT IVANHOE, VA- varGage height, feet
+9/19/2013 9:53:41 PM::Series: site NEW RIVER AT IVANHOE, VA- varDischarge, cubic feet per second
+9/19/2013 9:53:41 PM::SiteBAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI
+9/19/2013 9:53:41 PM::Series: site BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI- varPrecipitation, total, inches
+9/19/2013 9:53:41 PM::Series: site BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI- varGage height, feet
+9/19/2013 9:53:41 PM::Series: site BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:41 PM::SiteDUCK CREEK NEAR HOWARD, WI
+9/19/2013 9:53:41 PM::Series: site DUCK CREEK NEAR HOWARD, WI- varGage height, feet
+9/19/2013 9:53:42 PM::Series: site DUCK CREEK NEAR HOWARD, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:42 PM::SiteGLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI
+9/19/2013 9:53:42 PM::Series: site GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI- varPrecipitation, total, inches
+9/19/2013 9:53:42 PM::Series: site GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI- varSoil temperature, degrees Fahrenheit
+9/19/2013 9:53:42 PM::Series: site GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI- varMoisture content, soil, volumetric, percent of total volume
+9/19/2013 9:53:42 PM::Series: site GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI- varGage height, feet
+9/19/2013 9:53:42 PM::Series: site GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:42 PM::SiteBEAVERDAM RIVER AT BEAVER DAM, WI
+9/19/2013 9:53:42 PM::Series: site BEAVERDAM RIVER AT BEAVER DAM, WI- varPrecipitation, total, inches
+9/19/2013 9:53:42 PM::Series: site BEAVERDAM RIVER AT BEAVER DAM, WI- varGage height, feet
+9/19/2013 9:53:42 PM::Series: site BEAVERDAM RIVER AT BEAVER DAM, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:43 PM::SiteDG-11/13E/23-0081
+9/19/2013 9:53:43 PM::Series: site DG-11/13E/23-0081- varDepth to water level, feet below land surface
+9/19/2013 9:53:43 PM::SiteROCK RIVER AT HORICON, WI
+9/19/2013 9:53:43 PM::Series: site ROCK RIVER AT HORICON, WI- varGage height, feet
+9/19/2013 9:53:43 PM::Series: site ROCK RIVER AT HORICON, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:43 PM::Series: site ROCK RIVER AT HORICON, WI- varStream velocity, feet per second
+9/19/2013 9:53:43 PM::Series: site ROCK RIVER AT HORICON, WI- varWater Science Center special 99907
+9/19/2013 9:53:43 PM::SiteEAST BRANCH ROCK RIVER NEAR MAYVILLE, WI
+9/19/2013 9:53:43 PM::Series: site EAST BRANCH ROCK RIVER NEAR MAYVILLE, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:44 PM::SiteWISCONSIN RIVER AT MUSCODA, WI
+9/19/2013 9:53:44 PM::Series: site WISCONSIN RIVER AT MUSCODA, WI- varPrecipitation, total, inches
+9/19/2013 9:53:44 PM::Series: site WISCONSIN RIVER AT MUSCODA, WI- varGage height, feet
+9/19/2013 9:53:44 PM::Series: site WISCONSIN RIVER AT MUSCODA, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:53:44 PM::Series: site WISCONSIN RIVER AT MUSCODA, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:44 PM::SiteGRANT RIVER AT BURTON, WI
+9/19/2013 9:53:44 PM::Series: site GRANT RIVER AT BURTON, WI- varPrecipitation, total, inches
+9/19/2013 9:53:44 PM::Series: site GRANT RIVER AT BURTON, WI- varGage height, feet
+9/19/2013 9:53:44 PM::Series: site GRANT RIVER AT BURTON, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:44 PM::SitePLATTE RIVER NEAR ROCKVILLE, WI
+9/19/2013 9:53:44 PM::Series: site PLATTE RIVER NEAR ROCKVILLE, WI- varPrecipitation, total, inches
+9/19/2013 9:53:44 PM::Series: site PLATTE RIVER NEAR ROCKVILLE, WI- varGage height, feet
+9/19/2013 9:53:45 PM::SiteMONTELLO RIVER NEAR MONTELLO, WI
+9/19/2013 9:53:45 PM::Series: site MONTELLO RIVER NEAR MONTELLO, WI- varDischarge, cubic feet per second
+9/19/2013 9:53:45 PM::SiteNF POWDER RIVER BELOW PASS CREEK, NR MAYOWORTH, WY
+9/19/2013 9:53:45 PM::Series: site NF POWDER RIVER BELOW PASS CREEK, NR MAYOWORTH, WY- varGage height, feet
+9/19/2013 9:53:45 PM::Series: site NF POWDER RIVER BELOW PASS CREEK, NR MAYOWORTH, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:45 PM::SitePOWDER RIVER ABOVE BURGER DRAW, NEAR BUFFALO, WY
+9/19/2013 9:53:45 PM::Series: site POWDER RIVER ABOVE BURGER DRAW, NEAR BUFFALO, WY- varGage height, feet
+9/19/2013 9:53:45 PM::Series: site POWDER RIVER ABOVE BURGER DRAW, NEAR BUFFALO, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:46 PM::SiteROCK CREEK NEAR BUFFALO, WY
+9/19/2013 9:53:46 PM::Series: site ROCK CREEK NEAR BUFFALO, WY- varGage height, feet
+9/19/2013 9:53:46 PM::Series: site ROCK CREEK NEAR BUFFALO, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:46 PM::SiteCRAZY WOMAN CREEK AT UPPER STA, NEAR ARVADA, WY
+9/19/2013 9:53:46 PM::Series: site CRAZY WOMAN CREEK AT UPPER STA, NEAR ARVADA, WY- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:46 PM::Series: site CRAZY WOMAN CREEK AT UPPER STA, NEAR ARVADA, WY- varTemperature, water, degrees Celsius
+9/19/2013 9:53:46 PM::Series: site CRAZY WOMAN CREEK AT UPPER STA, NEAR ARVADA, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:46 PM::Series: site CRAZY WOMAN CREEK AT UPPER STA, NEAR ARVADA, WY- varSodium adsorption ratio, water, unfiltered, estimated by regression equation, number
+9/19/2013 9:53:46 PM::SiteNORTH FORK POWDER RIVER NEAR HAZELTON, WY
+9/19/2013 9:53:46 PM::Series: site NORTH FORK POWDER RIVER NEAR HAZELTON, WY- varGage height, feet
+9/19/2013 9:53:46 PM::Series: site NORTH FORK POWDER RIVER NEAR HAZELTON, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:47 PM::SitePOWDER RIVER AT SUSSEX, WY
+9/19/2013 9:53:47 PM::Series: site POWDER RIVER AT SUSSEX, WY- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:47 PM::Series: site POWDER RIVER AT SUSSEX, WY- varGage height, feet
+9/19/2013 9:53:47 PM::Series: site POWDER RIVER AT SUSSEX, WY- varTemperature, water, degrees Celsius
+9/19/2013 9:53:47 PM::Series: site POWDER RIVER AT SUSSEX, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:47 PM::Series: site POWDER RIVER AT SUSSEX, WY- varSodium adsorption ratio, water, unfiltered, estimated by regression equation, number
+9/19/2013 9:53:47 PM::SiteSOUTH PINEY CREEK AT WILLOW PARK, WY
+9/19/2013 9:53:47 PM::Series: site SOUTH PINEY CREEK AT WILLOW PARK, WY- varGage height, feet
+9/19/2013 9:53:47 PM::Series: site SOUTH PINEY CREEK AT WILLOW PARK, WY- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:47 PM::Series: site SOUTH PINEY CREEK AT WILLOW PARK, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:47 PM::SitePINEY CREEK AT KEARNY, WY
+9/19/2013 9:53:47 PM::Series: site PINEY CREEK AT KEARNY, WY- varGage height, feet
+9/19/2013 9:53:47 PM::Series: site PINEY CREEK AT KEARNY, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:48 PM::SiteGREEN RIVER NEAR GREEN RIVER, WY
+9/19/2013 9:53:48 PM::Series: site GREEN RIVER NEAR GREEN RIVER, WY- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:48 PM::Series: site GREEN RIVER NEAR GREEN RIVER, WY- varGage height, feet
+9/19/2013 9:53:48 PM::Series: site GREEN RIVER NEAR GREEN RIVER, WY- varTemperature, water, degrees Celsius
+9/19/2013 9:53:48 PM::Series: site GREEN RIVER NEAR GREEN RIVER, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:48 PM::Series: site GREEN RIVER NEAR GREEN RIVER, WY- varResidue, dissolved, water, filtered, estimated by regression equation, milligrams per liter
+9/19/2013 9:53:48 PM::SiteBLACKS FORK NEAR LITTLE AMERICA, WY
+9/19/2013 9:53:48 PM::Series: site BLACKS FORK NEAR LITTLE AMERICA, WY- varGage height, feet
+9/19/2013 9:53:48 PM::Series: site BLACKS FORK NEAR LITTLE AMERICA, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:49 PM::SiteHENRYS FORK NEAR MANILA, UT
+9/19/2013 9:53:49 PM::Series: site HENRYS FORK NEAR MANILA, UT- varPrecipitation, total, inches
+9/19/2013 9:53:49 PM::Series: site HENRYS FORK NEAR MANILA, UT- varGage height, feet
+9/19/2013 9:53:49 PM::Series: site HENRYS FORK NEAR MANILA, UT- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:49 PM::Series: site HENRYS FORK NEAR MANILA, UT- varDischarge, cubic feet per second
+9/19/2013 9:53:49 PM::SiteBIG SANDY RESERVOIR NEAR FARSON, WY
+9/19/2013 9:53:49 PM::Series: site BIG SANDY RESERVOIR NEAR FARSON, WY- varElevation above NGVD 1929, feet
+9/19/2013 9:53:49 PM::SiteGREEN RIVER BELOW FONTENELLE RESERVOIR, WY
+9/19/2013 9:53:49 PM::Series: site GREEN RIVER BELOW FONTENELLE RESERVOIR, WY- varGage height, feet
+9/19/2013 9:53:49 PM::Series: site GREEN RIVER BELOW FONTENELLE RESERVOIR, WY- varDischarge, cubic feet per second
+9/19/2013 9:53:50 PM::Site19-105-10bbb01  Rock Springs
+9/19/2013 9:53:50 PM::Series: site 19-105-10bbb01  Rock Springs- varDepth to water level, feet below land surface
+9/19/2013 9:53:50 PM::SiteRAINGAGE AT BO. JAJOME, CAYEY, PR
+9/19/2013 9:53:50 PM::Series: site RAINGAGE AT BO. JAJOME, CAYEY, PR- varPrecipitation, total, inches
+9/19/2013 9:53:50 PM::SiteLAGO FAJARDO NEAR VAPOR, PR
+9/19/2013 9:53:50 PM::Series: site LAGO FAJARDO NEAR VAPOR, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:50 PM::Series: site LAGO FAJARDO NEAR VAPOR, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:51 PM::SitePARAISO RAINGAGE, FAJARDO, PR
+9/19/2013 9:53:51 PM::Series: site PARAISO RAINGAGE, FAJARDO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:51 PM::SiteRIO FAJARDO NR FAJARDO, PR
+9/19/2013 9:53:51 PM::Series: site RIO FAJARDO NR FAJARDO, PR- varGage height, feet
+9/19/2013 9:53:51 PM::Series: site RIO FAJARDO NR FAJARDO, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:51 PM::SiteRIO FAJARDO AT PARAISO NR FAJARDO, PR
+9/19/2013 9:53:51 PM::Series: site RIO FAJARDO AT PARAISO NR FAJARDO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:51 PM::Series: site RIO FAJARDO AT PARAISO NR FAJARDO, PR- varGage height, feet
+9/19/2013 9:53:51 PM::Series: site RIO FAJARDO AT PARAISO NR FAJARDO, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:52 PM::SiteBO RIO BLANCO RAINGAGE, NAGUABO, PR
+9/19/2013 9:53:52 PM::Series: site BO RIO BLANCO RAINGAGE, NAGUABO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:52 PM::SiteRIO BLANCO NR FLORIDA, PR
+9/19/2013 9:53:52 PM::Series: site RIO BLANCO NR FLORIDA, PR- varGage height, feet
+9/19/2013 9:53:52 PM::Series: site RIO BLANCO NR FLORIDA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:52 PM::SitePIEZOMETER CA-1, NAGUABO, PR
+9/19/2013 9:53:52 PM::Series: site PIEZOMETER CA-1, NAGUABO, PR- varDepth to water level, feet below land surface
+9/19/2013 9:53:52 PM::SiteLAGO BLANCO NEAR NAGUABO, PR
+9/19/2013 9:53:52 PM::Series: site LAGO BLANCO NEAR NAGUABO, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:52 PM::Series: site LAGO BLANCO NEAR NAGUABO, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:52 PM::Series: site LAGO BLANCO NEAR NAGUABO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:53 PM::SiteLAGO ICACOS AT DAMSITE, PR
+9/19/2013 9:53:53 PM::Series: site LAGO ICACOS AT DAMSITE, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:53 PM::Series: site LAGO ICACOS AT DAMSITE, PR- varPrecipitation, total, inches
+9/19/2013 9:53:53 PM::Series: site LAGO ICACOS AT DAMSITE, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:53 PM::Series: site LAGO ICACOS AT DAMSITE, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:53 PM::SiteRIO ICACOS NR NAGUABO, PR
+9/19/2013 9:53:53 PM::Series: site RIO ICACOS NR NAGUABO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:53 PM::Series: site RIO ICACOS NR NAGUABO, PR- varGage height, feet
+9/19/2013 9:53:53 PM::Series: site RIO ICACOS NR NAGUABO, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:53 PM::SiteRIO MAMEYES NR SABANA, PR
+9/19/2013 9:53:53 PM::Series: site RIO MAMEYES NR SABANA, PR- varGage height, feet
+9/19/2013 9:53:53 PM::Series: site RIO MAMEYES NR SABANA, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:54 PM::SiteRIO GRANDE NR EL VERDE, PR
+9/19/2013 9:53:54 PM::Series: site RIO GRANDE NR EL VERDE, PR- varPrecipitation, total, inches
+9/19/2013 9:53:54 PM::Series: site RIO GRANDE NR EL VERDE, PR- varGage height, feet
+9/19/2013 9:53:54 PM::Series: site RIO GRANDE NR EL VERDE, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:54 PM::SiteRIO ESPIRITU SANTO NR RIO GRANDE, PR
+9/19/2013 9:53:54 PM::Series: site RIO ESPIRITU SANTO NR RIO GRANDE, PR- varPrecipitation, total, inches
+9/19/2013 9:53:54 PM::Series: site RIO ESPIRITU SANTO NR RIO GRANDE, PR- varGage height, feet
+9/19/2013 9:53:54 PM::Series: site RIO ESPIRITU SANTO NR RIO GRANDE, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:54 PM::SiteMETEOROLOGICAL STATION AT BISLEY, PR
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varPrecipitation, total, inches
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varTotal solar radiation (direct + diffuse radiation on a horizontal surface), watts per square meter
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varBarometric pressure, millimeters of mercury
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varWind direction, degrees clockwise from true north
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varWind speed, miles per hour
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:53:54 PM::Series: site METEOROLOGICAL STATION AT BISLEY, PR- varRelative humidity, percent
+9/19/2013 9:53:55 PM::SiteQUEBRADA SONADORA NR EL VERDE, PR
+9/19/2013 9:53:55 PM::Series: site QUEBRADA SONADORA NR EL VERDE, PR- varGage height, feet
+9/19/2013 9:53:55 PM::Series: site QUEBRADA SONADORA NR EL VERDE, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:55 PM::SiteLEVITTOWN LAKE 8, TOA BAJA, PR
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varPrecipitation, total, inches
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varTemperature, water, degrees Celsius
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varAltitude, feet above mean sea level
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varGage height, feet
+9/19/2013 9:53:55 PM::Series: site LEVITTOWN LAKE 8, TOA BAJA, PR- varSalinity, water, unfiltered, parts per thousand
+9/19/2013 9:53:56 PM::SiteLAGO LUCCHETTI AT DAMSITE NR YAUCO, PR
+9/19/2013 9:53:56 PM::Series: site LAGO LUCCHETTI AT DAMSITE NR YAUCO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:56 PM::Series: site LAGO LUCCHETTI AT DAMSITE NR YAUCO, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:56 PM::Series: site LAGO LUCCHETTI AT DAMSITE NR YAUCO, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:56 PM::SiteCANAL DE RIEGO DE LAJAS BLW LAGO LOCO DAM YAUCO PR
+9/19/2013 9:53:56 PM::Series: site CANAL DE RIEGO DE LAJAS BLW LAGO LOCO DAM YAUCO PR- varGage height, feet
+9/19/2013 9:53:56 PM::Series: site CANAL DE RIEGO DE LAJAS BLW LAGO LOCO DAM YAUCO PR- varDischarge, cubic feet per second
+9/19/2013 9:53:56 PM::SiteRIO YAUCO ABV DIVERSION MONSERRATE NR YAUCO, PR
+9/19/2013 9:53:56 PM::Series: site RIO YAUCO ABV DIVERSION MONSERRATE NR YAUCO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:56 PM::Series: site RIO YAUCO ABV DIVERSION MONSERRATE NR YAUCO, PR- varGage height, feet
+9/19/2013 9:53:56 PM::Series: site RIO YAUCO ABV DIVERSION MONSERRATE NR YAUCO, PR- varDischarge, cubic feet per second
+9/19/2013 9:53:57 PM::SiteLAGO LOCO AT DAMSITE NR YAUCO, PR
+9/19/2013 9:53:57 PM::Series: site LAGO LOCO AT DAMSITE NR YAUCO, PR- varPrecipitation, total, inches
+9/19/2013 9:53:57 PM::Series: site LAGO LOCO AT DAMSITE NR YAUCO, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:53:57 PM::Series: site LAGO LOCO AT DAMSITE NR YAUCO, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:53:57 PM::SiteLATERAL M22L, CANAL DE RIEGO LAJAS, SABANA GRANDE
+9/19/2013 9:53:57 PM::Series: site LATERAL M22L, CANAL DE RIEGO LAJAS, SABANA GRANDE- varGage height, feet
+9/19/2013 9:53:57 PM::Series: site LATERAL M22L, CANAL DE RIEGO LAJAS, SABANA GRANDE- varDischarge, cubic feet per second
+9/19/2013 9:53:57 PM::SiteLATERAL M5L, CANAL DE RIEGO DE LAJAS SABANA GRANDE
+9/19/2013 9:53:57 PM::Series: site LATERAL M5L, CANAL DE RIEGO DE LAJAS SABANA GRANDE- varGage height, feet
+9/19/2013 9:53:57 PM::Series: site LATERAL M5L, CANAL DE RIEGO DE LAJAS SABANA GRANDE- varDischarge, cubic feet per second
+9/19/2013 9:53:58 PM::SiteLATERAL M33L CANAL DE RIEGO DE LAJAS SABANA GRANDE
+9/19/2013 9:53:58 PM::Series: site LATERAL M33L CANAL DE RIEGO DE LAJAS SABANA GRANDE- varGage height, feet
+9/19/2013 9:53:58 PM::Series: site LATERAL M33L CANAL DE RIEGO DE LAJAS SABANA GRANDE- varDischarge, cubic feet per second
+9/19/2013 9:53:58 PM::SiteLk Daniel nr Breckenridge, TX
+9/19/2013 9:53:58 PM::Series: site Lk Daniel nr Breckenridge, TX- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:53:58 PM::SiteBig Sandy Ck abv Breckenridge, TX
+9/19/2013 9:53:58 PM::Series: site Big Sandy Ck abv Breckenridge, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:53:58 PM::Series: site Big Sandy Ck abv Breckenridge, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:53:58 PM::Series: site Big Sandy Ck abv Breckenridge, TX- varGage height, feet
+9/19/2013 9:53:58 PM::Series: site Big Sandy Ck abv Breckenridge, TX- varDischarge, cubic feet per second
+9/19/2013 9:53:59 PM::SiteHubbard Ck Res nr Breckenridge, TX
+9/19/2013 9:53:59 PM::Series: site Hubbard Ck Res nr Breckenridge, TX- varPrecipitation, total, inches
+9/19/2013 9:53:59 PM::Series: site Hubbard Ck Res nr Breckenridge, TX- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:53:59 PM::SiteSulphur Spgs Draw nr Wellman, TX
+9/19/2013 9:53:59 PM::Series: site Sulphur Spgs Draw nr Wellman, TX- varPrecipitation, total, inches
+9/19/2013 9:53:59 PM::Series: site Sulphur Spgs Draw nr Wellman, TX- varGage height, feet
+9/19/2013 9:53:59 PM::SiteMillers Ck nr Munday, TX
+9/19/2013 9:53:59 PM::Series: site Millers Ck nr Munday, TX- varGage height, feet
+9/19/2013 9:53:59 PM::Series: site Millers Ck nr Munday, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:00 PM::SiteBig Sandy Ck nr Bridgeport, TX
+9/19/2013 9:54:00 PM::Series: site Big Sandy Ck nr Bridgeport, TX- varPrecipitation, total, inches
+9/19/2013 9:54:00 PM::Series: site Big Sandy Ck nr Bridgeport, TX- varGage height, feet
+9/19/2013 9:54:00 PM::Series: site Big Sandy Ck nr Bridgeport, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:00 PM::SiteW Fk Trinity Rv nr Boyd, TX
+9/19/2013 9:54:00 PM::Series: site W Fk Trinity Rv nr Boyd, TX- varPrecipitation, total, inches
+9/19/2013 9:54:00 PM::Series: site W Fk Trinity Rv nr Boyd, TX- varGage height, feet
+9/19/2013 9:54:00 PM::Series: site W Fk Trinity Rv nr Boyd, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:00 PM::SiteBridgeport Res abv Bridgeport, TX
+9/19/2013 9:54:00 PM::Series: site Bridgeport Res abv Bridgeport, TX- varPrecipitation, total, inches
+9/19/2013 9:54:00 PM::Series: site Bridgeport Res abv Bridgeport, TX- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:54:01 PM::Series: site Bridgeport Res abv Bridgeport, TX- varReservoir storage, acre feet
+9/19/2013 9:54:01 PM::SiteMUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT
+9/19/2013 9:54:01 PM::Series: site MUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT- varGage height, feet
+9/19/2013 9:54:01 PM::Series: site MUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:01 PM::SiteFISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT
+9/19/2013 9:54:01 PM::Series: site FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT- varGage height, feet
+9/19/2013 9:54:01 PM::Series: site FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:01 PM::SiteSALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT
+9/19/2013 9:54:01 PM::Series: site SALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT- varGage height, feet
+9/19/2013 9:54:01 PM::Series: site SALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:02 PM::SiteCURRANT CREEK NEAR MONA, UT
+9/19/2013 9:54:02 PM::Series: site CURRANT CREEK NEAR MONA, UT- varGage height, feet
+9/19/2013 9:54:02 PM::Series: site CURRANT CREEK NEAR MONA, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:02 PM::SiteTROUT CREEK NEAR CALLAO, UT
+9/19/2013 9:54:02 PM::Series: site TROUT CREEK NEAR CALLAO, UT- varGage height, feet
+9/19/2013 9:54:02 PM::Series: site TROUT CREEK NEAR CALLAO, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:02 PM::SiteSEVIER RIVER NEAR JUAB, UT
+9/19/2013 9:54:02 PM::Series: site SEVIER RIVER NEAR JUAB, UT- varGage height, feet
+9/19/2013 9:54:02 PM::Series: site SEVIER RIVER NEAR JUAB, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:03 PM::Site (C-13-18)33ddc- 1
+9/19/2013 9:54:03 PM::Series: site  (C-13-18)33ddc- 1- varDepth to water level, feet below land surface
+9/19/2013 9:54:03 PM::SiteSALT CREEK AT NEPHI, UT
+9/19/2013 9:54:03 PM::Series: site SALT CREEK AT NEPHI, UT- varGage height, feet
+9/19/2013 9:54:03 PM::Series: site SALT CREEK AT NEPHI, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:03 PM::SiteGRANITE CREEK NEAR CALLAO, UT
+9/19/2013 9:54:03 PM::Series: site GRANITE CREEK NEAR CALLAO, UT- varGage height, feet
+9/19/2013 9:54:03 PM::Series: site GRANITE CREEK NEAR CALLAO, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:04 PM::SiteFREMONT RIVER NEAR BICKNELL, UT
+9/19/2013 9:54:04 PM::Series: site FREMONT RIVER NEAR BICKNELL, UT- varGage height, feet
+9/19/2013 9:54:04 PM::Series: site FREMONT RIVER NEAR BICKNELL, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:04 PM::SiteOGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT
+9/19/2013 9:54:04 PM::Series: site OGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT- varGage height, feet
+9/19/2013 9:54:04 PM::Series: site OGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:04 PM::SiteWEBER RIVER NEAR PLAIN CITY, UT
+9/19/2013 9:54:04 PM::Series: site WEBER RIVER NEAR PLAIN CITY, UT- varGage height, feet
+9/19/2013 9:54:04 PM::Series: site WEBER RIVER NEAR PLAIN CITY, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:04 PM::SiteSOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT
+9/19/2013 9:54:04 PM::Series: site SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT- varGage height, feet
+9/19/2013 9:54:04 PM::Series: site SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:05 PM::SiteOGDEN RIVER BL PINEVIEW RES NR HUNTSVILLE, UT
+9/19/2013 9:54:05 PM::Series: site OGDEN RIVER BL PINEVIEW RES NR HUNTSVILLE, UT- varGage height, feet
+9/19/2013 9:54:05 PM::Series: site OGDEN RIVER BL PINEVIEW RES NR HUNTSVILLE, UT- varDischarge, cubic feet per second
+9/19/2013 9:54:05 PM::SiteMUD CREEK AT BEAR MOUNTAIN RD, NEAR NORTH TROY, VT
+9/19/2013 9:54:05 PM::Series: site MUD CREEK AT BEAR MOUNTAIN RD, NEAR NORTH TROY, VT- varPrecipitation, total, inches
+9/19/2013 9:54:05 PM::Series: site MUD CREEK AT BEAR MOUNTAIN RD, NEAR NORTH TROY, VT- varGage height, feet
+9/19/2013 9:54:05 PM::Series: site MUD CREEK AT BEAR MOUNTAIN RD, NEAR NORTH TROY, VT- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:05 PM::Series: site MUD CREEK AT BEAR MOUNTAIN RD, NEAR NORTH TROY, VT- varDischarge, cubic feet per second
+9/19/2013 9:54:05 PM::SiteLAKE MEMPHREMAGOG AT NEWPORT, VT
+9/19/2013 9:54:05 PM::Series: site LAKE MEMPHREMAGOG AT NEWPORT, VT- varGage height, feet
+9/19/2013 9:54:06 PM::SiteCLYDE RIVER AT NEWPORT, VT
+9/19/2013 9:54:06 PM::Series: site CLYDE RIVER AT NEWPORT, VT- varGage height, feet
+9/19/2013 9:54:06 PM::Series: site CLYDE RIVER AT NEWPORT, VT- varDischarge, cubic feet per second
+9/19/2013 9:54:06 PM::SiteGENEVA LAKE AT LAKE GENEVA, WI
+9/19/2013 9:54:06 PM::Series: site GENEVA LAKE AT LAKE GENEVA, WI- varLake or reservoir water surface elevation above NAVD 1988, feet
+9/19/2013 9:54:06 PM::Series: site GENEVA LAKE AT LAKE GENEVA, WI- varGage height, feet
+9/19/2013 9:54:07 PM::SiteNORTH BRANCH NIPPERSINK CREEK AT GENOA CITY, WI
+9/19/2013 9:54:07 PM::Series: site NORTH BRANCH NIPPERSINK CREEK AT GENOA CITY, WI- varGage height, feet
+9/19/2013 9:54:07 PM::Series: site NORTH BRANCH NIPPERSINK CREEK AT GENOA CITY, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:07 PM::SitePISCASAW CREEK NEAR WALWORTH, WI
+9/19/2013 9:54:07 PM::Series: site PISCASAW CREEK NEAR WALWORTH, WI- varGage height, feet
+9/19/2013 9:54:07 PM::Series: site PISCASAW CREEK NEAR WALWORTH, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:07 PM::SiteWHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI
+9/19/2013 9:54:07 PM::Series: site WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI- varStream water level elevation above NAVD 1988, in feet
+9/19/2013 9:54:07 PM::Series: site WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI- varGage height, feet
+9/19/2013 9:54:08 PM::Series: site WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:08 PM::SiteTENMILE CREEK NEAR NEKOOSA, WI
+9/19/2013 9:54:08 PM::Series: site TENMILE CREEK NEAR NEKOOSA, WI- varGage height, feet
+9/19/2013 9:54:08 PM::Series: site TENMILE CREEK NEAR NEKOOSA, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:08 PM::SiteYELLOW RIVER AT BABCOCK, WI
+9/19/2013 9:54:08 PM::Series: site YELLOW RIVER AT BABCOCK, WI- varPrecipitation, total, inches
+9/19/2013 9:54:08 PM::Series: site YELLOW RIVER AT BABCOCK, WI- varGage height, feet
+9/19/2013 9:54:08 PM::Series: site YELLOW RIVER AT BABCOCK, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:08 PM::SiteLAGO EL GUINEO AT DAMSITE NR VILLALBA, PR
+9/19/2013 9:54:08 PM::Series: site LAGO EL GUINEO AT DAMSITE NR VILLALBA, PR- varPrecipitation, total, inches
+9/19/2013 9:54:08 PM::Series: site LAGO EL GUINEO AT DAMSITE NR VILLALBA, PR- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:54:08 PM::Series: site LAGO EL GUINEO AT DAMSITE NR VILLALBA, PR- varLake or reservoir water surface elevation above NGVD 1929, meters
+9/19/2013 9:54:09 PM::SiteRIO DE BAYAMON NR BAYAMON, PR
+9/19/2013 9:54:09 PM::Series: site RIO DE BAYAMON NR BAYAMON, PR- varPrecipitation, total, inches
+9/19/2013 9:54:09 PM::Series: site RIO DE BAYAMON NR BAYAMON, PR- varGage height, feet
+9/19/2013 9:54:09 PM::Series: site RIO DE BAYAMON NR BAYAMON, PR- varDischarge, cubic feet per second
+9/19/2013 9:54:09 PM::SiteCANAL DE MOCA ABV LAGO REGULADOR (E13) ISABELA, PR
+9/19/2013 9:54:09 PM::Series: site CANAL DE MOCA ABV LAGO REGULADOR (E13) ISABELA, PR- varGage height, feet
+9/19/2013 9:54:09 PM::Series: site CANAL DE MOCA ABV LAGO REGULADOR (E13) ISABELA, PR- varDischarge, cubic feet per second
+9/19/2013 9:54:09 PM::SiteBig Elm Ck at SH 77 nr Cameron, TX
+9/19/2013 9:54:09 PM::Series: site Big Elm Ck at SH 77 nr Cameron, TX- varGage height, feet
+9/19/2013 9:54:09 PM::Series: site Big Elm Ck at SH 77 nr Cameron, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:10 PM::SiteLittle Rv nr Rockdale, TX
+9/19/2013 9:54:10 PM::Series: site Little Rv nr Rockdale, TX- varGage height, feet
+9/19/2013 9:54:10 PM::Series: site Little Rv nr Rockdale, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:10 PM::SiteLittle Pond Ck nr Burlington, TX
+9/19/2013 9:54:10 PM::Series: site Little Pond Ck nr Burlington, TX- varGage height, feet
+9/19/2013 9:54:10 PM::Series: site Little Pond Ck nr Burlington, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:10 PM::SiteN Concho Rv abv Sterling City, TX
+9/19/2013 9:54:10 PM::Series: site N Concho Rv abv Sterling City, TX- varGage height, feet
+9/19/2013 9:54:11 PM::Series: site N Concho Rv abv Sterling City, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:11 PM::SiteN Concho Rv at Sterling City, TX
+9/19/2013 9:54:11 PM::Series: site N Concho Rv at Sterling City, TX- varGage height, feet
+9/19/2013 9:54:11 PM::SiteYP-69-51-606 (E. Uvalde 3)
+9/19/2013 9:54:11 PM::Series: site YP-69-51-606 (E. Uvalde 3)- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:11 PM::Series: site YP-69-51-606 (E. Uvalde 3)- varDepth to water level, feet below land surface
+9/19/2013 9:54:11 PM::Series: site YP-69-51-606 (E. Uvalde 3)- varTemperature, water, degrees Celsius
+9/19/2013 9:54:12 PM::SiteSabinal Rv at Sabinal, TX
+9/19/2013 9:54:12 PM::Series: site Sabinal Rv at Sabinal, TX- varGage height, feet
+9/19/2013 9:54:12 PM::Series: site Sabinal Rv at Sabinal, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:12 PM::SiteBlanco Ck at SH 127 nr Concan, TX
+9/19/2013 9:54:12 PM::Series: site Blanco Ck at SH 127 nr Concan, TX- varPrecipitation, total, inches
+9/19/2013 9:54:12 PM::Series: site Blanco Ck at SH 127 nr Concan, TX- varGage height, feet
+9/19/2013 9:54:12 PM::SiteCEDAR RUN NEAR CATLETT, VA
+9/19/2013 9:54:12 PM::Series: site CEDAR RUN NEAR CATLETT, VA- varGage height, feet
+9/19/2013 9:54:12 PM::Series: site CEDAR RUN NEAR CATLETT, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:12 PM::SiteDRAGON SWAMP AT MASCOT, VA
+9/19/2013 9:54:12 PM::Series: site DRAGON SWAMP AT MASCOT, VA- varGage height, feet
+9/19/2013 9:54:12 PM::Series: site DRAGON SWAMP AT MASCOT, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:13 PM::SiteBUFFALO CREEK NEAR HAMPDEN SYDNEY, VA
+9/19/2013 9:54:13 PM::Series: site BUFFALO CREEK NEAR HAMPDEN SYDNEY, VA- varGage height, feet
+9/19/2013 9:54:13 PM::Series: site BUFFALO CREEK NEAR HAMPDEN SYDNEY, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:13 PM::SiteCHESTNUT CREEK AT GALAX, VA
+9/19/2013 9:54:13 PM::Series: site CHESTNUT CREEK AT GALAX, VA- varGage height, feet
+9/19/2013 9:54:13 PM::Series: site CHESTNUT CREEK AT GALAX, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:13 PM::SiteMASHEL RIVER NEAR LA GRANDE, WA
+9/19/2013 9:54:13 PM::Series: site MASHEL RIVER NEAR LA GRANDE, WA- varGage height, feet
+9/19/2013 9:54:13 PM::Series: site MASHEL RIVER NEAR LA GRANDE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:14 PM::SitePUYALLUP RIVER AT ALDERTON, WA
+9/19/2013 9:54:14 PM::Series: site PUYALLUP RIVER AT ALDERTON, WA- varGage height, feet
+9/19/2013 9:54:14 PM::Series: site PUYALLUP RIVER AT ALDERTON, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:14 PM::SiteSWAN CREEK AT 80TH ST EAST NEAR TACOMA, WA
+9/19/2013 9:54:14 PM::Series: site SWAN CREEK AT 80TH ST EAST NEAR TACOMA, WA- varGage height, feet
+9/19/2013 9:54:14 PM::Series: site SWAN CREEK AT 80TH ST EAST NEAR TACOMA, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:14 PM::SiteSOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA
+9/19/2013 9:54:14 PM::Series: site SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA- varPrecipitation, total, inches
+9/19/2013 9:54:15 PM::Series: site SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA- varTemperature, air, degrees Celsius
+9/19/2013 9:54:15 PM::Series: site SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:15 PM::Series: site SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA- varGage height, feet
+9/19/2013 9:54:15 PM::Series: site SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:15 PM::SitePUYALLUP RIVER NEAR ORTING, WA
+9/19/2013 9:54:15 PM::Series: site PUYALLUP RIVER NEAR ORTING, WA- varGage height, feet
+9/19/2013 9:54:15 PM::Series: site PUYALLUP RIVER NEAR ORTING, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:15 PM::SitePUYALLUP RIVER AT 5TH ST BRIDGE AT PUYALLUP, WA
+9/19/2013 9:54:15 PM::Series: site PUYALLUP RIVER AT 5TH ST BRIDGE AT PUYALLUP, WA- varGage height, feet
+9/19/2013 9:54:15 PM::Series: site PUYALLUP RIVER AT 5TH ST BRIDGE AT PUYALLUP, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:16 PM::SiteHUCKLEBERRY CREEK NEAR GREENWATER, WA
+9/19/2013 9:54:16 PM::Series: site HUCKLEBERRY CREEK NEAR GREENWATER, WA- varGage height, feet
+9/19/2013 9:54:16 PM::Series: site HUCKLEBERRY CREEK NEAR GREENWATER, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:16 PM::SiteNISQUALLY RIVER AT LA GRANDE, WA
+9/19/2013 9:54:16 PM::Series: site NISQUALLY RIVER AT LA GRANDE, WA- varGage height, feet
+9/19/2013 9:54:16 PM::Series: site NISQUALLY RIVER AT LA GRANDE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:16 PM::SiteNISQUALLY RIVER AT LA GRANDE DAM, WA
+9/19/2013 9:54:16 PM::Series: site NISQUALLY RIVER AT LA GRANDE DAM, WA- varGage height, feet
+9/19/2013 9:54:16 PM::Series: site NISQUALLY RIVER AT LA GRANDE DAM, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:17 PM::SiteNORTH FORK CLOVER CREEK NEAR PARKLAND, WA
+9/19/2013 9:54:17 PM::Series: site NORTH FORK CLOVER CREEK NEAR PARKLAND, WA- varGage height, feet
+9/19/2013 9:54:17 PM::Series: site NORTH FORK CLOVER CREEK NEAR PARKLAND, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:17 PM::SitePUYALLUP RIVER NEAR ELECTRON, WA
+9/19/2013 9:54:17 PM::Series: site PUYALLUP RIVER NEAR ELECTRON, WA- varPrecipitation, total, inches
+9/19/2013 9:54:17 PM::Series: site PUYALLUP RIVER NEAR ELECTRON, WA- varGage height, feet
+9/19/2013 9:54:17 PM::Series: site PUYALLUP RIVER NEAR ELECTRON, WA- varTemperature, air, degrees Celsius
+9/19/2013 9:54:17 PM::Series: site PUYALLUP RIVER NEAR ELECTRON, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:17 PM::Series: site PUYALLUP RIVER NEAR ELECTRON, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:17 PM::SiteCARBON RIVER NEAR FAIRFAX, WA
+9/19/2013 9:54:17 PM::Series: site CARBON RIVER NEAR FAIRFAX, WA- varPrecipitation, total, inches
+9/19/2013 9:54:17 PM::Series: site CARBON RIVER NEAR FAIRFAX, WA- varGage height, feet
+9/19/2013 9:54:17 PM::Series: site CARBON RIVER NEAR FAIRFAX, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:17 PM::Series: site CARBON RIVER NEAR FAIRFAX, WA- varTemperature, air, degrees Celsius
+9/19/2013 9:54:17 PM::Series: site CARBON RIVER NEAR FAIRFAX, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:18 PM::SitePUYALLUP RIVER AT E MAIN BRIDGE AT PUYALLUP, WA
+9/19/2013 9:54:18 PM::Series: site PUYALLUP RIVER AT E MAIN BRIDGE AT PUYALLUP, WA- varGage height, feet
+9/19/2013 9:54:18 PM::Series: site PUYALLUP RIVER AT E MAIN BRIDGE AT PUYALLUP, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:18 PM::SiteWHITE RIVER FLUME AT BUCKLEY, WA
+9/19/2013 9:54:18 PM::Series: site WHITE RIVER FLUME AT BUCKLEY, WA- varGage height, feet
+9/19/2013 9:54:18 PM::Series: site WHITE RIVER FLUME AT BUCKLEY, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:18 PM::SitePUYALLUP RIVER AT PUYALLUP, WA
+9/19/2013 9:54:18 PM::Series: site PUYALLUP RIVER AT PUYALLUP, WA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:18 PM::Series: site PUYALLUP RIVER AT PUYALLUP, WA- varGage height, feet
+9/19/2013 9:54:18 PM::Series: site PUYALLUP RIVER AT PUYALLUP, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:19 PM::SiteNISQUALLY RIVER NEAR NATIONAL, WA
+9/19/2013 9:54:19 PM::Series: site NISQUALLY RIVER NEAR NATIONAL, WA- varPrecipitation, total, inches
+9/19/2013 9:54:19 PM::Series: site NISQUALLY RIVER NEAR NATIONAL, WA- varGage height, feet
+9/19/2013 9:54:19 PM::Series: site NISQUALLY RIVER NEAR NATIONAL, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:19 PM::Series: site NISQUALLY RIVER NEAR NATIONAL, WA- varTemperature, air, degrees Celsius
+9/19/2013 9:54:19 PM::Series: site NISQUALLY RIVER NEAR NATIONAL, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:19 PM::SiteLAKE TAPPS DIVERSION AT DIERINGER, WA
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varGage height, feet
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:19 PM::Series: site LAKE TAPPS DIVERSION AT DIERINGER, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:19 PM::SiteCLOVER CREEK NEAR TILLICUM, WA
+9/19/2013 9:54:19 PM::Series: site CLOVER CREEK NEAR TILLICUM, WA- varGage height, feet
+9/19/2013 9:54:19 PM::Series: site CLOVER CREEK NEAR TILLICUM, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:20 PM::SiteCHAMBERS CREEK BL LEACH CREEK NEAR STEILACOOM, WA
+9/19/2013 9:54:20 PM::Series: site CHAMBERS CREEK BL LEACH CREEK NEAR STEILACOOM, WA- varGage height, feet
+9/19/2013 9:54:20 PM::Series: site CHAMBERS CREEK BL LEACH CREEK NEAR STEILACOOM, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:20 PM::SiteGREENWATER RIVER AT GREENWATER, WA
+9/19/2013 9:54:20 PM::Series: site GREENWATER RIVER AT GREENWATER, WA- varPrecipitation, total, inches
+9/19/2013 9:54:20 PM::Series: site GREENWATER RIVER AT GREENWATER, WA- varGage height, feet
+9/19/2013 9:54:20 PM::Series: site GREENWATER RIVER AT GREENWATER, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:20 PM::Series: site GREENWATER RIVER AT GREENWATER, WA- varTemperature, air, degrees Celsius
+9/19/2013 9:54:20 PM::Series: site GREENWATER RIVER AT GREENWATER, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:20 PM::SiteMUD MOUNTAIN LAKE NEAR BUCKLEY, WA
+9/19/2013 9:54:20 PM::Series: site MUD MOUNTAIN LAKE NEAR BUCKLEY, WA- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:54:20 PM::Series: site MUD MOUNTAIN LAKE NEAR BUCKLEY, WA- varReservoir storage, acre feet
+9/19/2013 9:54:21 PM::SiteLAKE TAPPS NEAR SUMNER, WA
+9/19/2013 9:54:21 PM::Series: site LAKE TAPPS NEAR SUMNER, WA- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:54:21 PM::Series: site LAKE TAPPS NEAR SUMNER, WA- varGage height, feet
+9/19/2013 9:54:21 PM::Series: site LAKE TAPPS NEAR SUMNER, WA- varReservoir storage, acre feet
+9/19/2013 9:54:21 PM::SiteLEACH CREEK NEAR FIRCREST, WA
+9/19/2013 9:54:21 PM::Series: site LEACH CREEK NEAR FIRCREST, WA- varGage height, feet
+9/19/2013 9:54:21 PM::Series: site LEACH CREEK NEAR FIRCREST, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:21 PM::SiteCLEARWATER RIVER NEAR BUCKLEY, WA
+9/19/2013 9:54:21 PM::Series: site CLEARWATER RIVER NEAR BUCKLEY, WA- varGage height, feet
+9/19/2013 9:54:21 PM::Series: site CLEARWATER RIVER NEAR BUCKLEY, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:22 PM::SiteWHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA
+9/19/2013 9:54:22 PM::Series: site WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:22 PM::Series: site WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:22 PM::Series: site WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:22 PM::Series: site WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:22 PM::Series: site WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:22 PM::SiteLEACH CR AT MEADOW PARK GC AT UNIVERSITY PLACE, WA
+9/19/2013 9:54:22 PM::Series: site LEACH CR AT MEADOW PARK GC AT UNIVERSITY PLACE, WA- varGage height, feet
+9/19/2013 9:54:22 PM::Series: site LEACH CR AT MEADOW PARK GC AT UNIVERSITY PLACE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:23 PM::SiteCLARKS CREEK AT TACOMA ROAD NEAR PUYALLUP, WA
+9/19/2013 9:54:23 PM::Series: site CLARKS CREEK AT TACOMA ROAD NEAR PUYALLUP, WA- varGage height, feet
+9/19/2013 9:54:23 PM::Series: site CLARKS CREEK AT TACOMA ROAD NEAR PUYALLUP, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:23 PM::Series: site CLARKS CREEK AT TACOMA ROAD NEAR PUYALLUP, WA- varStream velocity, feet per second
+9/19/2013 9:54:23 PM::SiteOHOP CREEK NEAR EATONVILLE, WA
+9/19/2013 9:54:23 PM::Series: site OHOP CREEK NEAR EATONVILLE, WA- varGage height, feet
+9/19/2013 9:54:23 PM::Series: site OHOP CREEK NEAR EATONVILLE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:23 PM::SiteBIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA
+9/19/2013 9:54:23 PM::Series: site BIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:23 PM::Series: site BIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:23 PM::Series: site BIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:23 PM::Series: site BIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:23 PM::Series: site BIRNIE SLOUGH, WHITE'S ISLAND, COLUMBIA RIVER, WA- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:24 PM::SiteLITTLE KANAWHA RIVER AT GRANTSVILLE, WV
+9/19/2013 9:54:24 PM::Series: site LITTLE KANAWHA RIVER AT GRANTSVILLE, WV- varGage height, feet
+9/19/2013 9:54:24 PM::SiteWEST FORK LITTLE KANAWHA RIVER AT ROCKSDALE, WV
+9/19/2013 9:54:24 PM::Series: site WEST FORK LITTLE KANAWHA RIVER AT ROCKSDALE, WV- varGage height, feet
+9/19/2013 9:54:24 PM::SiteWHETSTONE RN NR MANNINGTON, WV
+9/19/2013 9:54:24 PM::Series: site WHETSTONE RN NR MANNINGTON, WV- varGage height, feet
+9/19/2013 9:54:25 PM::SiteTYGART VALLEY RIVER AT COLFAX, WV
+9/19/2013 9:54:25 PM::Series: site TYGART VALLEY RIVER AT COLFAX, WV- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:25 PM::Series: site TYGART VALLEY RIVER AT COLFAX, WV- varTemperature, water, degrees Celsius
+9/19/2013 9:54:25 PM::Series: site TYGART VALLEY RIVER AT COLFAX, WV- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:25 PM::Series: site TYGART VALLEY RIVER AT COLFAX, WV- varGage height, feet
+9/19/2013 9:54:25 PM::Series: site TYGART VALLEY RIVER AT COLFAX, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:25 PM::SiteBUFFALO CREEK AT BARRACKVILLE, WV
+9/19/2013 9:54:25 PM::Series: site BUFFALO CREEK AT BARRACKVILLE, WV- varGage height, feet
+9/19/2013 9:54:25 PM::Series: site BUFFALO CREEK AT BARRACKVILLE, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:25 PM::SiteBLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI
+9/19/2013 9:54:25 PM::Series: site BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:25 PM::Series: site BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:25 PM::Series: site BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:25 PM::Series: site BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:25 PM::Series: site BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:26 PM::SiteDN-09/06E/29-0083
+9/19/2013 9:54:26 PM::Series: site DN-09/06E/29-0083- varDepth to water level, feet below land surface
+9/19/2013 9:54:26 PM::SitePHEASANT BRANCH AT AIRPORT ROAD NEAR MIDDLETON, WI
+9/19/2013 9:54:26 PM::Series: site PHEASANT BRANCH AT AIRPORT ROAD NEAR MIDDLETON, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:26 PM::Series: site PHEASANT BRANCH AT AIRPORT ROAD NEAR MIDDLETON, WI- varGage height, feet
+9/19/2013 9:54:26 PM::Series: site PHEASANT BRANCH AT AIRPORT ROAD NEAR MIDDLETON, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:26 PM::SiteLAKE KEGONSA AT BARBER DRIVE NEAR STOUGHTON, WI
+9/19/2013 9:54:26 PM::Series: site LAKE KEGONSA AT BARBER DRIVE NEAR STOUGHTON, WI- varGage height, feet
+9/19/2013 9:54:27 PM::SiteDANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI
+9/19/2013 9:54:27 PM::Series: site DANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI- varPrecipitation, total, inches
+9/19/2013 9:54:27 PM::Series: site DANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI- varSoil temperature, degrees Fahrenheit
+9/19/2013 9:54:27 PM::Series: site DANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI- varMoisture content, soil, volumetric, percent of total volume
+9/19/2013 9:54:27 PM::Series: site DANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI- varGage height, feet
+9/19/2013 9:54:27 PM::Series: site DANE COUNTY MRBI WATERWAY NUMBER 1 NR WAUNAKEE, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:27 PM::SiteS FORK PHEASANT BRANCH @ DEMING WAY @ MIDDLETON,WI
+9/19/2013 9:54:27 PM::Series: site S FORK PHEASANT BRANCH @ DEMING WAY @ MIDDLETON,WI- varGage height, feet
+9/19/2013 9:54:27 PM::Series: site S FORK PHEASANT BRANCH @ DEMING WAY @ MIDDLETON,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:27 PM::Series: site S FORK PHEASANT BRANCH @ DEMING WAY @ MIDDLETON,WI- varDischarge, cubic feet per second
+9/19/2013 9:54:27 PM::SitePLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI
+9/19/2013 9:54:27 PM::Series: site PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI- varPrecipitation, total, inches
+9/19/2013 9:54:27 PM::Series: site PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:27 PM::Series: site PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI- varGage height, feet
+9/19/2013 9:54:27 PM::Series: site PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI- varDischarge, cubic feet per second
+9/19/2013 9:54:27 PM::Series: site PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI- varStream velocity, feet per second
+9/19/2013 9:54:28 PM::SiteUS HWY 51 WISDOT GRASS SWALES MIDDLE MADISON, WI
+9/19/2013 9:54:28 PM::Series: site US HWY 51 WISDOT GRASS SWALES MIDDLE MADISON, WI- varPrecipitation, total, inches
+9/19/2013 9:54:28 PM::Series: site US HWY 51 WISDOT GRASS SWALES MIDDLE MADISON, WI- varGage height, feet
+9/19/2013 9:54:28 PM::SiteBLACK EARTH CREEK AT BLACK EARTH, WI
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varGage height, feet
+9/19/2013 9:54:28 PM::Series: site BLACK EARTH CREEK AT BLACK EARTH, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:28 PM::SiteDORN (SPRING) CREEK AT CT HIGHWAY M NR WAUNAKEE,WI
+9/19/2013 9:54:28 PM::Series: site DORN (SPRING) CREEK AT CT HIGHWAY M NR WAUNAKEE,WI- varGage height, feet
+9/19/2013 9:54:28 PM::Series: site DORN (SPRING) CREEK AT CT HIGHWAY M NR WAUNAKEE,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:28 PM::Series: site DORN (SPRING) CREEK AT CT HIGHWAY M NR WAUNAKEE,WI- varStream velocity, feet per second
+9/19/2013 9:54:29 PM::SiteWEST OLD SAUK ROAD STORM SEWER AT MADISON, WI
+9/19/2013 9:54:29 PM::Series: site WEST OLD SAUK ROAD STORM SEWER AT MADISON, WI- varPrecipitation, total, inches
+9/19/2013 9:54:29 PM::Series: site WEST OLD SAUK ROAD STORM SEWER AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:29 PM::SiteBADGER MILL CREEK AT VERONA, WI
+9/19/2013 9:54:29 PM::Series: site BADGER MILL CREEK AT VERONA, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:29 PM::Series: site BADGER MILL CREEK AT VERONA, WI- varGage height, feet
+9/19/2013 9:54:29 PM::Series: site BADGER MILL CREEK AT VERONA, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:29 PM::Series: site BADGER MILL CREEK AT VERONA, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:29 PM::Series: site BADGER MILL CREEK AT VERONA, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:29 PM::SiteUS HWY 51 WISDOT GRASS SWALES DOWNSTRM MADISON, WI
+9/19/2013 9:54:29 PM::Series: site US HWY 51 WISDOT GRASS SWALES DOWNSTRM MADISON, WI- varMoisture content, soil, volumetric, percent of total volume
+9/19/2013 9:54:29 PM::Series: site US HWY 51 WISDOT GRASS SWALES DOWNSTRM MADISON, WI- varGage height, feet
+9/19/2013 9:54:30 PM::SiteDANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varPrecipitation, total, inches
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varMoisture content, soil, volumetric, percent of total volume
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varSoil temperature, degrees Fahrenheit
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varWind speed, miles per hour
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varTemperature, water, degrees Fahrenheit
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varWind direction, degrees clockwise from true north
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varGage height, feet
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varRelative humidity, percent
+9/19/2013 9:54:30 PM::Series: site DANE CO. MRBI TILE #1 NEAR SPRINGFIELD CORNERS, WI- varWater Science Center special 99902
+9/19/2013 9:54:30 PM::SiteBLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varPrecipitation, total, inches
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:30 PM::Series: site BLACK EARTH CREEK @ S. VALLEY RD NR BLACK EARTH,WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:31 PM::SiteDORN (SPRING) CREEK @ CT HIGHWAY Q NR WAUNAKEE, WI
+9/19/2013 9:54:31 PM::Series: site DORN (SPRING) CREEK @ CT HIGHWAY Q NR WAUNAKEE, WI- varPrecipitation, total, inches
+9/19/2013 9:54:31 PM::Series: site DORN (SPRING) CREEK @ CT HIGHWAY Q NR WAUNAKEE, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:31 PM::Series: site DORN (SPRING) CREEK @ CT HIGHWAY Q NR WAUNAKEE, WI- varGage height, feet
+9/19/2013 9:54:31 PM::SiteYAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI
+9/19/2013 9:54:31 PM::Series: site YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:31 PM::Series: site YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:31 PM::Series: site YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:31 PM::Series: site YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI- varStream velocity, feet per second
+9/19/2013 9:54:31 PM::SiteBLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varGage height, feet
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:31 PM::Series: site BLACK EARTH CREEK NR BREWERY RD @ CROSS PLAINS, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:32 PM::SiteYAHARA RIVER AT WINDSOR, WI
+9/19/2013 9:54:32 PM::Series: site YAHARA RIVER AT WINDSOR, WI- varPrecipitation, total, inches
+9/19/2013 9:54:32 PM::Series: site YAHARA RIVER AT WINDSOR, WI- varGage height, feet
+9/19/2013 9:54:32 PM::Series: site YAHARA RIVER AT WINDSOR, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:32 PM::SiteSIXMILE CREEK AT STATE HIGHWAY 19 NEAR WAUNAKEE,WI
+9/19/2013 9:54:32 PM::Series: site SIXMILE CREEK AT STATE HIGHWAY 19 NEAR WAUNAKEE,WI- varPrecipitation, total, inches
+9/19/2013 9:54:32 PM::Series: site SIXMILE CREEK AT STATE HIGHWAY 19 NEAR WAUNAKEE,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:32 PM::Series: site SIXMILE CREEK AT STATE HIGHWAY 19 NEAR WAUNAKEE,WI- varGage height, feet
+9/19/2013 9:54:32 PM::SiteSPRING HARBOR STORM SEWER AT MADISON, WI
+9/19/2013 9:54:32 PM::Series: site SPRING HARBOR STORM SEWER AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:32 PM::Series: site SPRING HARBOR STORM SEWER AT MADISON, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:33 PM::SiteYAHARA RIVER AT EAST MAIN STREET AT MADISON, WI
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI- varStream velocity, feet per second
+9/19/2013 9:54:33 PM::SiteLAKE MONONA AT MADISON, WI
+9/19/2013 9:54:33 PM::Series: site LAKE MONONA AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:33 PM::Series: site LAKE MONONA AT MADISON, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:33 PM::SiteYAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI- varGage height, feet
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI- varDischarge, cubic feet per second
+9/19/2013 9:54:33 PM::Series: site YAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI- varStream velocity, feet per second
+9/19/2013 9:54:34 PM::SiteYAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI
+9/19/2013 9:54:34 PM::Series: site YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI- varGage height, feet
+9/19/2013 9:54:34 PM::Series: site YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI- varDischarge, cubic feet per second
+9/19/2013 9:54:34 PM::Series: site YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI- varStream velocity, feet per second
+9/19/2013 9:54:34 PM::SiteSUGAR RIVER NEAR VERONA, WI
+9/19/2013 9:54:34 PM::Series: site SUGAR RIVER NEAR VERONA, WI- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:34 PM::Series: site SUGAR RIVER NEAR VERONA, WI- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:34 PM::Series: site SUGAR RIVER NEAR VERONA, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:34 PM::Series: site SUGAR RIVER NEAR VERONA, WI- varGage height, feet
+9/19/2013 9:54:34 PM::Series: site SUGAR RIVER NEAR VERONA, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:34 PM::SiteDANE CO MRBI WATERWAY 2 NR SPRINGFIELD CORNERS, WI
+9/19/2013 9:54:34 PM::Series: site DANE CO MRBI WATERWAY 2 NR SPRINGFIELD CORNERS, WI- varGage height, feet
+9/19/2013 9:54:35 PM::SitePHEASANT BRANCH AT MIDDLETON, WI
+9/19/2013 9:54:35 PM::Series: site PHEASANT BRANCH AT MIDDLETON, WI- varPrecipitation, total, inches
+9/19/2013 9:54:35 PM::Series: site PHEASANT BRANCH AT MIDDLETON, WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:35 PM::Series: site PHEASANT BRANCH AT MIDDLETON, WI- varGage height, feet
+9/19/2013 9:54:35 PM::Series: site PHEASANT BRANCH AT MIDDLETON, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:35 PM::SiteSIXMILE CREEK @ COUNTY TRNK HGHWY M NR WAUNAKEE,WI
+9/19/2013 9:54:35 PM::Series: site SIXMILE CREEK @ COUNTY TRNK HGHWY M NR WAUNAKEE,WI- varGage height, feet
+9/19/2013 9:54:35 PM::Series: site SIXMILE CREEK @ COUNTY TRNK HGHWY M NR WAUNAKEE,WI- varTemperature, water, degrees Celsius
+9/19/2013 9:54:35 PM::Series: site SIXMILE CREEK @ COUNTY TRNK HGHWY M NR WAUNAKEE,WI- varStream velocity, feet per second
+9/19/2013 9:54:35 PM::SiteLAKE WAUBESA AT MC FARLAND, WI
+9/19/2013 9:54:35 PM::Series: site LAKE WAUBESA AT MC FARLAND, WI- varGage height, feet
+9/19/2013 9:54:36 PM::SiteYAHARA RIVER AT MC FARLAND, WI
+9/19/2013 9:54:36 PM::Series: site YAHARA RIVER AT MC FARLAND, WI- varPrecipitation, total, inches
+9/19/2013 9:54:36 PM::Series: site YAHARA RIVER AT MC FARLAND, WI- varGage height, feet
+9/19/2013 9:54:36 PM::Series: site YAHARA RIVER AT MC FARLAND, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:36 PM::SiteLAKE MENDOTA AT MADISON, WI
+9/19/2013 9:54:36 PM::Series: site LAKE MENDOTA AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:36 PM::SiteBEAR CLAW WAY STORM SEWER AT MADISON, WI
+9/19/2013 9:54:36 PM::Series: site BEAR CLAW WAY STORM SEWER AT MADISON, WI- varPrecipitation, total, inches
+9/19/2013 9:54:36 PM::Series: site BEAR CLAW WAY STORM SEWER AT MADISON, WI- varGage height, feet
+9/19/2013 9:54:37 PM::Site41H  3
+9/19/2013 9:54:37 PM::Series: site 41H  3- varDepth to water level, feet below land surface
+9/19/2013 9:54:37 PM::SiteSLATE RIVER NEAR ARVONIA, VA
+9/19/2013 9:54:37 PM::Series: site SLATE RIVER NEAR ARVONIA, VA- varGage height, feet
+9/19/2013 9:54:37 PM::Series: site SLATE RIVER NEAR ARVONIA, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:37 PM::SiteREED CREEK AT GRAHAMS FORGE, VA
+9/19/2013 9:54:37 PM::Series: site REED CREEK AT GRAHAMS FORGE, VA- varGage height, feet
+9/19/2013 9:54:37 PM::Series: site REED CREEK AT GRAHAMS FORGE, VA- varDischarge, cubic feet per second
+9/19/2013 9:54:38 PM::SitePEND OREILLE RIVER AT INTERNATIONAL BOUNDARY
+9/19/2013 9:54:38 PM::Series: site PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:54:38 PM::Series: site PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY- varBarometric pressure, millimeters of mercury
+9/19/2013 9:54:38 PM::Series: site PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY- varTemperature, water, degrees Celsius
+9/19/2013 9:54:38 PM::Series: site PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY- varTotal partial pressure of dissolved gases, water, unfiltered, percent of saturation
+9/19/2013 9:54:38 PM::SiteOUTLET CREEK NEAR METALINE FALLS, WA
+9/19/2013 9:54:38 PM::Series: site OUTLET CREEK NEAR METALINE FALLS, WA- varGage height, feet
+9/19/2013 9:54:38 PM::Series: site OUTLET CREEK NEAR METALINE FALLS, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:38 PM::SiteBOUNDARY RESERVOIR NEAR METALINE FALLS, WA
+9/19/2013 9:54:38 PM::Series: site BOUNDARY RESERVOIR NEAR METALINE FALLS, WA- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:54:38 PM::Series: site BOUNDARY RESERVOIR NEAR METALINE FALLS, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:38 PM::Series: site BOUNDARY RESERVOIR NEAR METALINE FALLS, WA- varBarometric pressure, millimeters of mercury
+9/19/2013 9:54:38 PM::Series: site BOUNDARY RESERVOIR NEAR METALINE FALLS, WA- varTotal partial pressure of dissolved gases, water, unfiltered, percent of saturation
+9/19/2013 9:54:39 PM::SitePEND OREILLE RIVER BELOW BOX CANYON NEAR IONE, WA
+9/19/2013 9:54:39 PM::Series: site PEND OREILLE RIVER BELOW BOX CANYON NEAR IONE, WA- varGage height, feet
+9/19/2013 9:54:39 PM::Series: site PEND OREILLE RIVER BELOW BOX CANYON NEAR IONE, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:39 PM::SiteBENNINGTON LAKE NEAR WALLA WALLA, WA
+9/19/2013 9:54:39 PM::Series: site BENNINGTON LAKE NEAR WALLA WALLA, WA- varLake or reservoir water surface elevation above NGVD 1929, feet
+9/19/2013 9:54:39 PM::SiteMILL CREEK NEAR WALLA WALLA, WA
+9/19/2013 9:54:39 PM::Series: site MILL CREEK NEAR WALLA WALLA, WA- varGage height, feet
+9/19/2013 9:54:39 PM::Series: site MILL CREEK NEAR WALLA WALLA, WA- varTemperature, air, degrees Fahrenheit
+9/19/2013 9:54:39 PM::Series: site MILL CREEK NEAR WALLA WALLA, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:39 PM::SiteMILL CREEK AT FIVE MILE RD BR NR WALLA WALLA, WA
+9/19/2013 9:54:39 PM::Series: site MILL CREEK AT FIVE MILE RD BR NR WALLA WALLA, WA- varGage height, feet
+9/19/2013 9:54:39 PM::Series: site MILL CREEK AT FIVE MILE RD BR NR WALLA WALLA, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:40 PM::SiteMILL CREEK AT WALLA WALLA, WA
+9/19/2013 9:54:40 PM::Series: site MILL CREEK AT WALLA WALLA, WA- varGage height, feet
+9/19/2013 9:54:40 PM::Series: site MILL CREEK AT WALLA WALLA, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:40 PM::SiteLAKE SACAJAWEA FOREBAY AT ICE HARBOR DAM, WA
+9/19/2013 9:54:40 PM::Series: site LAKE SACAJAWEA FOREBAY AT ICE HARBOR DAM, WA- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:54:40 PM::Series: site LAKE SACAJAWEA FOREBAY AT ICE HARBOR DAM, WA- varBarometric pressure, millimeters of mercury
+9/19/2013 9:54:40 PM::Series: site LAKE SACAJAWEA FOREBAY AT ICE HARBOR DAM, WA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:40 PM::Series: site LAKE SACAJAWEA FOREBAY AT ICE HARBOR DAM, WA- varTotal partial pressure of dissolved gases, water, unfiltered, percent of saturation
+9/19/2013 9:54:40 PM::SiteWALLA WALLA RIVER NEAR TOUCHET, WA
+9/19/2013 9:54:41 PM::Series: site WALLA WALLA RIVER NEAR TOUCHET, WA- varGage height, feet
+9/19/2013 9:54:41 PM::Series: site WALLA WALLA RIVER NEAR TOUCHET, WA- varDischarge, cubic feet per second
+9/19/2013 9:54:41 PM::SiteCACAPON RIVER NEAR GREAT CACAPON, WV
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varTemperature, water, degrees Celsius
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varGage height, feet
+9/19/2013 9:54:41 PM::Series: site CACAPON RIVER NEAR GREAT CACAPON, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:41 PM::SiteUNNAMED TRIB TO WARM SPR RUN NR BERKELEY SPR, WV
+9/19/2013 9:54:41 PM::Series: site UNNAMED TRIB TO WARM SPR RUN NR BERKELEY SPR, WV- varGage height, feet
+9/19/2013 9:54:42 PM::SiteWARM SPRINGS RUN NEAR BERKELEY SPRINGS, WV
+9/19/2013 9:54:42 PM::Series: site WARM SPRINGS RUN NEAR BERKELEY SPRINGS, WV- varGage height, feet
+9/19/2013 9:54:42 PM::Series: site WARM SPRINGS RUN NEAR BERKELEY SPRINGS, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:42 PM::SiteHURRICANE CREEK AT HURRICANE, WV
+9/19/2013 9:54:42 PM::Series: site HURRICANE CREEK AT HURRICANE, WV- varGage height, feet
+9/19/2013 9:54:42 PM::Series: site HURRICANE CREEK AT HURRICANE, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:42 PM::SitePINEY CREEK AT RALEIGH, WV
+9/19/2013 9:54:42 PM::Series: site PINEY CREEK AT RALEIGH, WV- varGage height, feet
+9/19/2013 9:54:42 PM::Series: site PINEY CREEK AT RALEIGH, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:43 PM::SiteCLEAR FORK AT WHITESVILLE, WV
+9/19/2013 9:54:43 PM::Series: site CLEAR FORK AT WHITESVILLE, WV- varGage height, feet
+9/19/2013 9:54:43 PM::Series: site CLEAR FORK AT WHITESVILLE, WV- varDischarge, cubic feet per second
+9/19/2013 9:54:43 PM::SiteEAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI
+9/19/2013 9:54:43 PM::Series: site EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI- varPrecipitation, total, inches
+9/19/2013 9:54:43 PM::Series: site EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI- varGage height, feet
+9/19/2013 9:54:43 PM::Series: site EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI- varDischarge, cubic feet per second
+9/19/2013 9:54:43 PM::SitePLUM CREEK NEAR WRIGHTSTOWN, WI
+9/19/2013 9:54:43 PM::Series: site PLUM CREEK NEAR WRIGHTSTOWN, WI- varPrecipitation, total, inches
+9/19/2013 9:54:43 PM::Series: site PLUM CREEK NEAR WRIGHTSTOWN, WI- varGage height, feet
+9/19/2013 9:54:43 PM::Series: site PLUM CREEK NEAR WRIGHTSTOWN, WI- varDischarge, cubic feet per second
+9/19/2013 9:54:43 PM::SiteMcGee Creek Reservoir near Farris, OK
+9/19/2013 9:54:43 PM::Series: site McGee Creek Reservoir near Farris, OK- varPrecipitation, total, inches
+9/19/2013 9:54:43 PM::Series: site McGee Creek Reservoir near Farris, OK- varGage height, feet
+9/19/2013 9:54:43 PM::Series: site McGee Creek Reservoir near Farris, OK- varReservoir storage, acre feet
+9/19/2013 9:54:44 PM::Series: site McGee Creek Reservoir near Farris, OK- varGage height, above datum, meters
+9/19/2013 9:54:44 PM::SiteSalt Fork Arkansas River at Tonkawa, OK
+9/19/2013 9:54:44 PM::Series: site Salt Fork Arkansas River at Tonkawa, OK- varPrecipitation, total, inches
+9/19/2013 9:54:44 PM::Series: site Salt Fork Arkansas River at Tonkawa, OK- varGage height, feet
+9/19/2013 9:54:44 PM::Series: site Salt Fork Arkansas River at Tonkawa, OK- varDischarge, cubic feet per second
+9/19/2013 9:54:44 PM::SiteChikaskia River near Blackwell, OK
+9/19/2013 9:54:44 PM::Series: site Chikaskia River near Blackwell, OK- varPrecipitation, total, inches
+9/19/2013 9:54:44 PM::Series: site Chikaskia River near Blackwell, OK- varGage height, feet
+9/19/2013 9:54:44 PM::Series: site Chikaskia River near Blackwell, OK- varDischarge, cubic feet per second
+9/19/2013 9:54:45 PM::SiteRed River nr Courtney, OK
+9/19/2013 9:54:45 PM::Series: site Red River nr Courtney, OK- varPrecipitation, total, inches
+9/19/2013 9:54:45 PM::Series: site Red River nr Courtney, OK- varGage height, feet
+9/19/2013 9:54:45 PM::SiteRed River near Gainesville, TX
+9/19/2013 9:54:45 PM::Series: site Red River near Gainesville, TX- varPrecipitation, total, inches
+9/19/2013 9:54:45 PM::Series: site Red River near Gainesville, TX- varGage height, feet
+9/19/2013 9:54:45 PM::Series: site Red River near Gainesville, TX- varDischarge, cubic feet per second
+9/19/2013 9:54:45 PM::SiteROGUE RIVER NEAR AGNESS, OR
+9/19/2013 9:54:45 PM::Series: site ROGUE RIVER NEAR AGNESS, OR- varGage height, feet
+9/19/2013 9:54:45 PM::Series: site ROGUE RIVER NEAR AGNESS, OR- varTemperature, water, degrees Celsius
+9/19/2013 9:54:45 PM::Series: site ROGUE RIVER NEAR AGNESS, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:46 PM::SiteCHETCO RIVER NEAR BROOKINGS, OR
+9/19/2013 9:54:46 PM::Series: site CHETCO RIVER NEAR BROOKINGS, OR- varGage height, feet
+9/19/2013 9:54:46 PM::Series: site CHETCO RIVER NEAR BROOKINGS, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:46 PM::SiteBEAVER CREEK BELOW QUARTZ CREEK, NR SIMNASHO, OR
+9/19/2013 9:54:46 PM::Series: site BEAVER CREEK BELOW QUARTZ CREEK, NR SIMNASHO, OR- varGage height, feet
+9/19/2013 9:54:46 PM::Series: site BEAVER CREEK BELOW QUARTZ CREEK, NR SIMNASHO, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:46 PM::SiteCOLUMBIA RIVER AT THE DALLES, OR
+9/19/2013 9:54:46 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varDCP battery voltage, volts
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varTemperature, water, degrees Celsius
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varBarometric pressure, millimeters of mercury
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varGage height, feet
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:47 PM::Series: site COLUMBIA RIVER AT THE DALLES, OR- varStream velocity, feet per second
+9/19/2013 9:54:47 PM::SiteWARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR
+9/19/2013 9:54:47 PM::Series: site WARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR- varGage height, feet
+9/19/2013 9:54:47 PM::Series: site WARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:47 PM::SiteMOSIER CREEK NEAR MOSIER, OR
+9/19/2013 9:54:47 PM::Series: site MOSIER CREEK NEAR MOSIER, OR- varGage height, feet
+9/19/2013 9:54:47 PM::Series: site MOSIER CREEK NEAR MOSIER, OR- varDischarge, cubic feet per second
+9/19/2013 9:54:48 PM::SiteYellow Breeches Creek near Camp Hill, PA
+9/19/2013 9:54:48 PM::Series: site Yellow Breeches Creek near Camp Hill, PA- varGage height, feet
+9/19/2013 9:54:48 PM::Series: site Yellow Breeches Creek near Camp Hill, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:48 PM::SiteMountain Creek near Pine Grove Furnace, PA
+9/19/2013 9:54:48 PM::Series: site Mountain Creek near Pine Grove Furnace, PA- varGage height, feet
+9/19/2013 9:54:48 PM::Series: site Mountain Creek near Pine Grove Furnace, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:48 PM::SiteBig Spring Creek at Big Spring, PA
+9/19/2013 9:54:48 PM::Series: site Big Spring Creek at Big Spring, PA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:48 PM::Series: site Big Spring Creek at Big Spring, PA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:48 PM::Series: site Big Spring Creek at Big Spring, PA- varGage height, feet
+9/19/2013 9:54:48 PM::Series: site Big Spring Creek at Big Spring, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:49 PM::SiteCU     2  Cumberland County Observation Well
+9/19/2013 9:54:49 PM::Series: site CU     2  Cumberland County Observation Well- varDepth to water level, feet below land surface
+9/19/2013 9:54:49 PM::SiteConodoguinet Creek near Hogestown, PA
+9/19/2013 9:54:49 PM::Series: site Conodoguinet Creek near Hogestown, PA- varGage height, feet
+9/19/2013 9:54:49 PM::Series: site Conodoguinet Creek near Hogestown, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:49 PM::SiteJordan Creek near Schnecksville, PA
+9/19/2013 9:54:49 PM::Series: site Jordan Creek near Schnecksville, PA- varGage height, feet
+9/19/2013 9:54:49 PM::Series: site Jordan Creek near Schnecksville, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:50 PM::SiteLittle Lehigh Creek at Tenth St. Br. at Allentown
+9/19/2013 9:54:50 PM::Series: site Little Lehigh Creek at Tenth St. Br. at Allentown- varGage height, feet
+9/19/2013 9:54:50 PM::Series: site Little Lehigh Creek at Tenth St. Br. at Allentown- varDischarge, cubic feet per second
+9/19/2013 9:54:50 PM::SiteLE   644 Lehigh County Observation Well
+9/19/2013 9:54:50 PM::Series: site LE   644 Lehigh County Observation Well- varDepth to water level, feet below land surface
+9/19/2013 9:54:50 PM::SiteJordan Creek at Allentown, PA
+9/19/2013 9:54:50 PM::Series: site Jordan Creek at Allentown, PA- varGage height, feet
+9/19/2013 9:54:50 PM::Series: site Jordan Creek at Allentown, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:51 PM::SiteLehigh River at Bethlehem, PA
+9/19/2013 9:54:51 PM::Series: site Lehigh River at Bethlehem, PA- varPrecipitation, total, inches
+9/19/2013 9:54:51 PM::Series: site Lehigh River at Bethlehem, PA- varGage height, feet
+9/19/2013 9:54:51 PM::Series: site Lehigh River at Bethlehem, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:51 PM::SiteLittle Lehigh Creek near Allentown, PA
+9/19/2013 9:54:51 PM::Series: site Little Lehigh Creek near Allentown, PA- varGage height, feet
+9/19/2013 9:54:51 PM::Series: site Little Lehigh Creek near Allentown, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:51 PM::SiteSN   130 Snyder County Observation Well
+9/19/2013 9:54:51 PM::Series: site SN   130 Snyder County Observation Well- varDepth to water level, feet below land surface
+9/19/2013 9:54:52 PM::SitePenns Creek at Penns Creek, PA
+9/19/2013 9:54:52 PM::Series: site Penns Creek at Penns Creek, PA- varGage height, feet
+9/19/2013 9:54:52 PM::Series: site Penns Creek at Penns Creek, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:52 PM::SiteRain Gage at Bannerville, PA
+9/19/2013 9:54:52 PM::Series: site Rain Gage at Bannerville, PA- varPrecipitation, total, inches
+9/19/2013 9:54:52 PM::SiteSusquehanna River at Sunbury, PA
+9/19/2013 9:54:52 PM::Series: site Susquehanna River at Sunbury, PA- varGage height, feet
+9/19/2013 9:54:52 PM::Series: site Susquehanna River at Sunbury, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:53 PM::SiteRain Gage at Beavertown, PA
+9/19/2013 9:54:53 PM::Series: site Rain Gage at Beavertown, PA- varPrecipitation, total, inches
+9/19/2013 9:54:53 PM::SiteLaurel Hill Creek at Ursina, PA
+9/19/2013 9:54:53 PM::Series: site Laurel Hill Creek at Ursina, PA- varGage height, feet
+9/19/2013 9:54:53 PM::Series: site Laurel Hill Creek at Ursina, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:53 PM::SiteSO   854  Somerset County Observation Well
+9/19/2013 9:54:53 PM::Series: site SO   854  Somerset County Observation Well- varDepth to water level, feet below land surface
+9/19/2013 9:54:54 PM::SiteYoughiogheny River Lake at Rt. 40 Bridge, PA
+9/19/2013 9:54:54 PM::Series: site Youghiogheny River Lake at Rt. 40 Bridge, PA- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:54:54 PM::SiteCasselman River at Markleton, PA
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varPrecipitation, total, inches
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varGage height, feet
+9/19/2013 9:54:54 PM::Series: site Casselman River at Markleton, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:54 PM::SiteLaurel Hill Creek near Bakersville, PA
+9/19/2013 9:54:54 PM::Series: site Laurel Hill Creek near Bakersville, PA- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:54 PM::Series: site Laurel Hill Creek near Bakersville, PA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:54 PM::Series: site Laurel Hill Creek near Bakersville, PA- varGage height, feet
+9/19/2013 9:54:54 PM::SiteYoughiogheny R at dam outlet tunnel nr Confluence
+9/19/2013 9:54:54 PM::Series: site Youghiogheny R at dam outlet tunnel nr Confluence- varTotal partial pressure of dissolved gases, water, unfiltered, millimeters of mercury
+9/19/2013 9:54:54 PM::Series: site Youghiogheny R at dam outlet tunnel nr Confluence- varTemperature, water, degrees Celsius
+9/19/2013 9:54:55 PM::Series: site Youghiogheny R at dam outlet tunnel nr Confluence- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:55 PM::Series: site Youghiogheny R at dam outlet tunnel nr Confluence- varBarometric pressure, millimeters of mercury
+9/19/2013 9:54:55 PM::Series: site Youghiogheny R at dam outlet tunnel nr Confluence- varTotal partial pressure of dissolved gases, water, unfiltered, percent of saturation
+9/19/2013 9:54:55 PM::SiteYoughiogheny River at Youghiogheny River Dam, PA
+9/19/2013 9:54:55 PM::Series: site Youghiogheny River at Youghiogheny River Dam, PA- varTemperature, water, degrees Celsius
+9/19/2013 9:54:55 PM::Series: site Youghiogheny River at Youghiogheny River Dam, PA- varGage height, feet
+9/19/2013 9:54:55 PM::Series: site Youghiogheny River at Youghiogheny River Dam, PA- varDischarge, cubic feet per second
+9/19/2013 9:54:55 PM::SiteBROAD RIVER DIV. CANAL AT COLUMBIA, SC
+9/19/2013 9:54:55 PM::Series: site BROAD RIVER DIV. CANAL AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:56 PM::SiteSMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC
+9/19/2013 9:54:56 PM::Series: site SMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:56 PM::Series: site SMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC- varDischarge, cubic feet per second
+9/19/2013 9:54:56 PM::SiteBROAD RIVER NEAR COLUMBIA, SC
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varTemperature, water, degrees Celsius
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:56 PM::Series: site BROAD RIVER NEAR COLUMBIA, SC- varStream velocity, feet per second
+9/19/2013 9:54:56 PM::SiteROCKY BRANCH ABOVE PICKENS ST. AT COLUMBIA, SC
+9/19/2013 9:54:56 PM::Series: site ROCKY BRANCH ABOVE PICKENS ST. AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:56 PM::SiteCEDAR CREEK AT CONGAREE NP NEAR GADSDEN, SC
+9/19/2013 9:54:57 PM::Series: site CEDAR CREEK AT CONGAREE NP NEAR GADSDEN, SC- varGage height, feet
+9/19/2013 9:54:57 PM::SiteWATEREE R. BL EASTOVER, SC
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varpH, water, unfiltered, field, standard units
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varTemperature, water, degrees Celsius
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varGage height, feet
+9/19/2013 9:54:57 PM::Series: site WATEREE R. BL EASTOVER, SC- varDischarge, cubic feet per second
+9/19/2013 9:54:57 PM::SitePEN BRANCH AT COLUMBIA, SC
+9/19/2013 9:54:57 PM::Series: site PEN BRANCH AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:57 PM::SiteSALUDA RIVER NEAR COLUMBIA, SC
+9/19/2013 9:54:57 PM::Series: site SALUDA RIVER NEAR COLUMBIA, SC- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:54:57 PM::Series: site SALUDA RIVER NEAR COLUMBIA, SC- varTemperature, water, degrees Celsius
+9/19/2013 9:54:57 PM::Series: site SALUDA RIVER NEAR COLUMBIA, SC- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:54:57 PM::Series: site SALUDA RIVER NEAR COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:58 PM::Series: site SALUDA RIVER NEAR COLUMBIA, SC- varDischarge, cubic feet per second
+9/19/2013 9:54:58 PM::SiteTRIB TO ROCKY BRANCH AB GERVAIS ST AT COLUMBIA, SC
+9/19/2013 9:54:58 PM::Series: site TRIB TO ROCKY BRANCH AB GERVAIS ST AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:58 PM::SiteROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC
+9/19/2013 9:54:58 PM::Series: site ROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:58 PM::Series: site ROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC- varDischarge, cubic feet per second
+9/19/2013 9:54:58 PM::SiteCONGAREE RIVER AT CONGAREE NP NEAR GADSDEN, SC
+9/19/2013 9:54:58 PM::Series: site CONGAREE RIVER AT CONGAREE NP NEAR GADSDEN, SC- varGage height, feet
+9/19/2013 9:54:59 PM::SiteGILLS CREEK AT COLUMBIA, SC
+9/19/2013 9:54:59 PM::Series: site GILLS CREEK AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:59 PM::Series: site GILLS CREEK AT COLUMBIA, SC- varDischarge, cubic feet per second
+9/19/2013 9:54:59 PM::SiteROCKY BRANCH @ WHALEY ST. AT COLUMBIA, SC
+9/19/2013 9:54:59 PM::Series: site ROCKY BRANCH @ WHALEY ST. AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:54:59 PM::SiteBROAD RIVER AT DIV. DAM AT COLUMBIA, SC
+9/19/2013 9:54:59 PM::Series: site BROAD RIVER AT DIV. DAM AT COLUMBIA, SC- varGage height, feet
+9/19/2013 9:55:00 PM::SiteKEYA PAHA R NEAR KEYAPAHA,SD
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R NEAR KEYAPAHA,SD- varPrecipitation, total, inches
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R NEAR KEYAPAHA,SD- varGage height, feet
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R NEAR KEYAPAHA,SD- varDischarge, cubic feet per second
+9/19/2013 9:55:00 PM::SiteKEYA PAHA R AT WEWELA,SD
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R AT WEWELA,SD- varPrecipitation, total, inches
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R AT WEWELA,SD- varGage height, feet
+9/19/2013 9:55:00 PM::Series: site KEYA PAHA R AT WEWELA,SD- varDischarge, cubic feet per second
+9/19/2013 9:55:00 PM::SiteNORTH CHICKAMAUGA CREEK NEAR MONTLAKE, TN
+9/19/2013 9:55:00 PM::Series: site NORTH CHICKAMAUGA CREEK NEAR MONTLAKE, TN- varGage height, feet
+9/19/2013 9:55:01 PM::SiteHm:O-031
+9/19/2013 9:55:01 PM::Series: site Hm:O-031- varDepth to water level, feet below land surface
+9/19/2013 9:55:01 PM::SiteHm:O-019
+9/19/2013 9:55:01 PM::Series: site Hm:O-019- varDepth to water level, feet below land surface
+9/19/2013 9:55:01 PM::Series: site Hm:O-019- varPrecipitation, total, inches
+9/19/2013 9:55:01 PM::SiteSOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN
+9/19/2013 9:55:01 PM::Series: site SOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN- varGage height, feet
+9/19/2013 9:55:01 PM::Series: site SOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:01 PM::SiteHm:O-015
+9/19/2013 9:55:01 PM::Series: site Hm:O-015- varPrecipitation, total, inches
+9/19/2013 9:55:02 PM::Series: site Hm:O-015- varDepth to water level, feet below land surface
+9/19/2013 9:55:02 PM::SiteCLINCH RIVER NEAR LOONEYS GAP, TN
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varTemperature, water, degrees Celsius
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varGage height, feet
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:02 PM::Series: site CLINCH RIVER NEAR LOONEYS GAP, TN- varWater Science Center special 99909
+9/19/2013 9:55:02 PM::SiteSEQUATCHIE RIVER NEAR WHITWELL, TN
+9/19/2013 9:55:02 PM::Series: site SEQUATCHIE RIVER NEAR WHITWELL, TN- varGage height, feet
+9/19/2013 9:55:02 PM::Series: site SEQUATCHIE RIVER NEAR WHITWELL, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:03 PM::SiteBIG ROCK CR AT DOUBLE BRIDGES, TN
+9/19/2013 9:55:03 PM::Series: site BIG ROCK CR AT DOUBLE BRIDGES, TN- varGage height, feet
+9/19/2013 9:55:03 PM::Series: site BIG ROCK CR AT DOUBLE BRIDGES, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:03 PM::SiteDUCK RIVER ABOVE MILLTOWN, TN
+9/19/2013 9:55:03 PM::Series: site DUCK RIVER ABOVE MILLTOWN, TN- varGage height, feet
+9/19/2013 9:55:03 PM::Series: site DUCK RIVER ABOVE MILLTOWN, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:03 PM::SiteFOUNTAIN CREEK NEAR FOUNTAIN HEIGHTS, TN
+9/19/2013 9:55:03 PM::Series: site FOUNTAIN CREEK NEAR FOUNTAIN HEIGHTS, TN- varGage height, feet
+9/19/2013 9:55:03 PM::Series: site FOUNTAIN CREEK NEAR FOUNTAIN HEIGHTS, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:04 PM::SiteDUCK RIVER AT COLUMBIA, TN
+9/19/2013 9:55:04 PM::Series: site DUCK RIVER AT COLUMBIA, TN- varPrecipitation, total, inches
+9/19/2013 9:55:04 PM::Series: site DUCK RIVER AT COLUMBIA, TN- varGage height, feet
+9/19/2013 9:55:04 PM::Series: site DUCK RIVER AT COLUMBIA, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:04 PM::SiteDUCK RIVER AT MILE 156 NEAR POTTSVILLE, TN
+9/19/2013 9:55:04 PM::Series: site DUCK RIVER AT MILE 156 NEAR POTTSVILLE, TN- varGage height, feet
+9/19/2013 9:55:04 PM::Series: site DUCK RIVER AT MILE 156 NEAR POTTSVILLE, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:04 PM::SiteCALFKILLER RIVER AT HWY 111 BELOW SPARTA, TN
+9/19/2013 9:55:04 PM::Series: site CALFKILLER RIVER AT HWY 111 BELOW SPARTA, TN- varGage height, feet
+9/19/2013 9:55:04 PM::Series: site CALFKILLER RIVER AT HWY 111 BELOW SPARTA, TN- varDischarge, cubic feet per second
+9/19/2013 9:55:05 PM::SiteAtascosa Rv nr McCoy, TX
+9/19/2013 9:55:05 PM::Series: site Atascosa Rv nr McCoy, TX- varGage height, feet
+9/19/2013 9:55:05 PM::Series: site Atascosa Rv nr McCoy, TX- varDischarge, cubic feet per second
+9/19/2013 9:55:05 PM::SiteMoss Lk nr Gainesville, TX
+9/19/2013 9:55:05 PM::Series: site Moss Lk nr Gainesville, TX- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:55:05 PM::SiteTimber Ck nr Collinsville, TX
+9/19/2013 9:55:05 PM::Series: site Timber Ck nr Collinsville, TX- varGage height, feet
+9/19/2013 9:55:05 PM::Series: site Timber Ck nr Collinsville, TX- varDischarge, cubic feet per second
+9/19/2013 9:55:06 PM::SiteElm Fk Trinity Rv at Gainesville, TX
+9/19/2013 9:55:06 PM::Series: site Elm Fk Trinity Rv at Gainesville, TX- varPrecipitation, total, inches
+9/19/2013 9:55:06 PM::Series: site Elm Fk Trinity Rv at Gainesville, TX- varGage height, feet
+9/19/2013 9:55:06 PM::Series: site Elm Fk Trinity Rv at Gainesville, TX- varDischarge, cubic feet per second
+9/19/2013 9:55:06 PM::SiteTehuacana Ck nr Streetman, TX
+9/19/2013 9:55:06 PM::Series: site Tehuacana Ck nr Streetman, TX- varGage height, feet
+9/19/2013 9:55:06 PM::Series: site Tehuacana Ck nr Streetman, TX- varDischarge, cubic feet per second
+9/19/2013 9:55:06 PM::SitePalo Duro Ck nr Spearman, TX
+9/19/2013 9:55:06 PM::Series: site Palo Duro Ck nr Spearman, TX- varPrecipitation, total, inches
+9/19/2013 9:55:06 PM::Series: site Palo Duro Ck nr Spearman, TX- varGage height, feet
+9/19/2013 9:55:06 PM::Series: site Palo Duro Ck nr Spearman, TX- varDischarge, cubic feet per second
+9/19/2013 9:55:07 PM::SitePalo Duro Res nr Spearman, TX
+9/19/2013 9:55:07 PM::Series: site Palo Duro Res nr Spearman, TX- varPrecipitation, total, inches
+9/19/2013 9:55:07 PM::Series: site Palo Duro Res nr Spearman, TX- varElevation of reservoir water surface above datum, feet
+9/19/2013 9:55:07 PM::SiteLittle Rv nr Cameron, TX
+9/19/2013 9:55:07 PM::Series: site Little Rv nr Cameron, TX- varPrecipitation, total, inches
+9/19/2013 9:55:07 PM::Series: site Little Rv nr Cameron, TX- varGage height, feet
+9/19/2013 9:55:07 PM::Series: site Little Rv nr Cameron, TX- varDischarge, cubic feet per second

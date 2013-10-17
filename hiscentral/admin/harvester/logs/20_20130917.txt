@@ -1,0 +1,323 @@
+9/17/2013 10:25:28 PM::Begin Harvest for service ID:20
+9/17/2013 10:25:28 PM::9/17/2013 10:25:28 PM
+9/17/2013 10:25:28 PM::Clearing staging tables
+9/17/2013 10:25:29 PM::sp_StageClear error The CREATE UNIQUE INDEX statement terminated because a duplicate key was found for the object name 'dbo.Sites_stage' and the index name 'unique_sitecode_network_code_stage'. The duplicate key value is (MudLake:PAC-ML-Causeway, 12).
+The statement has been terminated.
+9/17/2013 10:25:31 PM::Begin Harvest for service ID:20
+9/17/2013 10:25:31 PM::9/17/2013 10:25:31 PM
+9/17/2013 10:25:31 PM::Clearing staging tables
+9/17/2013 10:25:31 PM::sp_StageClear error The CREATE UNIQUE INDEX statement terminated because a duplicate key was found for the object name 'dbo.Sites_stage' and the index name 'unique_sitecode_network_code_stage'. The duplicate key value is (MudLake:PAC-ML-BlackOtter, 12).
+The statement has been terminated.
+9/17/2013 10:25:32 PM::Site3521
+9/17/2013 10:25:32 PM::Series: site 3521- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:32 PM::Site9713
+9/17/2013 10:25:32 PM::Series: site 9713- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:32 PM::Site9743
+9/17/2013 10:25:32 PM::Series: site 9743- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:32 PM::Site21030080
+9/17/2013 10:25:32 PM::Series: site 21030080- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:33 PM::SiteDSF028C1
+9/17/2013 10:25:33 PM::Series: site DSF028C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:33 PM::Series: site DSF028C1- varPhosphorus, total as P
+9/17/2013 10:25:33 PM::SiteICH001C1
+9/17/2013 10:25:33 PM::Series: site ICH001C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:33 PM::Series: site ICH001C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:33 PM::Series: site ICH001C1- varPhosphorus, total as P
+9/17/2013 10:25:33 PM::SiteICH002C1
+9/17/2013 10:25:33 PM::Series: site ICH002C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:33 PM::Series: site ICH002C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:33 PM::Series: site ICH002C1- varPhosphorus, total as P
+9/17/2013 10:25:33 PM::SiteICH003C1
+9/17/2013 10:25:33 PM::Series: site ICH003C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:33 PM::Series: site ICH003C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:33 PM::Series: site ICH003C1- varPhosphorus, total as P
+9/17/2013 10:25:34 PM::SiteICH004C1
+9/17/2013 10:25:34 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site ICH004C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:34 PM::Series: site ICH004C1- varPhosphorus, total as P
+9/17/2013 10:25:34 PM::SiteICH010C1
+9/17/2013 10:25:34 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site ICH010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:34 PM::Series: site ICH010C1- varPhosphorus, total as P
+9/17/2013 10:25:34 PM::SiteNEW009C1
+9/17/2013 10:25:34 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site NEW009C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:34 PM::Series: site NEW009C1- varPhosphorus, total as P
+9/17/2013 10:25:34 PM::SitePAR1491
+9/17/2013 10:25:34 PM::Series: site PAR1491- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::SiteSFR010C1
+9/17/2013 10:25:34 PM::Series: site SFR010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:34 PM::Series: site SFR010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:34 PM::Series: site SFR010C1- varPhosphorus, total as P
+9/17/2013 10:25:35 PM::SiteSFR030C1
+9/17/2013 10:25:35 PM::Series: site SFR030C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR030C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:35 PM::Series: site SFR030C1- varPhosphorus, total as P
+9/17/2013 10:25:35 PM::SiteSFR050C1
+9/17/2013 10:25:35 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR050C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:35 PM::Series: site SFR050C1- varPhosphorus, total as P
+9/17/2013 10:25:35 PM::SiteSFR060C1
+9/17/2013 10:25:35 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR060C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:35 PM::Series: site SFR060C1- varPhosphorus, total as P
+9/17/2013 10:25:35 PM::SiteSFR070C1
+9/17/2013 10:25:35 PM::Series: site SFR070C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:25:35 PM::Series: site SFR070C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:25:35 PM::Series: site SFR070C1- varPhosphorus, total as P
+9/17/2013 10:25:35 PM::Archive stage data
+9/17/2013 10:25:35 PM::0 seriescatalog records archived
+9/17/2013 10:25:35 PM::0 sites records archived
+9/17/2013 10:25:35 PM::0 variables records archived
+9/17/2013 10:25:35 PM::Update stage data
+9/17/2013 10:25:36 PM::17 sites records updated
+9/17/2013 10:25:36 PM::3 variables records updated
+9/17/2013 10:25:36 PM::45 seriescatalog records updated
+9/17/2013 10:25:36 PM::Insert stage data
+9/17/2013 10:25:36 PM::0 sites records inserted
+9/17/2013 10:25:36 PM::0 variables records inserted
+9/17/2013 10:25:36 PM::0 seriescatalog records inserted
+9/17/2013 10:25:36 PM::Updating service statistics
+9/17/2013 10:25:36 PM::Harvest completed:9/17/2013 10:25:36 PM
+9/17/2013 10:26:51 PM::Begin Harvest for service ID:20
+9/17/2013 10:26:51 PM::9/17/2013 10:26:51 PM
+9/17/2013 10:26:51 PM::Clearing staging tables
+9/17/2013 10:26:53 PM::Site3521
+9/17/2013 10:26:53 PM::Series: site 3521- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:53 PM::Site9713
+9/17/2013 10:26:53 PM::Series: site 9713- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:53 PM::Site9743
+9/17/2013 10:26:53 PM::Series: site 9743- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:54 PM::Site21030080
+9/17/2013 10:26:54 PM::Series: site 21030080- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:54 PM::SiteDSF028C1
+9/17/2013 10:26:54 PM::Series: site DSF028C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:54 PM::Series: site DSF028C1- varPhosphorus, total as P
+9/17/2013 10:26:54 PM::SiteICH001C1
+9/17/2013 10:26:54 PM::Series: site ICH001C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:54 PM::Series: site ICH001C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:54 PM::Series: site ICH001C1- varPhosphorus, total as P
+9/17/2013 10:26:54 PM::SiteICH002C1
+9/17/2013 10:26:55 PM::Series: site ICH002C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH002C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:55 PM::Series: site ICH002C1- varPhosphorus, total as P
+9/17/2013 10:26:55 PM::SiteICH003C1
+9/17/2013 10:26:55 PM::Series: site ICH003C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH003C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:55 PM::Series: site ICH003C1- varPhosphorus, total as P
+9/17/2013 10:26:55 PM::SiteICH004C1
+9/17/2013 10:26:55 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH004C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:55 PM::Series: site ICH004C1- varPhosphorus, total as P
+9/17/2013 10:26:55 PM::SiteICH010C1
+9/17/2013 10:26:55 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:55 PM::Series: site ICH010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:55 PM::Series: site ICH010C1- varPhosphorus, total as P
+9/17/2013 10:26:56 PM::SiteNEW009C1
+9/17/2013 10:26:56 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:56 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:56 PM::Series: site NEW009C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:56 PM::Series: site NEW009C1- varPhosphorus, total as P
+9/17/2013 10:26:56 PM::SitePAR1491
+9/17/2013 10:26:56 PM::Series: site PAR1491- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:56 PM::SiteSFR010C1
+9/17/2013 10:26:56 PM::Series: site SFR010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:56 PM::Series: site SFR010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:56 PM::Series: site SFR010C1- varPhosphorus, total as P
+9/17/2013 10:26:56 PM::SiteSFR030C1
+9/17/2013 10:26:56 PM::Series: site SFR030C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:56 PM::Series: site SFR030C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:56 PM::Series: site SFR030C1- varPhosphorus, total as P
+9/17/2013 10:26:57 PM::SiteSFR050C1
+9/17/2013 10:26:57 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:57 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:57 PM::Series: site SFR050C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:57 PM::Series: site SFR050C1- varPhosphorus, total as P
+9/17/2013 10:26:57 PM::SiteSFR060C1
+9/17/2013 10:26:57 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:57 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:57 PM::Series: site SFR060C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:57 PM::Series: site SFR060C1- varPhosphorus, total as P
+9/17/2013 10:26:57 PM::SiteSFR070C1
+9/17/2013 10:26:57 PM::Series: site SFR070C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:26:57 PM::Series: site SFR070C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:26:57 PM::Series: site SFR070C1- varPhosphorus, total as P
+9/17/2013 10:26:57 PM::Archive stage data
+9/17/2013 10:26:57 PM::0 seriescatalog records archived
+9/17/2013 10:26:57 PM::0 sites records archived
+9/17/2013 10:26:57 PM::0 variables records archived
+9/17/2013 10:26:57 PM::Update stage data
+9/17/2013 10:26:57 PM::17 sites records updated
+9/17/2013 10:26:57 PM::3 variables records updated
+9/17/2013 10:26:57 PM::45 seriescatalog records updated
+9/17/2013 10:26:57 PM::Insert stage data
+9/17/2013 10:26:57 PM::0 sites records inserted
+9/17/2013 10:26:57 PM::0 variables records inserted
+9/17/2013 10:26:57 PM::0 seriescatalog records inserted
+9/17/2013 10:26:57 PM::Updating service statistics
+9/17/2013 10:26:57 PM::Harvest completed:9/17/2013 10:26:57 PM
+9/17/2013 10:29:23 PM::Begin Harvest for service ID:20
+9/17/2013 10:29:23 PM::9/17/2013 10:29:23 PM
+9/17/2013 10:29:23 PM::Clearing staging tables
+9/17/2013 10:29:24 PM::Site3521
+9/17/2013 10:29:24 PM::Series: site 3521- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:24 PM::Site9713
+9/17/2013 10:29:24 PM::Series: site 9713- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:24 PM::Site9743
+9/17/2013 10:29:24 PM::Series: site 9743- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:25 PM::Site21030080
+9/17/2013 10:29:25 PM::Series: site 21030080- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:25 PM::SiteDSF028C1
+9/17/2013 10:29:25 PM::Series: site DSF028C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:25 PM::Series: site DSF028C1- varPhosphorus, total as P
+9/17/2013 10:29:25 PM::SiteICH001C1
+9/17/2013 10:29:25 PM::Series: site ICH001C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:25 PM::Series: site ICH001C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:25 PM::Series: site ICH001C1- varPhosphorus, total as P
+9/17/2013 10:29:26 PM::SiteICH002C1
+9/17/2013 10:29:26 PM::Series: site ICH002C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH002C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:26 PM::Series: site ICH002C1- varPhosphorus, total as P
+9/17/2013 10:29:26 PM::SiteICH003C1
+9/17/2013 10:29:26 PM::Series: site ICH003C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH003C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:26 PM::Series: site ICH003C1- varPhosphorus, total as P
+9/17/2013 10:29:26 PM::SiteICH004C1
+9/17/2013 10:29:26 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH004C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:26 PM::Series: site ICH004C1- varPhosphorus, total as P
+9/17/2013 10:29:26 PM::SiteICH010C1
+9/17/2013 10:29:26 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site ICH010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:26 PM::Series: site ICH010C1- varPhosphorus, total as P
+9/17/2013 10:29:26 PM::SiteNEW009C1
+9/17/2013 10:29:26 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:26 PM::Series: site NEW009C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:26 PM::Series: site NEW009C1- varPhosphorus, total as P
+9/17/2013 10:29:27 PM::SitePAR1491
+9/17/2013 10:29:27 PM::Series: site PAR1491- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::SiteSFR010C1
+9/17/2013 10:29:27 PM::Series: site SFR010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:27 PM::Series: site SFR010C1- varPhosphorus, total as P
+9/17/2013 10:29:27 PM::SiteSFR030C1
+9/17/2013 10:29:27 PM::Series: site SFR030C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR030C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:27 PM::Series: site SFR030C1- varPhosphorus, total as P
+9/17/2013 10:29:27 PM::SiteSFR050C1
+9/17/2013 10:29:27 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR050C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:27 PM::Series: site SFR050C1- varPhosphorus, total as P
+9/17/2013 10:29:27 PM::SiteSFR060C1
+9/17/2013 10:29:27 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:27 PM::Series: site SFR060C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:27 PM::Series: site SFR060C1- varPhosphorus, total as P
+9/17/2013 10:29:28 PM::SiteSFR070C1
+9/17/2013 10:29:28 PM::Series: site SFR070C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:29:28 PM::Series: site SFR070C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:29:28 PM::Series: site SFR070C1- varPhosphorus, total as P
+9/17/2013 10:29:28 PM::Archive stage data
+9/17/2013 10:29:28 PM::0 seriescatalog records archived
+9/17/2013 10:29:28 PM::0 sites records archived
+9/17/2013 10:29:28 PM::0 variables records archived
+9/17/2013 10:29:28 PM::Update stage data
+9/17/2013 10:29:28 PM::17 sites records updated
+9/17/2013 10:29:28 PM::3 variables records updated
+9/17/2013 10:29:28 PM::45 seriescatalog records updated
+9/17/2013 10:29:28 PM::Insert stage data
+9/17/2013 10:29:28 PM::0 sites records inserted
+9/17/2013 10:29:28 PM::0 variables records inserted
+9/17/2013 10:29:28 PM::0 seriescatalog records inserted
+9/17/2013 10:29:28 PM::Updating service statistics
+9/17/2013 10:29:28 PM::Harvest completed:9/17/2013 10:29:28 PM
+9/17/2013 10:42:00 PM::Begin Harvest for service ID:20
+9/17/2013 10:42:00 PM::9/17/2013 10:42:00 PM
+9/17/2013 10:42:00 PM::Clearing staging tables
+9/17/2013 10:42:01 PM::Site3521
+9/17/2013 10:42:01 PM::Series: site 3521- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:01 PM::Site9713
+9/17/2013 10:42:02 PM::Series: site 9713- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:02 PM::Site9743
+9/17/2013 10:42:02 PM::Series: site 9743- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:02 PM::Site21030080
+9/17/2013 10:42:02 PM::Series: site 21030080- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:02 PM::SiteDSF028C1
+9/17/2013 10:42:02 PM::Series: site DSF028C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:02 PM::Series: site DSF028C1- varPhosphorus, total as P
+9/17/2013 10:42:02 PM::SiteICH001C1
+9/17/2013 10:42:02 PM::Series: site ICH001C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:03 PM::Series: site ICH001C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:03 PM::Series: site ICH001C1- varPhosphorus, total as P
+9/17/2013 10:42:03 PM::SiteICH002C1
+9/17/2013 10:42:03 PM::Series: site ICH002C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:03 PM::Series: site ICH002C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:03 PM::Series: site ICH002C1- varPhosphorus, total as P
+9/17/2013 10:42:03 PM::SiteICH003C1
+9/17/2013 10:42:03 PM::Series: site ICH003C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:03 PM::Series: site ICH003C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:03 PM::Series: site ICH003C1- varPhosphorus, total as P
+9/17/2013 10:42:04 PM::SiteICH004C1
+9/17/2013 10:42:04 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site ICH004C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site ICH004C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:04 PM::Series: site ICH004C1- varPhosphorus, total as P
+9/17/2013 10:42:04 PM::SiteICH010C1
+9/17/2013 10:42:04 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site ICH010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site ICH010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:04 PM::Series: site ICH010C1- varPhosphorus, total as P
+9/17/2013 10:42:04 PM::SiteNEW009C1
+9/17/2013 10:42:04 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site NEW009C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site NEW009C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:04 PM::Series: site NEW009C1- varPhosphorus, total as P
+9/17/2013 10:42:04 PM::SitePAR1491
+9/17/2013 10:42:04 PM::Series: site PAR1491- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::SiteSFR010C1
+9/17/2013 10:42:04 PM::Series: site SFR010C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:04 PM::Series: site SFR010C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:04 PM::Series: site SFR010C1- varPhosphorus, total as P
+9/17/2013 10:42:05 PM::SiteSFR030C1
+9/17/2013 10:42:05 PM::Series: site SFR030C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR030C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:05 PM::Series: site SFR030C1- varPhosphorus, total as P
+9/17/2013 10:42:05 PM::SiteSFR050C1
+9/17/2013 10:42:05 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR050C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR050C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:05 PM::Series: site SFR050C1- varPhosphorus, total as P
+9/17/2013 10:42:05 PM::SiteSFR060C1
+9/17/2013 10:42:05 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR060C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR060C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:05 PM::Series: site SFR060C1- varPhosphorus, total as P
+9/17/2013 10:42:05 PM::SiteSFR070C1
+9/17/2013 10:42:05 PM::Series: site SFR070C1- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen as N
+9/17/2013 10:42:05 PM::Series: site SFR070C1- varNitrogen, nitrate (NO3) as N
+9/17/2013 10:42:05 PM::Series: site SFR070C1- varPhosphorus, total as P
+9/17/2013 10:42:05 PM::Archive stage data
+9/17/2013 10:42:05 PM::0 seriescatalog records archived
+9/17/2013 10:42:05 PM::0 sites records archived
+9/17/2013 10:42:05 PM::0 variables records archived
+9/17/2013 10:42:05 PM::Update stage data
+9/17/2013 10:42:05 PM::17 sites records updated
+9/17/2013 10:42:05 PM::3 variables records updated
+9/17/2013 10:42:05 PM::45 seriescatalog records updated
+9/17/2013 10:42:05 PM::Insert stage data
+9/17/2013 10:42:05 PM::0 sites records inserted
+9/17/2013 10:42:05 PM::0 variables records inserted
+9/17/2013 10:42:05 PM::0 seriescatalog records inserted
+9/17/2013 10:42:05 PM::Updating service statistics
+9/17/2013 10:42:05 PM::Harvest completed:9/17/2013 10:42:05 PM

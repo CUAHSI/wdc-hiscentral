@@ -1,0 +1,30 @@
+9/19/2013 9:30:43 PM::Begin Harvest for service ID:139
+9/19/2013 9:30:43 PM::9/19/2013 9:30:43 PM
+9/19/2013 9:30:43 PM::Clearing staging tables
+9/19/2013 9:30:46 PM::SiteSRWMD old USGS gage 02321975 SANTA FE RIVER AT HWY 441 NEAR HIGH SPRINGS
+9/19/2013 9:30:46 PM::Series: site SRWMD old USGS gage 02321975 SANTA FE RIVER AT HWY 441 NEAR HIGH SPRINGS- varGage height
+9/19/2013 9:30:46 PM::Series: site SRWMD old USGS gage 02321975 SANTA FE RIVER AT HWY 441 NEAR HIGH SPRINGS- varDischarge
+9/19/2013 9:30:46 PM::SiteSRWMD old USGS gage 02320700 SANTA FE RIVER NEAR GRAHAM
+9/19/2013 9:30:46 PM::Series: site SRWMD old USGS gage 02320700 SANTA FE RIVER NEAR GRAHAM- varGage height
+9/19/2013 9:30:47 PM::Series: site SRWMD old USGS gage 02320700 SANTA FE RIVER NEAR GRAHAM- varDischarge
+9/19/2013 9:30:47 PM::SiteSRWMD old USGS gage 02322703 Santa Fe River at Three Rivers
+9/19/2013 9:30:47 PM::Series: site SRWMD old USGS gage 02322703 Santa Fe River at Three Rivers- varGage height
+9/19/2013 9:30:47 PM::SiteSRWMD old USGS gage 02321898 Santa Fe River at Oleno - bridge
+9/19/2013 9:30:47 PM::Series: site SRWMD old USGS gage 02321898 Santa Fe River at Oleno - bridge- varGage height
+9/19/2013 9:30:47 PM::Series: site SRWMD old USGS gage 02321898 Santa Fe River at Oleno - bridge- varGage height
+9/19/2013 9:30:47 PM::Series: site SRWMD old USGS gage 02321898 Santa Fe River at Oleno - bridge- varDischarge
+9/19/2013 9:30:48 PM::Series: site SRWMD old USGS gage 02321898 Santa Fe River at Oleno - bridge- varDischarge
+9/19/2013 9:30:48 PM::Archive stage data
+9/19/2013 9:30:48 PM::0 seriescatalog records archived
+9/19/2013 9:30:48 PM::0 sites records archived
+9/19/2013 9:30:48 PM::0 variables records archived
+9/19/2013 9:30:48 PM::Update stage data
+9/19/2013 9:30:48 PM::4 sites records updated
+9/19/2013 9:30:48 PM::2 variables records updated
+9/19/2013 9:30:48 PM::9 seriescatalog records updated
+9/19/2013 9:30:48 PM::Insert stage data
+9/19/2013 9:30:48 PM::0 sites records inserted
+9/19/2013 9:30:48 PM::0 variables records inserted
+9/19/2013 9:30:48 PM::0 seriescatalog records inserted
+9/19/2013 9:30:48 PM::Updating service statistics
+9/19/2013 9:30:48 PM::Harvest completed:9/19/2013 9:30:48 PM

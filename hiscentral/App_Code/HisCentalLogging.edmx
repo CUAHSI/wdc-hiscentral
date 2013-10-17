@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="hiscentral_loggingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="hiscentral_loggingModelStoreContainer">
+          <EntitySet Name="log11Service" EntityType="hiscentral_loggingModel.Store.log11Service" store:Type="Tables" store:Schema="dbo" store:Name="log11Service">
+            <DefiningQuery>SELECT 
+      [log11Service].[querytime] AS [querytime], 
+      [log11Service].[machine] AS [machine], 
+      [log11Service].[network] AS [network], 
+      [log11Service].[method] AS [method], 
+      [log11Service].[location] AS [location], 
+      [log11Service].[variable] AS [variable], 
+      [log11Service].[starttime] AS [starttime], 
+      [log11Service].[endtime] AS [endtime], 
+      [log11Service].[proctime] AS [proctime], 
+      [log11Service].[reccount] AS [reccount], 
+      [log11Service].[userhost] AS [userhost]
+      FROM [dbo].[log11Service] AS [log11Service]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'hiscentral_logging.dbo.log11Service' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="log11Service">
+          <Key>
+            <PropertyRef Name="querytime" />
+            <PropertyRef Name="machine" />
+            <PropertyRef Name="network" />
+            <PropertyRef Name="method" />
+            <PropertyRef Name="userhost" />
+          </Key>
+          <Property Name="querytime" Type="datetime" Nullable="false" />
+          <Property Name="machine" Type="varchar" Nullable="false" MaxLength="63" />
+          <Property Name="network" Type="varchar" Nullable="false" MaxLength="63" />
+          <Property Name="method" Type="varchar" Nullable="false" MaxLength="63" />
+          <Property Name="location" Type="varchar" MaxLength="127" />
+          <Property Name="variable" Type="varchar" MaxLength="127" />
+          <Property Name="starttime" Type="varchar" MaxLength="63" />
+          <Property Name="endtime" Type="varchar" MaxLength="63" />
+          <Property Name="proctime" Type="varchar" MaxLength="63" />
+          <Property Name="reccount" Type="int" />
+          <Property Name="userhost" Type="varchar" Nullable="false" MaxLength="63" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="hiscentral_loggingModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="hiscentral_loggingEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="log11Service" EntityType="hiscentral_loggingModel.log11Service" />
+        </EntityContainer>
+        <EntityType Name="log11Service">
+          <Key>
+            <PropertyRef Name="querytime" />
+            <PropertyRef Name="machine" />
+            <PropertyRef Name="network" />
+            <PropertyRef Name="method" />
+            <PropertyRef Name="userhost" />
+          </Key>
+          <Property Type="DateTime" Name="querytime" Nullable="false" Precision="3" />
+          <Property Type="String" Name="machine" Nullable="false" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="network" Nullable="false" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="method" Nullable="false" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="location" MaxLength="127" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="variable" MaxLength="127" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="starttime" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="endtime" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="proctime" MaxLength="63" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="reccount" />
+          <Property Type="String" Name="userhost" Nullable="false" MaxLength="63" FixedLength="false" Unicode="false" />
+        </EntityType>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="hiscentral_loggingModelStoreContainer" CdmEntityContainer="hiscentral_loggingEntities">
+          <EntitySetMapping Name="log11Service">
+            <EntityTypeMapping TypeName="hiscentral_loggingModel.log11Service">
+              <MappingFragment StoreEntitySet="log11Service">
+                <ScalarProperty Name="userhost" ColumnName="userhost" />
+                <ScalarProperty Name="reccount" ColumnName="reccount" />
+                <ScalarProperty Name="proctime" ColumnName="proctime" />
+                <ScalarProperty Name="endtime" ColumnName="endtime" />
+                <ScalarProperty Name="starttime" ColumnName="starttime" />
+                <ScalarProperty Name="variable" ColumnName="variable" />
+                <ScalarProperty Name="location" ColumnName="location" />
+                <ScalarProperty Name="method" ColumnName="method" />
+                <ScalarProperty Name="network" ColumnName="network" />
+                <ScalarProperty Name="machine" ColumnName="machine" />
+                <ScalarProperty Name="querytime" ColumnName="querytime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
