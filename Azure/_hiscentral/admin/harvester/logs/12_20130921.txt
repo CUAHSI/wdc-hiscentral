@@ -1,0 +1,777 @@
+9/21/2013 9:53:37 PM::Begin Harvest for service ID:12
+9/21/2013 9:53:37 PM::9/21/2013 9:53:37 PM
+9/21/2013 9:53:37 PM::Clearing staging tables
+9/21/2013 9:53:39 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 9:53:40 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 9:53:41 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:53:42 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 9:53:42 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 9:53:42 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 9:53:42 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 9:53:42 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 9:53:42 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:53:43 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:53:44 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:53:44 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:53:44 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:53:44 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:53:45 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:53:46 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:53:46 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 9:53:46 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 9:53:46 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 9:53:46 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 9:53:46 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 9:53:47 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 9:53:47 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 9:53:47 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 9:53:47 PM::SiteOutlet Canal Gage
+9/21/2013 9:53:47 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 9:53:47 PM::SiteLifton Pumping Station
+9/21/2013 9:53:47 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 9:53:47 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 9:53:47 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 9:53:48 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 9:53:48 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:53:48 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 9:53:48 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:53:48 PM::Archive stage data
+9/21/2013 9:53:48 PM::0 seriescatalog records archived
+9/21/2013 9:53:48 PM::0 sites records archived
+9/21/2013 9:53:48 PM::0 variables records archived
+9/21/2013 9:53:48 PM::Update stage data
+9/21/2013 9:53:48 PM::12 sites records updated
+9/21/2013 9:53:48 PM::34 variables records updated
+9/21/2013 9:53:48 PM::81 seriescatalog records updated
+9/21/2013 9:53:48 PM::Insert stage data
+9/21/2013 9:53:48 PM::0 sites records inserted
+9/21/2013 9:53:48 PM::0 variables records inserted
+9/21/2013 9:53:48 PM::0 seriescatalog records inserted
+9/21/2013 9:53:48 PM::Updating service statistics
+9/21/2013 9:53:48 PM::Harvest completed:9/21/2013 9:53:48 PM
+9/21/2013 9:54:55 PM::Begin Harvest for service ID:12
+9/21/2013 9:54:55 PM::9/21/2013 9:54:55 PM
+9/21/2013 9:54:55 PM::Clearing staging tables
+9/21/2013 9:54:57 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 9:54:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 9:54:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 9:54:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:54:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 9:54:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 9:54:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 9:55:00 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:55:00 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 9:55:00 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 9:55:00 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 9:55:00 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 9:55:01 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 9:55:01 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:55:01 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:55:01 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:55:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:55:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:55:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:55:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:55:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:55:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:55:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:55:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:55:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:55:04 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 9:55:04 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 9:55:05 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 9:55:05 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:55:05 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 9:55:05 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 9:55:05 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 9:55:05 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 9:55:05 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 9:55:05 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 9:55:06 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 9:55:06 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 9:55:06 PM::SiteOutlet Canal Gage
+9/21/2013 9:55:06 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 9:55:06 PM::SiteLifton Pumping Station
+9/21/2013 9:55:06 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 9:55:06 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 9:55:06 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 9:55:07 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 9:55:07 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:55:07 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 9:55:07 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:55:07 PM::Archive stage data
+9/21/2013 9:55:07 PM::0 seriescatalog records archived
+9/21/2013 9:55:07 PM::0 sites records archived
+9/21/2013 9:55:07 PM::0 variables records archived
+9/21/2013 9:55:07 PM::Update stage data
+9/21/2013 9:55:07 PM::12 sites records updated
+9/21/2013 9:55:07 PM::34 variables records updated
+9/21/2013 9:55:07 PM::81 seriescatalog records updated
+9/21/2013 9:55:07 PM::Insert stage data
+9/21/2013 9:55:07 PM::0 sites records inserted
+9/21/2013 9:55:07 PM::0 variables records inserted
+9/21/2013 9:55:07 PM::0 seriescatalog records inserted
+9/21/2013 9:55:07 PM::Updating service statistics
+9/21/2013 9:55:07 PM::Harvest completed:9/21/2013 9:55:07 PM
+9/21/2013 9:59:09 PM::Begin Harvest for service ID:12
+9/21/2013 9:59:09 PM::9/21/2013 9:59:09 PM
+9/21/2013 9:59:09 PM::Clearing staging tables
+9/21/2013 9:59:11 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 9:59:11 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:11 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:11 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:12 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 9:59:12 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 9:59:12 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:12 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:12 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 9:59:13 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 9:59:14 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 9:59:14 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 9:59:14 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 9:59:14 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:59:14 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:59:14 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:59:15 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:59:15 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:59:15 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:59:15 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 9:59:15 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:59:16 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:59:16 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:59:16 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 9:59:16 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:59:16 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:59:17 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:59:17 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 9:59:17 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 9:59:17 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 9:59:17 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 9:59:18 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 9:59:18 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 9:59:18 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 9:59:18 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 9:59:18 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 9:59:18 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 9:59:18 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 9:59:19 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 9:59:19 PM::SiteOutlet Canal Gage
+9/21/2013 9:59:19 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 9:59:19 PM::SiteLifton Pumping Station
+9/21/2013 9:59:19 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 9:59:19 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 9:59:19 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 9:59:19 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 9:59:19 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:59:20 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 9:59:20 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 9:59:20 PM::Archive stage data
+9/21/2013 9:59:20 PM::0 seriescatalog records archived
+9/21/2013 9:59:20 PM::0 sites records archived
+9/21/2013 9:59:20 PM::0 variables records archived
+9/21/2013 9:59:20 PM::Update stage data
+9/21/2013 9:59:20 PM::12 sites records updated
+9/21/2013 9:59:20 PM::34 variables records updated
+9/21/2013 9:59:20 PM::81 seriescatalog records updated
+9/21/2013 9:59:20 PM::Insert stage data
+9/21/2013 9:59:20 PM::0 sites records inserted
+9/21/2013 9:59:20 PM::0 variables records inserted
+9/21/2013 9:59:20 PM::0 seriescatalog records inserted
+9/21/2013 9:59:20 PM::Updating service statistics
+9/21/2013 9:59:20 PM::Harvest completed:9/21/2013 9:59:20 PM
+9/21/2013 10:00:21 PM::Begin Harvest for service ID:12
+9/21/2013 10:00:21 PM::9/21/2013 10:00:21 PM
+9/21/2013 10:00:21 PM::Clearing staging tables
+9/21/2013 10:00:23 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 10:00:23 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:23 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:24 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:24 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 10:00:24 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 10:00:24 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:24 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:00:25 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 10:00:26 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 10:00:26 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 10:00:26 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 10:00:26 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 10:00:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:00:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:00:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:00:28 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:00:28 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:00:29 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:00:29 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:00:29 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:00:29 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:00:29 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:00:30 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:00:30 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:00:30 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 10:00:30 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 10:00:30 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 10:00:30 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 10:00:31 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 10:00:31 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 10:00:31 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 10:00:31 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 10:00:31 PM::SiteOutlet Canal Gage
+9/21/2013 10:00:31 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 10:00:31 PM::SiteLifton Pumping Station
+9/21/2013 10:00:31 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 10:00:32 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 10:00:32 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 10:00:32 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 10:00:32 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:00:32 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 10:00:32 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:00:32 PM::Archive stage data
+9/21/2013 10:00:32 PM::0 seriescatalog records archived
+9/21/2013 10:00:32 PM::0 sites records archived
+9/21/2013 10:00:32 PM::0 variables records archived
+9/21/2013 10:00:32 PM::Update stage data
+9/21/2013 10:00:32 PM::12 sites records updated
+9/21/2013 10:00:32 PM::34 variables records updated
+9/21/2013 10:00:32 PM::81 seriescatalog records updated
+9/21/2013 10:00:32 PM::Insert stage data
+9/21/2013 10:00:32 PM::0 sites records inserted
+9/21/2013 10:00:32 PM::0 variables records inserted
+9/21/2013 10:00:32 PM::0 seriescatalog records inserted
+9/21/2013 10:00:32 PM::Updating service statistics
+9/21/2013 10:00:32 PM::Harvest completed:9/21/2013 10:00:32 PM
+9/21/2013 10:01:46 PM::Begin Harvest for service ID:12
+9/21/2013 10:01:46 PM::9/21/2013 10:01:46 PM
+9/21/2013 10:01:46 PM::Clearing staging tables
+9/21/2013 10:01:48 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 10:01:49 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:49 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:49 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:50 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 10:01:50 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 10:01:50 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:50 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:50 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:01:51 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 10:01:51 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 10:01:51 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 10:01:51 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:01:51 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 10:01:52 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 10:01:52 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 10:01:52 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 10:01:52 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 10:01:52 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:01:52 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:01:53 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:01:54 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:01:54 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:01:54 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:01:54 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:01:55 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:01:55 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:01:55 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:01:55 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:01:55 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:01:56 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:01:56 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 10:01:56 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 10:01:56 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 10:01:56 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 10:01:57 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 10:01:57 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 10:01:57 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 10:01:57 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 10:01:57 PM::SiteOutlet Canal Gage
+9/21/2013 10:01:57 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 10:01:58 PM::SiteLifton Pumping Station
+9/21/2013 10:01:58 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 10:01:58 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 10:01:58 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 10:01:58 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 10:01:58 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:01:58 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 10:01:58 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:01:58 PM::Archive stage data
+9/21/2013 10:01:58 PM::0 seriescatalog records archived
+9/21/2013 10:01:59 PM::0 sites records archived
+9/21/2013 10:01:59 PM::0 variables records archived
+9/21/2013 10:01:59 PM::Update stage data
+9/21/2013 10:01:59 PM::12 sites records updated
+9/21/2013 10:01:59 PM::34 variables records updated
+9/21/2013 10:01:59 PM::81 seriescatalog records updated
+9/21/2013 10:01:59 PM::Insert stage data
+9/21/2013 10:01:59 PM::0 sites records inserted
+9/21/2013 10:01:59 PM::0 variables records inserted
+9/21/2013 10:01:59 PM::0 seriescatalog records inserted
+9/21/2013 10:01:59 PM::Updating service statistics
+9/21/2013 10:01:59 PM::Harvest completed:9/21/2013 10:01:59 PM
+9/21/2013 10:15:54 PM::Begin Harvest for service ID:12
+9/21/2013 10:15:54 PM::9/21/2013 10:15:54 PM
+9/21/2013 10:15:54 PM::Clearing staging tables
+9/21/2013 10:15:56 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 10:15:56 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 10:15:57 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 10:15:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:58 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:15:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 10:15:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 10:15:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 10:15:59 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:16:00 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 10:16:00 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 10:16:00 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 10:16:00 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 10:16:01 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:16:01 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 10:16:01 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 10:16:01 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 10:16:01 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:16:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:16:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:16:02 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:16:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:16:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:16:03 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:16:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:16:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:16:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:16:04 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:16:05 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:16:05 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:16:05 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:16:06 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:16:06 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:16:06 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:16:07 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:16:07 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 10:16:07 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 10:16:08 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 10:16:08 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 10:16:08 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 10:16:09 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 10:16:09 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 10:16:09 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 10:16:10 PM::SiteOutlet Canal Gage
+9/21/2013 10:16:10 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 10:16:10 PM::SiteLifton Pumping Station
+9/21/2013 10:16:10 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 10:16:11 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 10:16:11 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 10:16:11 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 10:16:11 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:16:12 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 10:16:12 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:16:12 PM::Archive stage data
+9/21/2013 10:16:12 PM::0 seriescatalog records archived
+9/21/2013 10:16:12 PM::0 sites records archived
+9/21/2013 10:16:12 PM::0 variables records archived
+9/21/2013 10:16:12 PM::Update stage data
+9/21/2013 10:16:12 PM::12 sites records updated
+9/21/2013 10:16:12 PM::34 variables records updated
+9/21/2013 10:16:12 PM::81 seriescatalog records updated
+9/21/2013 10:16:12 PM::Insert stage data
+9/21/2013 10:16:12 PM::0 sites records inserted
+9/21/2013 10:16:12 PM::0 variables records inserted
+9/21/2013 10:16:12 PM::0 seriescatalog records inserted
+9/21/2013 10:16:12 PM::Updating service statistics
+9/21/2013 10:16:12 PM::Harvest completed:9/21/2013 10:16:12 PM
+9/21/2013 10:20:15 PM::Begin Harvest for service ID:12
+9/21/2013 10:20:15 PM::9/21/2013 10:20:15 PM
+9/21/2013 10:20:15 PM::Clearing staging tables
+9/21/2013 10:20:17 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 10:20:18 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:18 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:18 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:18 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTemperature
+9/21/2013 10:20:19 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varBattery voltage
+9/21/2013 10:20:19 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:19 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:19 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:20:20 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total
+9/21/2013 10:20:20 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varPhosphorus, total dissolved
+9/21/2013 10:20:20 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varSolids, total Suspended
+9/21/2013 10:20:21 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:20:21 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total dissolved
+9/21/2013 10:20:22 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varNitrogen, total
+9/21/2013 10:20:22 PM::SiteBear Lake outlet canal at Lifton
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTemperature
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varBattery voltage
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varTurbidity
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varPhosphorus, total dissolved
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varSolids, total Suspended
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total dissolved
+9/21/2013 10:20:22 PM::Series: site Bear Lake outlet canal at Lifton- varNitrogen, total
+9/21/2013 10:20:23 PM::SiteMud Lake weather station at the USFWS shop near Paris, Idaho
+9/21/2013 10:20:23 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:20:23 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:20:23 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:20:24 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:20:24 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:20:24 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:20:24 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind direction
+9/21/2013 10:20:25 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:20:25 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:20:25 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:20:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varWind speed
+9/21/2013 10:20:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:20:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:20:26 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:20:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRelative humidity
+9/21/2013 10:20:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varBarometric pressure
+9/21/2013 10:20:27 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varPrecipitation
+9/21/2013 10:20:28 PM::Series: site Mud Lake weather station at the USFWS shop near Paris, Idaho- varRadiation, incoming shortwave
+9/21/2013 10:20:28 PM::SiteMud Lake inlet canal at Stewart Dam
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTemperature
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varBattery voltage
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varTurbidity
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varPhosphorus, total dissolved
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varSolids, total Suspended
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total dissolved
+9/21/2013 10:20:28 PM::Series: site Mud Lake inlet canal at Stewart Dam- varNitrogen, total
+9/21/2013 10:20:29 PM::SiteBear Lake outlet canal near USFWS shop near Paris, Idaho
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTemperature
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varBattery voltage
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varTurbidity
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varPhosphorus, total dissolved
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varSolids, total Suspended
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, nitrite (NO2) + nitrate (NO3) nitrogen
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total dissolved
+9/21/2013 10:20:29 PM::Series: site Bear Lake outlet canal near USFWS shop near Paris, Idaho- varNitrogen, total
+9/21/2013 10:20:29 PM::SiteMud Lake water level at Paris Dike
+9/21/2013 10:20:29 PM::Series: site Mud Lake water level at Paris Dike- varWater level
+9/21/2013 10:20:30 PM::SiteRainbow Inlet Canal Gage
+9/21/2013 10:20:30 PM::Series: site Rainbow Inlet Canal Gage- varDischarge
+9/21/2013 10:20:30 PM::SiteOutlet Canal Gage
+9/21/2013 10:20:30 PM::Series: site Outlet Canal Gage- varDischarge
+9/21/2013 10:20:31 PM::SiteLifton Pumping Station
+9/21/2013 10:20:31 PM::Series: site Lifton Pumping Station- varDischarge
+9/21/2013 10:20:31 PM::SiteMud Lake Inflow to Bear Lake at Causeway
+9/21/2013 10:20:31 PM::Series: site Mud Lake Inflow to Bear Lake at Causeway- varDischarge
+9/21/2013 10:20:32 PM::SiteBlack Otter Canal Inflow to the Rainbow Canal
+9/21/2013 10:20:32 PM::Series: site Black Otter Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:20:32 PM::SiteReam Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal
+9/21/2013 10:20:32 PM::Series: site Ream Crockett (formerly Dingle) Canal Inflow to the Rainbow Canal- varDischarge
+9/21/2013 10:20:32 PM::Archive stage data
+9/21/2013 10:20:32 PM::0 seriescatalog records archived
+9/21/2013 10:20:32 PM::0 sites records archived
+9/21/2013 10:20:32 PM::0 variables records archived
+9/21/2013 10:20:32 PM::Update stage data
+9/21/2013 10:20:32 PM::12 sites records updated
+9/21/2013 10:20:32 PM::34 variables records updated
+9/21/2013 10:20:32 PM::81 seriescatalog records updated
+9/21/2013 10:20:32 PM::Insert stage data
+9/21/2013 10:20:32 PM::0 sites records inserted
+9/21/2013 10:20:32 PM::0 variables records inserted
+9/21/2013 10:20:33 PM::0 seriescatalog records inserted
+9/21/2013 10:20:33 PM::Updating service statistics
+9/21/2013 10:20:33 PM::Harvest completed:9/21/2013 10:20:33 PM
+9/21/2013 10:24:29 PM::Begin Harvest for service ID:12
+9/21/2013 10:24:29 PM::9/21/2013 10:24:29 PM
+9/21/2013 10:24:29 PM::Clearing staging tables
+9/21/2013 10:24:31 PM::SiteMud Lake outflow to Bear Lake at the causeway.
+9/21/2013 10:24:31 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:24:32 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity
+9/21/2013 10:24:32 PM::Series: site Mud Lake outflow to Bear Lake at the causeway.- varTurbidity

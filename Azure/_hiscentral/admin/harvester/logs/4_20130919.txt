@@ -1,0 +1,575 @@
+9/19/2013 9:46:09 PM::Begin Harvest for service ID:4
+9/19/2013 9:46:09 PM::9/19/2013 9:46:09 PM
+9/19/2013 9:46:09 PM::Clearing staging tables
+9/19/2013 9:47:00 PM::SiteBIG CREEK
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:01 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:01 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:02 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:02 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:03 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:03 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:05 PM::SiteVAPA019R/VAPA019S1
+9/19/2013 9:47:05 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:05 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:05 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:05 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:06 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:07 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:07 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:08 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:08 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:09 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:10 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:11 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:11 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:12 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:12 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:14 PM::SiteNorth Fork Dry Run
+9/19/2013 9:47:14 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:14 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:15 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:16 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:16 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:16 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:16 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::SiteVAPA024R/VAPA024S1
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:18 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::SiteJeremy's Run just above last upstream trail crossing
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:20 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:21 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:47:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:21 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:21 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::SiteNF DRY RUN (Chang site SI02)
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:23 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::SiteUpper end of first left hand trib to Jeremy's Run in SHEN
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:25 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::SiteVAPA038S1
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:27 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::SiteJeremys Run
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:29 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::SiteFULTZ RUN
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:31 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::SiteFULTZ RUN
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:33 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::SiteVAPA029R/VAPA029S1
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:35 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:37 PM::SiteLeft fork of left fork of North Fork Dry Run
+9/19/2013 9:47:37 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:38 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:40 PM::SiteJeremys Run
+9/19/2013 9:47:40 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:40 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:40 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:40 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806
+9/19/2013 9:47:40 PM::Object reference not set to an instance of an object.
+9/19/2013 9:47:40 PM::   at HisCentralHarvester2.Harvester.updateInsertSeries(seriesCatalogTypeSeries series, SiteInfoType site, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 806

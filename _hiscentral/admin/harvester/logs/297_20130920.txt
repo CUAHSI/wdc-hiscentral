@@ -1,0 +1,153 @@
+9/20/2013 1:42:36 PM::Begin Harvest for service ID:297
+9/20/2013 1:42:36 PM::9/20/2013 1:42:36 PM
+9/20/2013 1:42:36 PM::Clearing staging tables
+9/20/2013 1:42:40 PM::SiteEgypt River, Route 1A, Ipswich
+9/20/2013 1:42:41 PM::Series: site Egypt River, Route 1A, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:42 PM::Series: site Egypt River, Route 1A, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:44 PM::Series: site Egypt River, Route 1A, Ipswich- varTemperature
+9/20/2013 1:42:45 PM::SiteFish Brook, Brookview Rd, Boxford
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Brookview Rd, Boxford- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Brookview Rd, Boxford- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Brookview Rd, Boxford- varTemperature
+9/20/2013 1:42:45 PM::SiteFish Brook, Middleton Rd., Boxford
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Middleton Rd., Boxford- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Middleton Rd., Boxford- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Middleton Rd., Boxford- varTemperature
+9/20/2013 1:42:45 PM::SiteFish Brook, Washington St., Topsfield
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Washington St., Topsfield- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Washington St., Topsfield- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Fish Brook, Washington St., Topsfield- varTemperature
+9/20/2013 1:42:45 PM::SiteGravelly Brook, Willowdale State Forest, Ipswich
+9/20/2013 1:42:45 PM::Series: site Gravelly Brook, Willowdale State Forest, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Gravelly Brook, Willowdale State Forest, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Gravelly Brook, Willowdale State Forest, Ipswich- varTemperature
+9/20/2013 1:42:45 PM::SiteGreenwood Creek, Ipswich
+9/20/2013 1:42:45 PM::Series: site Greenwood Creek, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Greenwood Creek, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Greenwood Creek, Ipswich- varTemperature
+9/20/2013 1:42:45 PM::SiteHowlett Brook, Ipswich Road, Topsfield
+9/20/2013 1:42:45 PM::Series: site Howlett Brook, Ipswich Road, Topsfield- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Howlett Brook, Ipswich Road, Topsfield- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Howlett Brook, Ipswich Road, Topsfield- varTemperature
+9/20/2013 1:42:45 PM::SiteWoburn St., Wilmington
+9/20/2013 1:42:45 PM::Series: site Woburn St., Wilmington- varOxygen, dissolved
+9/20/2013 1:42:45 PM::Series: site Woburn St., Wilmington- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:45 PM::Series: site Woburn St., Wilmington- varTemperature
+9/20/2013 1:42:46 PM::SiteReading Town Forest
+9/20/2013 1:42:46 PM::Series: site Reading Town Forest- varOxygen, dissolved
+9/20/2013 1:42:46 PM::Series: site Reading Town Forest- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:46 PM::Series: site Reading Town Forest- varTemperature
+9/20/2013 1:42:46 PM::SiteMill St., Reading
+9/20/2013 1:42:46 PM::Series: site Mill St., Reading- varOxygen, dissolved
+9/20/2013 1:42:46 PM::Series: site Mill St., Reading- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:46 PM::Series: site Mill St., Reading- varTemperature
+9/20/2013 1:42:46 PM::SiteRt. 28, Reading/North Reading
+9/20/2013 1:42:46 PM::Series: site Rt. 28, Reading/North Reading- varOxygen, dissolved
+9/20/2013 1:42:46 PM::Series: site Rt. 28, Reading/North Reading- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:46 PM::Series: site Rt. 28, Reading/North Reading- varTemperature
+9/20/2013 1:42:46 PM::SiteCentral St., North Reading
+9/20/2013 1:42:46 PM::Series: site Central St., North Reading- varOxygen, dissolved
+9/20/2013 1:42:46 PM::Series: site Central St., North Reading- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:46 PM::Series: site Central St., North Reading- varTemperature
+9/20/2013 1:42:46 PM::SiteRoute 62, North Reading
+9/20/2013 1:42:46 PM::Series: site Route 62, North Reading- varOxygen, dissolved
+9/20/2013 1:42:46 PM::Series: site Route 62, North Reading- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:46 PM::Series: site Route 62, North Reading- varTemperature
+9/20/2013 1:42:47 PM::SiteBoston Street, Middleton
+9/20/2013 1:42:47 PM::Series: site Boston Street, Middleton- varOxygen, dissolved
+9/20/2013 1:42:47 PM::Series: site Boston Street, Middleton- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:47 PM::Series: site Boston Street, Middleton- varTemperature
+9/20/2013 1:42:47 PM::SiteLog Bridge Road, Middleton
+9/20/2013 1:42:47 PM::Series: site Log Bridge Road, Middleton- varOxygen, dissolved
+9/20/2013 1:42:47 PM::Series: site Log Bridge Road, Middleton- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:47 PM::Series: site Log Bridge Road, Middleton- varTemperature
+9/20/2013 1:42:47 PM::SiteRoute 62, Middleton
+9/20/2013 1:42:47 PM::Series: site Route 62, Middleton- varOxygen, dissolved
+9/20/2013 1:42:47 PM::Series: site Route 62, Middleton- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:47 PM::Series: site Route 62, Middleton- varTemperature
+9/20/2013 1:42:48 PM::SitePeabody Street, Middleton
+9/20/2013 1:42:48 PM::Series: site Peabody Street, Middleton- varOxygen, dissolved
+9/20/2013 1:42:48 PM::Series: site Peabody Street, Middleton- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:48 PM::Series: site Peabody Street, Middleton- varTemperature
+9/20/2013 1:42:51 PM::SiteEast Street, Middleton
+9/20/2013 1:42:51 PM::Series: site East Street, Middleton- varOxygen, dissolved
+9/20/2013 1:42:51 PM::Series: site East Street, Middleton- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:51 PM::Series: site East Street, Middleton- varTemperature
+9/20/2013 1:42:51 PM::SiteRowley Bridge Road, Topsfield
+9/20/2013 1:42:51 PM::Series: site Rowley Bridge Road, Topsfield- varOxygen, dissolved
+9/20/2013 1:42:51 PM::Series: site Rowley Bridge Road, Topsfield- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:51 PM::Series: site Rowley Bridge Road, Topsfield- varTemperature
+9/20/2013 1:42:51 PM::SiteSalem Road, Topsfield
+9/20/2013 1:42:51 PM::Series: site Salem Road, Topsfield- varOxygen, dissolved
+9/20/2013 1:42:51 PM::Series: site Salem Road, Topsfield- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:51 PM::Series: site Salem Road, Topsfield- varTemperature
+9/20/2013 1:42:51 PM::SiteIpswich River Wildlife Sanctuary Canoe Launch
+9/20/2013 1:42:51 PM::Series: site Ipswich River Wildlife Sanctuary Canoe Launch- varOxygen, dissolved
+9/20/2013 1:42:51 PM::Series: site Ipswich River Wildlife Sanctuary Canoe Launch- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:51 PM::Series: site Ipswich River Wildlife Sanctuary Canoe Launch- varTemperature
+9/20/2013 1:42:52 PM::SiteAsbury Street, Topsfield
+9/20/2013 1:42:52 PM::Series: site Asbury Street, Topsfield- varOxygen, dissolved
+9/20/2013 1:42:52 PM::Series: site Asbury Street, Topsfield- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:52 PM::Series: site Asbury Street, Topsfield- varTemperature
+9/20/2013 1:42:54 PM::SiteBelow Willowdale Dam, Topsfield Road. Ipswich
+9/20/2013 1:42:54 PM::Series: site Below Willowdale Dam, Topsfield Road. Ipswich- varOxygen, dissolved
+9/20/2013 1:42:54 PM::Series: site Below Willowdale Dam, Topsfield Road. Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:54 PM::Series: site Below Willowdale Dam, Topsfield Road. Ipswich- varTemperature
+9/20/2013 1:42:54 PM::Site300' upstream of Willowdale Dam, Topsfield Road, Ipswich
+9/20/2013 1:42:54 PM::Series: site 300' upstream of Willowdale Dam, Topsfield Road, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:54 PM::Series: site 300' upstream of Willowdale Dam, Topsfield Road, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:54 PM::Series: site 300' upstream of Willowdale Dam, Topsfield Road, Ipswich- varTemperature
+9/20/2013 1:42:54 PM::SiteWinthrop Street, Ipswich
+9/20/2013 1:42:54 PM::Series: site Winthrop Street, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:54 PM::Series: site Winthrop Street, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:54 PM::Series: site Winthrop Street, Ipswich- varTemperature
+9/20/2013 1:42:54 PM::SiteMIll Road, Ipswich
+9/20/2013 1:42:54 PM::Series: site MIll Road, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:54 PM::Series: site MIll Road, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:54 PM::Series: site MIll Road, Ipswich- varTemperature
+9/20/2013 1:42:54 PM::SiteEBSCO Dam, Ipswich
+9/20/2013 1:42:54 PM::Series: site EBSCO Dam, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:54 PM::Series: site EBSCO Dam, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:54 PM::Series: site EBSCO Dam, Ipswich- varTemperature
+9/20/2013 1:42:55 PM::SiteGreen Street, Ipswich
+9/20/2013 1:42:55 PM::Series: site Green Street, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:55 PM::Series: site Green Street, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:55 PM::Series: site Green Street, Ipswich- varTemperature
+9/20/2013 1:42:56 PM::SiteTown Wharf, Ipswich
+9/20/2013 1:42:56 PM::Series: site Town Wharf, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:56 PM::Series: site Town Wharf, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:56 PM::Series: site Town Wharf, Ipswich- varTemperature
+9/20/2013 1:42:57 PM::SiteLubber's Brook, Glen Rd., Wilmington
+9/20/2013 1:42:57 PM::Series: site Lubber's Brook, Glen Rd., Wilmington- varOxygen, dissolved
+9/20/2013 1:42:57 PM::Series: site Lubber's Brook, Glen Rd., Wilmington- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:57 PM::Series: site Lubber's Brook, Glen Rd., Wilmington- varTemperature
+9/20/2013 1:42:57 PM::SiteMartin's Brook, Rt. 62, Wilmington
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Rt. 62, Wilmington- varOxygen, dissolved
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Rt. 62, Wilmington- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Rt. 62, Wilmington- varTemperature
+9/20/2013 1:42:57 PM::SiteMartin's Brook, Park St., North Reading
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Park St., North Reading- varOxygen, dissolved
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Park St., North Reading- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:57 PM::Series: site Martin's Brook, Park St., North Reading- varTemperature
+9/20/2013 1:42:57 PM::SiteMaple Meadow Brook, Wildwood St., Wilmington
+9/20/2013 1:42:57 PM::Series: site Maple Meadow Brook, Wildwood St., Wilmington- varOxygen, dissolved
+9/20/2013 1:42:57 PM::Series: site Maple Meadow Brook, Wildwood St., Wilmington- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:57 PM::Series: site Maple Meadow Brook, Wildwood St., Wilmington- varTemperature
+9/20/2013 1:42:59 PM::SiteMiles River at Route 1A, Ipswich
+9/20/2013 1:42:59 PM::Series: site Miles River at Route 1A, Ipswich- varOxygen, dissolved
+9/20/2013 1:42:59 PM::Series: site Miles River at Route 1A, Ipswich- varOxygen, dissolved Percent of Saturation
+9/20/2013 1:42:59 PM::Series: site Miles River at Route 1A, Ipswich- varTemperature
+9/20/2013 1:42:59 PM::Archive stage data
+9/20/2013 1:42:59 PM::0 seriescatalog records archived
+9/20/2013 1:42:59 PM::0 sites records archived
+9/20/2013 1:42:59 PM::0 variables records archived
+9/20/2013 1:42:59 PM::Update stage data
+9/20/2013 1:42:59 PM::0 sites records updated
+9/20/2013 1:42:59 PM::0 variables records updated
+9/20/2013 1:42:59 PM::0 seriescatalog records updated
+9/20/2013 1:42:59 PM::Insert stage data
+9/20/2013 1:43:01 PM::0 sites records inserted
+9/20/2013 1:43:01 PM::0 variables records inserted
+9/20/2013 1:43:02 PM::0 seriescatalog records inserted
+9/20/2013 1:43:02 PM::Updating service statistics
+9/20/2013 1:43:02 PM::Harvest completed:9/20/2013 1:43:02 PM

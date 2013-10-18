@@ -1,0 +1,23 @@
+When the project is deployed on production:
+
+- Run the SQL scripts on the production datbase to add the gmail address column to HISNetworks table + create the 'ExistingUserTokensTable' for one time use.
+
+- Goto www.xxxx.com/CreateTokens.aspx : this will create one time security tokens for existing usernames. These can be then lookedup in the 'ExistingUserTokensTable'
+- For each item in 'ExistingUserTokensTable', shoot out an email to those clients with the following activation URL in the body of the email along with any other instcutions:
+
+Example:
+
+Dear JPollak
+
+click the folloing activation link to associate your old login to your new google single o a/c.
+You will first need to sign up for an email account with gmail.. 
+
+
+Template: www.xxx.com/AssociateLogin.aspx?s={insert the generated token here}
+Example: www.xxx.com/AssociateLogin.aspx?s=5e5084ea-271b-482e-a28d-92872761e658
+
+NOTE: no brackets in the actual link that goes out to the client!!!
+
+Then when the customer clicks this link, they will be taken to the Google Login page....
+
+NOTE: If the 'CreateTokens.aspx' page is run again, NEW TOKENS for existing users will be created! Please make sure to run this page only one time before mass-emailing the activation URLs to existing clients.

@@ -1,0 +1,21 @@
+9/19/2013 9:29:30 PM::Begin Harvest for service ID:14
+9/19/2013 9:29:30 PM::9/19/2013 9:29:30 PM
+9/19/2013 9:29:30 PM::Clearing staging tables
+9/19/2013 9:29:52 PM::Unable to connect to the remote server
+9/19/2013 9:29:52 PM::   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at HisCentralHarvester2.waterml_10.WaterOneFlow.GetSites(String[] site, String authToken) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\Web References\waterml_10\Reference.cs:line 285
+   at HisCentralHarvester2.Harvester.DoSiteList_10(String org, SqlConnection con, String url) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 402
+   at HisCentralHarvester2.Harvester.HarvestNetwork() in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 132
+9/19/2013 9:29:52 PM::Harvesting Errors, skipping archive
+9/19/2013 9:29:52 PM::Update stage data
+9/19/2013 9:29:52 PM::0 sites records updated
+9/19/2013 9:29:52 PM::0 variables records updated
+9/19/2013 9:29:52 PM::0 seriescatalog records updated
+9/19/2013 9:29:52 PM::Insert stage data
+9/19/2013 9:29:53 PM::0 sites records inserted
+9/19/2013 9:29:53 PM::0 variables records inserted
+9/19/2013 9:29:53 PM::0 seriescatalog records inserted
+9/19/2013 9:29:53 PM::Updating service statistics
+9/19/2013 9:29:53 PM::Harvest completed:9/19/2013 9:29:53 PM

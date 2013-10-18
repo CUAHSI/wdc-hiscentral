@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="hiscentralModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="hiscentralModelStoreContainer">
+          <EntitySet Name="ExistingUserTokens" EntityType="hiscentralModel.Store.ExistingUserTokens" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="HISNetworks" EntityType="hiscentralModel.Store.HISNetworks" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="ExistingUserTokens">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ExistingUsername" Type="nvarchar" Nullable="false" MaxLength="100" />
+          <Property Name="GeneratedToken" Type="nvarchar" Nullable="false" MaxLength="200" />
+          <Property Name="EmailAddressOnFile" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="HISNetworks">
+          <Key>
+            <PropertyRef Name="NetworkID" />
+          </Key>
+          <Property Name="NetworkID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="username" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="NetworkName" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="NetworkTitle" Type="nvarchar" MaxLength="255" />
+          <Property Name="ServiceWSDL" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="ServiceAbs" Type="nvarchar(max)" />
+          <Property Name="ContactName" Type="nvarchar" MaxLength="255" />
+          <Property Name="ContactEmail" Type="nvarchar" MaxLength="255" />
+          <Property Name="ContactPhone" Type="nvarchar" MaxLength="50" />
+          <Property Name="Organization" Type="nvarchar" MaxLength="255" />
+          <Property Name="website" Type="nvarchar" MaxLength="255" />
+          <Property Name="IsPublic" Type="bit" />
+          <Property Name="SupportsAllMethods" Type="bit" />
+          <Property Name="Citation" Type="nvarchar(max)" />
+          <Property Name="MapIconPath" Type="nchar" MaxLength="255" />
+          <Property Name="OrgIconPath" Type="nchar" MaxLength="255" />
+          <Property Name="LastHarvested" Type="datetime" />
+          <Property Name="FrequentUpdates" Type="bit" />
+          <Property Name="logo" Type="image" />
+          <Property Name="icon" Type="image" />
+          <Property Name="IsApproved" Type="bit" />
+          <Property Name="NetworkVocab" Type="nchar" MaxLength="10" />
+          <Property Name="ProjectStatus" Type="nchar" MaxLength="10" />
+          <Property Name="CreatedDate" Type="datetime" />
+          <Property Name="Xmin" Type="real" />
+          <Property Name="Xmax" Type="real" />
+          <Property Name="Ymin" Type="real" />
+          <Property Name="Ymax" Type="real" />
+          <Property Name="ValueCount" Type="bigint" />
+          <Property Name="VariableCount" Type="bigint" />
+          <Property Name="SiteCount" Type="bigint" />
+          <Property Name="EarliestRec" Type="datetime" />
+          <Property Name="LatestRec" Type="datetime" />
+          <Property Name="ServiceStatus" Type="nvarchar" MaxLength="50" />
+          <Property Name="ServiceGroup" Type="int" />
+          <Property Name="GmailAddress" Type="nvarchar" Nullable="false" MaxLength="200" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="hiscentralModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="hiscentralEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="HISNetworks" EntityType="hiscentralModel.HISNetwork" />
+          <EntitySet Name="ExistingUserTokens" EntityType="hiscentralModel.ExistingUserToken" />
+        </EntityContainer>
+        <EntityType Name="HISNetwork">
+          <Key>
+            <PropertyRef Name="NetworkID" />
+          </Key>
+          <Property Name="NetworkID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="username" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="NetworkName" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="NetworkTitle" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="ServiceWSDL" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="ServiceAbs" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="ContactName" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="ContactEmail" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="ContactPhone" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Organization" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="website" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="IsPublic" Type="Boolean" />
+          <Property Name="SupportsAllMethods" Type="Boolean" />
+          <Property Name="Citation" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="MapIconPath" Type="String" MaxLength="255" Unicode="true" FixedLength="true" />
+          <Property Name="OrgIconPath" Type="String" MaxLength="255" Unicode="true" FixedLength="true" />
+          <Property Name="LastHarvested" Type="DateTime" Precision="3" />
+          <Property Name="FrequentUpdates" Type="Boolean" />
+          <Property Name="logo" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="icon" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="IsApproved" Type="Boolean" />
+          <Property Name="NetworkVocab" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="ProjectStatus" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <Property Name="Xmin" Type="Single" />
+          <Property Name="Xmax" Type="Single" />
+          <Property Name="Ymin" Type="Single" />
+          <Property Name="Ymax" Type="Single" />
+          <Property Name="ValueCount" Type="Int64" />
+          <Property Name="VariableCount" Type="Int64" />
+          <Property Name="SiteCount" Type="Int64" />
+          <Property Name="EarliestRec" Type="DateTime" Precision="3" />
+          <Property Name="LatestRec" Type="DateTime" Precision="3" />
+          <Property Name="ServiceStatus" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ServiceGroup" Type="Int32" />
+          <Property Name="GmailAddress" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="ExistingUserToken">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="ExistingUsername" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="GeneratedToken" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="EmailAddressOnFile" MaxLength="200" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="hiscentralModelStoreContainer" CdmEntityContainer="hiscentralEntities">
+          <EntitySetMapping Name="HISNetworks">
+            <EntityTypeMapping TypeName="hiscentralModel.HISNetwork">
+              <MappingFragment StoreEntitySet="HISNetworks">
+                <ScalarProperty Name="NetworkID" ColumnName="NetworkID" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="NetworkName" ColumnName="NetworkName" />
+                <ScalarProperty Name="NetworkTitle" ColumnName="NetworkTitle" />
+                <ScalarProperty Name="ServiceWSDL" ColumnName="ServiceWSDL" />
+                <ScalarProperty Name="ServiceAbs" ColumnName="ServiceAbs" />
+                <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+                <ScalarProperty Name="ContactEmail" ColumnName="ContactEmail" />
+                <ScalarProperty Name="ContactPhone" ColumnName="ContactPhone" />
+                <ScalarProperty Name="Organization" ColumnName="Organization" />
+                <ScalarProperty Name="website" ColumnName="website" />
+                <ScalarProperty Name="IsPublic" ColumnName="IsPublic" />
+                <ScalarProperty Name="SupportsAllMethods" ColumnName="SupportsAllMethods" />
+                <ScalarProperty Name="Citation" ColumnName="Citation" />
+                <ScalarProperty Name="MapIconPath" ColumnName="MapIconPath" />
+                <ScalarProperty Name="OrgIconPath" ColumnName="OrgIconPath" />
+                <ScalarProperty Name="LastHarvested" ColumnName="LastHarvested" />
+                <ScalarProperty Name="FrequentUpdates" ColumnName="FrequentUpdates" />
+                <ScalarProperty Name="logo" ColumnName="logo" />
+                <ScalarProperty Name="icon" ColumnName="icon" />
+                <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+                <ScalarProperty Name="NetworkVocab" ColumnName="NetworkVocab" />
+                <ScalarProperty Name="ProjectStatus" ColumnName="ProjectStatus" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="Xmin" ColumnName="Xmin" />
+                <ScalarProperty Name="Xmax" ColumnName="Xmax" />
+                <ScalarProperty Name="Ymin" ColumnName="Ymin" />
+                <ScalarProperty Name="Ymax" ColumnName="Ymax" />
+                <ScalarProperty Name="ValueCount" ColumnName="ValueCount" />
+                <ScalarProperty Name="VariableCount" ColumnName="VariableCount" />
+                <ScalarProperty Name="SiteCount" ColumnName="SiteCount" />
+                <ScalarProperty Name="EarliestRec" ColumnName="EarliestRec" />
+                <ScalarProperty Name="LatestRec" ColumnName="LatestRec" />
+                <ScalarProperty Name="ServiceStatus" ColumnName="ServiceStatus" />
+                <ScalarProperty Name="ServiceGroup" ColumnName="ServiceGroup" />
+                <ScalarProperty Name="GmailAddress" ColumnName="GmailAddress" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ExistingUserTokens">
+            <EntityTypeMapping TypeName="hiscentralModel.ExistingUserToken">
+              <MappingFragment StoreEntitySet="ExistingUserTokens">
+                <ScalarProperty Name="EmailAddressOnFile" ColumnName="EmailAddressOnFile" />
+                <ScalarProperty Name="GeneratedToken" ColumnName="GeneratedToken" />
+                <ScalarProperty Name="ExistingUsername" ColumnName="ExistingUsername" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

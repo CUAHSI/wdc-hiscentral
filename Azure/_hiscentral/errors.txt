@@ -1,0 +1,5 @@
+- Harvest button is broken as it points to "F:/hiscentral_home/harvester/HISCentralHarvester2.exe". Is this a different project? I would need the .exe file and need to drop it on the new cloudapp server so that this module works
+
+- The 'Stats' button is broken - the code is looking for a table called 'stats_all' to exist but in the HISCentral database provided to me, this table does not exist: do we have the schema for this table on a different machine maybe? This stats function is broken on the current hiscentral.cuahsi.org website as well. Was this module completed?
+
+insert into usersInRoles (userId, roleId) values ('b1ec35bd3719xxxxx', '3efbf48e-ef81-4b9f-969f-7f1ac451b9e6')

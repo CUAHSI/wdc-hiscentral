@@ -1,0 +1,32 @@
+9/20/2013 11:28:51 AM::Begin Harvest for service ID:1
+9/20/2013 11:28:51 AM::9/20/2013 11:28:51 AM
+9/20/2013 11:28:51 AM::Clearing staging tables
+9/20/2013 11:29:34 AM::SiteME-ARW890 Fort Kent, Maine
+9/20/2013 11:29:34 AM::Series: site ME-ARW890 Fort Kent, Maine- varDepth to water level, feet below land surface
+9/20/2013 11:29:35 AM::Site145-054-27CDC
+9/20/2013 11:29:35 AM::Series: site 145-054-27CDC- varDepth to water level, feet below land surface
+9/20/2013 11:29:35 AM::Series: site 145-054-27CDC- varDepth to water level, feet below land surface
+9/20/2013 11:29:35 AM::Site145-088-25ABB1
+9/20/2013 11:29:35 AM::Series: site 145-088-25ABB1- varDepth to water level, feet below land surface
+9/20/2013 11:29:35 AM::Series: site 145-088-25ABB1- varDepth to water level, feet below land surface
+9/20/2013 11:29:36 AM::Site145-061-04DAA
+9/20/2013 11:29:36 AM::Series: site 145-061-04DAA- varDepth to water level, feet below land surface
+9/20/2013 11:29:36 AM::Series: site 145-061-04DAA- varDepth to water level, feet below land surface
+9/20/2013 11:29:36 AM::SiteRED RIVER (STAGE GAGE 2011) NEAR SHELLY, MN
+9/20/2013 11:29:36 AM::Series: site RED RIVER (STAGE GAGE 2011) NEAR SHELLY, MN- varGage height, feet
+9/20/2013 11:29:37 AM::Site147-067-35AAA
+9/20/2013 11:29:37 AM::Series: site 147-067-35AAA- varDepth to water level, feet below land surface
+9/20/2013 11:29:37 AM::Series: site 147-067-35AAA- varDepth to water level, feet below land surface
+9/20/2013 11:29:37 AM::SiteRED RIVER (STAGE GAGE 2011) NEAR NIELSVILLE, MN
+9/20/2013 11:29:37 AM::Series: site RED RIVER (STAGE GAGE 2011) NEAR NIELSVILLE, MN- varGage height, feet
+9/20/2013 11:29:37 AM::SiteUNNAMED LAKE, WEST SIDE, SOUTHEAST OF PINEWOOD, MN
+9/20/2013 11:29:37 AM::Series: site UNNAMED LAKE, WEST SIDE, SOUTHEAST OF PINEWOOD, MN- varLake or reservoir water surface elevation above NAVD 1988, feet
+9/20/2013 11:31:30 AM::Begin Harvest for service ID:1
+9/20/2013 11:31:30 AM::9/20/2013 11:31:30 AM
+9/20/2013 11:31:30 AM::Clearing staging tables
+9/20/2013 11:32:06 AM::Begin Harvest for service ID:1
+9/20/2013 11:32:06 AM::9/20/2013 11:32:06 AM
+9/20/2013 11:32:06 AM::Clearing staging tables
+9/20/2013 11:32:37 AM::Begin Harvest for service ID:1
+9/20/2013 11:32:37 AM::9/20/2013 11:32:37 AM
+9/20/2013 11:32:37 AM::Clearing staging tables

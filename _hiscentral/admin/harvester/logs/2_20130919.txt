@@ -1,0 +1,1262 @@
+9/19/2013 9:25:15 PM::Begin Harvest for service ID:2
+9/19/2013 9:25:15 PM::9/19/2013 9:25:15 PM
+9/19/2013 9:25:15 PM::Clearing staging tables
+9/19/2013 9:26:14 PM::SiteGoose Ck nr McNair, TX
+9/19/2013 9:26:15 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:15 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:15 PM::Series: site Goose Ck nr McNair, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:16 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:16 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:16 PM::Series: site Goose Ck nr McNair, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:26:16 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:16 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:16 PM::Series: site Goose Ck nr McNair, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:26:16 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:16 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:16 PM::Series: site Goose Ck nr McNair, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:26:17 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:17 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:17 PM::Series: site Goose Ck nr McNair, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:17 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:17 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:17 PM::Series: site Goose Ck nr McNair, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:17 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:17 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:17 PM::Series: site Goose Ck nr McNair, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:18 PM::Series: site Goose Ck nr McNair, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:18 PM::Series: site Goose Ck nr McNair, TX- varChemical oxygen demand, low level, water, unfiltered, milligrams per liter
+9/19/2013 9:26:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:18 PM::Series: site Goose Ck nr McNair, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:26:18 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:18 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:18 PM::Series: site Goose Ck nr McNair, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:26:19 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:19 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:19 PM::Series: site Goose Ck nr McNair, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:26:19 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:19 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:19 PM::Series: site Goose Ck nr McNair, TX- varOil and grease, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:26:19 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:19 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:19 PM::Series: site Goose Ck nr McNair, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:26:19 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:19 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:19 PM::Series: site Goose Ck nr McNair, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:20 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:20 PM::Series: site Goose Ck nr McNair, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:20 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:20 PM::Series: site Goose Ck nr McNair, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:20 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:20 PM::Series: site Goose Ck nr McNair, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:26:20 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:20 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:20 PM::Series: site Goose Ck nr McNair, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:26:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:21 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:21 PM::Series: site Goose Ck nr McNair, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:21 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:21 PM::Series: site Goose Ck nr McNair, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:21 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:21 PM::Series: site Goose Ck nr McNair, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:21 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:21 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:21 PM::Series: site Goose Ck nr McNair, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:26:22 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:22 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:22 PM::Series: site Goose Ck nr McNair, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:26:22 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:22 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:22 PM::Series: site Goose Ck nr McNair, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:22 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:22 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:22 PM::Series: site Goose Ck nr McNair, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:22 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:22 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:22 PM::Series: site Goose Ck nr McNair, TX- varDischarge, cubic meters per second
+9/19/2013 9:26:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:23 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:23 PM::Series: site Goose Ck nr McNair, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:26:23 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:23 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:23 PM::Series: site Goose Ck nr McNair, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:24 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:24 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:24 PM::Series: site Goose Ck nr McNair, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:24 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:24 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:24 PM::Series: site Goose Ck nr McNair, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:26:24 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:24 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:24 PM::Series: site Goose Ck nr McNair, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:24 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:24 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:24 PM::Series: site Goose Ck nr McNair, TX- varMethylene blue active substances, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:26:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:25 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:25 PM::Series: site Goose Ck nr McNair, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:26:25 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:25 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:25 PM::Series: site Goose Ck nr McNair, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:26:26 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:26 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:26 PM::Series: site Goose Ck nr McNair, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:26:26 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:26 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:26 PM::Series: site Goose Ck nr McNair, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:26:26 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:26 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:26 PM::Series: site Goose Ck nr McNair, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:26:26 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:26 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:26 PM::Series: site Goose Ck nr McNair, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:27 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:27 PM::Series: site Goose Ck nr McNair, TX- varFecal streptococci, m-enterococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:26:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:27 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:27 PM::Series: site Goose Ck nr McNair, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:26:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:27 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:27 PM::Series: site Goose Ck nr McNair, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:26:27 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:27 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:27 PM::Series: site Goose Ck nr McNair, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:26:28 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:28 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:28 PM::Series: site Goose Ck nr McNair, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:28 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:28 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:28 PM::Series: site Goose Ck nr McNair, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:26:28 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:28 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:28 PM::Series: site Goose Ck nr McNair, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:26:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:29 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:29 PM::Series: site Goose Ck nr McNair, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:26:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:29 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:29 PM::Series: site Goose Ck nr McNair, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:26:29 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:29 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:29 PM::Series: site Goose Ck nr McNair, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:26:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:30 PM::Series: site Goose Ck nr McNair, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:26:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:30 PM::Series: site Goose Ck nr McNair, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:26:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:30 PM::Series: site Goose Ck nr McNair, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:26:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:31 PM::Series: site Goose Ck nr McNair, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:26:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:31 PM::Series: site Goose Ck nr McNair, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:31 PM::Series: site Goose Ck nr McNair, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:26:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:32 PM::Series: site Goose Ck nr McNair, TX- varFecal coliform, M-FC MF (0.45 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:26:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:32 PM::Series: site Goose Ck nr McNair, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:26:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:32 PM::Series: site Goose Ck nr McNair, TX- varPhenolic compounds, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:32 PM::Series: site Goose Ck nr McNair, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:33 PM::Series: site Goose Ck nr McNair, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:26:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:33 PM::Series: site Goose Ck nr McNair, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:26:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:33 PM::Series: site Goose Ck nr McNair, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:26:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:33 PM::Series: site Goose Ck nr McNair, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:34 PM::Series: site Goose Ck nr McNair, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:26:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:34 PM::Series: site Goose Ck nr McNair, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:26:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:34 PM::Series: site Goose Ck nr McNair, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:26:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:34 PM::Series: site Goose Ck nr McNair, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:26:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:35 PM::Series: site Goose Ck nr McNair, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:35 PM::Series: site Goose Ck nr McNair, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:26:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:35 PM::Series: site Goose Ck nr McNair, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:36 PM::Series: site Goose Ck nr McNair, TX- varDischarge, cubic feet per second
+9/19/2013 9:26:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:36 PM::Series: site Goose Ck nr McNair, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:36 PM::Series: site Goose Ck nr McNair, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:36 PM::Series: site Goose Ck nr McNair, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:26:40 PM::SiteCypress Ck at Katy-Hockley Rd nr Hockley, TX
+9/19/2013 9:26:43 PM::SiteCypress Ck at House-Hahl Rd nr Cypress, TX
+9/19/2013 9:26:43 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:43 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varFonofos, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:43 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:26:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:43 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:26:43 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:26:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varOrthophosphate, water, unfiltered, milligrams per liter as phosphorus
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSilver, water, filtered, micrograms per liter
+9/19/2013 9:26:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:44 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varStrontium, water, filtered, micrograms per liter
+9/19/2013 9:26:45 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:45 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:26:45 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:45 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPhorate, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:45 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:45 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:26:45 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:26:46 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:46 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:46 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:46 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varBarometric pressure, millimeters of mercury
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:26:46 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:46 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varGage height, above datum, meters
+9/19/2013 9:26:46 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:46 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:46 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTurbidity, water, unfiltered, nephelometric turbidity units
+9/19/2013 9:26:47 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:47 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDichlorprop, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:47 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:47 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varChlorpyrifos, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:26:47 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:47 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varp,p'-Methoxychlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:47 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:47 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:47 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:48 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:48 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:48 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:48 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:26:48 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:48 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:48 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:48 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varLithium, water, filtered, micrograms per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:26:48 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:26:49 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:49 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMolybdenum, water, filtered, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:26:49 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:49 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:49 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:49 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:26:49 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:49 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:49 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:26:50 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:50 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMirex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:50 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:50 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSelenium, water, filtered, micrograms per liter
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:26:50 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:50 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:50 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:26:51 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:51 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCarbonate, water, filtered, incremental titration, field, milligrams per liter
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:26:51 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:51 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:51 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:51 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTribuphos, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:51 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:51 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:51 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varp,p'-Ethyl-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:52 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:52 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:26:52 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:52 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:26:52 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:52 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDisulfoton, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:52 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:52 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNickel, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:52 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:53 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:53 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:26:53 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:53 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varGage height, feet
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:26:53 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:53 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:53 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:53 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:53 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAlkalinity, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:54 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:54 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varBeryllium, water, filtered, micrograms per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:26:54 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:54 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varBarium, water, filtered, micrograms per liter
+9/19/2013 9:26:54 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:54 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:54 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:54 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:54 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varVanadium, water, filtered, micrograms per liter
+9/19/2013 9:26:55 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:55 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:55 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:26:55 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:55 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:55 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varAgency analyzing sample, code
+9/19/2013 9:26:55 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:26:55 PM::Series: site Cypress Ck at House-Hahl Rd nr Cypress, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::SiteCypress Ck nr Cypress, TX
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varLithium, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:58 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSample accounting number
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:26:58 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:58 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varLoss on ignition, from residue on evaporation, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varStrontium, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varMethylene blue active substances, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:26:58 PM::Series: site Cypress Ck nr Cypress, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:26:59 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:59 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varResidue on evaporation, dried at 180 degrees Celsius, water, filtered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varDischarge, cubic feet per second
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:59 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:59 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varChromium, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:26:59 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:59 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varAluminum, water, filtered, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varChemical oxygen demand, low level, water, unfiltered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:26:59 PM::Object reference not set to an instance of an object.
+9/19/2013 9:26:59 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varBoron, water, filtered, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varDischarge, cubic meters per second
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varPhenolic compounds, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:26:59 PM::Series: site Cypress Ck nr Cypress, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:00 PM::Series: site Cypress Ck nr Cypress, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:02 PM::SiteCypress Ck at Grant Rd nr Cypress, TX
+9/19/2013 9:27:02 PM::Series: site Cypress Ck at Grant Rd nr Cypress, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:02 PM::Series: site Cypress Ck at Grant Rd nr Cypress, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:02 PM::Series: site Cypress Ck at Grant Rd nr Cypress, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:02 PM::Series: site Cypress Ck at Grant Rd nr Cypress, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:05 PM::SiteLk Houston nr Sheldon, TX
+9/19/2013 9:27:05 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:05 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varReservoir storage, acre feet
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varDischarge, cubic feet per second
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varGage height, feet
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varStrontium, water, filtered, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varDischarge, cubic meters per second
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varResidue on evaporation, dried at 180 degrees Celsius, water, filtered, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varGage height, above datum, meters
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:05 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varNitrate, water, filtered, milligrams per liter as nitrogen
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varLithium, water, filtered, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:05 PM::Series: site Lk Houston nr Sheldon, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varAluminum, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varBoron, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:06 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varNitrate, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:06 PM::Series: site Lk Houston nr Sheldon, TX- varAgency analyzing sample, code
+9/19/2013 9:27:09 PM::SiteSan Jacinto Rv nr Sheldon, TX
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSample purpose, code
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varMethylene blue active substances, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varChemical oxygen demand, low level, water, unfiltered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:09 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSampler type, code
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:09 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varTurbidity, water, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +/ -2.5 degrees, FNU
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDischarge, cubic feet per second
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varPhenolic compounds, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varPurpose, site visit, code
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varFecal coliform, M-FC MF (0.45 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varBarometric pressure, millimeters of mercury
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varChromium, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varDischarge, cubic meters per second
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varOil and grease, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varFecal streptococci, m-enterococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:10 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:10 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varSampling method, code
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:10 PM::Series: site San Jacinto Rv nr Sheldon, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:13 PM::SiteBuffalo Bayou nr Katy, TX
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:13 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:13 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varFecal streptococci, KF streptococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:13 PM::Series: site Buffalo Bayou nr Katy, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varp,p'-Methoxychlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:14 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varOrganic carbon, suspended sediment, total, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varTurbidity, water, unfiltered, nephelometric turbidity units
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:27:14 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:14 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varFecal coliform, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varMirex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varp,p'-Ethyl-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varAgency analyzing sample, code
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:14 PM::Series: site Buffalo Bayou nr Katy, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:27:17 PM::SiteS Mayde Ck nr Addicks, TX
+9/19/2013 9:27:17 PM::Series: site S Mayde Ck nr Addicks, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:17 PM::Series: site S Mayde Ck nr Addicks, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:17 PM::Series: site S Mayde Ck nr Addicks, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:17 PM::Series: site S Mayde Ck nr Addicks, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:20 PM::SiteBear Ck nr Barker, TX
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varFecal streptococci, KF streptococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varMirex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varFecal coliform, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varp,p'-Methoxychlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTurbidity, water, unfiltered, nephelometric turbidity units
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varp,p'-Ethyl-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:20 PM::Series: site Bear Ck nr Barker, TX- varAgency analyzing sample, code
+9/19/2013 9:27:23 PM::SiteLangham Ck at W Little York Rd nr Addicks, TX
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDischarge, cubic feet per second
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSilver, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varp,p'-Ethyl-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTurbidity, water, unfiltered, nephelometric turbidity units
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varFecal coliform, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varBarium, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAgency analyzing sample, code
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDischarge, cubic meters per second
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMirex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:23 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSelenium, water, filtered, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varFecal streptococci, KF streptococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:24 PM::Series: site Langham Ck at W Little York Rd nr Addicks, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:27:27 PM::SiteLangham Ck nr Addicks, TX
+9/19/2013 9:27:27 PM::Series: site Langham Ck nr Addicks, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:27 PM::Series: site Langham Ck nr Addicks, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:27 PM::Series: site Langham Ck nr Addicks, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:27 PM::Series: site Langham Ck nr Addicks, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:29 PM::SiteBuffalo Bayou nr Addicks, TX
+9/19/2013 9:27:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varSampling depth, feet
+9/19/2013 9:27:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varCarbaryl, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varArsenic, water, filtered, micrograms per liter
+9/19/2013 9:27:30 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:30 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varAtraton, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varFluoride, water, filtered, milligrams per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varCarbon dioxide, water, unfiltered, milligrams per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varDischarge, cubic feet per second
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varCarbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varMagnesium, water, filtered, milligrams per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varSelenium, water, filtered, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varDieldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varBarium, water, filtered, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- var2,4,5-T, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varTotal nitrogen, water, unfiltered, milligrams per liter as nitrate
+9/19/2013 9:27:30 PM::Series: site Buffalo Bayou nr Addicks, TX- varLoss on ignition, from nonfilterable residue, milligrams per liter
+9/19/2013 9:27:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varToxaphene, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varChloride, water, filtered, milligrams per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varpH, water, unfiltered, field, standard units
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varCadmium, water, filtered, micrograms per liter
+9/19/2013 9:27:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varCyanazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varPhosphorus, water, unfiltered, milligrams per liter
+9/19/2013 9:27:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varPrometryn, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varTotal nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varLithium, water, filtered, micrograms per liter
+9/19/2013 9:27:31 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:31 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varHeptachlor epoxide, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varTemperature, water, degrees Celsius
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varGage height, above datum, meters
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varEthion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varBoron, water, filtered, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varCobalt, water, filtered, micrograms per liter
+9/19/2013 9:27:31 PM::Series: site Buffalo Bayou nr Addicks, TX- varDissolved oxygen, water, unfiltered, percent of saturation
+9/19/2013 9:27:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varSimetone, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varChlordane (technical), bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varPropazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varFecal streptococci, m-enterococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varBiochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varAmmonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDE, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:32 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:32 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varSimazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varNitrate, water, filtered, milligrams per liter
+9/19/2013 9:27:32 PM::Series: site Buffalo Bayou nr Addicks, TX- varToxaphene, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varHeptachlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varpH, water, unfiltered, laboratory, standard units
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- var2,4-D, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varSurface area, square miles
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue, total nonfilterable, milligrams per liter
+9/19/2013 9:27:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDE, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varDichlorprop, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:33 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varSimetryn, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varDischarge, instantaneous, cubic feet per second
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varSilver, water, filtered, micrograms per liter
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:33 PM::Series: site Buffalo Bayou nr Addicks, TX- varSilvex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varDieldrin, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varAmmonia, water, unfiltered, milligrams per liter as NH4
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:27:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varAldrin, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varOrganic carbon, water, unfiltered, milligrams per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varNitrite, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDD, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varColor, water, filtered, platinum cobalt units
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varHardness, water, milligrams per liter as calcium carbonate
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue on evaporation, dried at 180 degrees Celsius, water, filtered, milligrams per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varMalathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varNitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varPhenolic compounds, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varTurbidity, water, unfiltered, Jackson turbidity units
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue, water, filtered, tons per acre-foot
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:34 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varEndrin, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varMirex, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:34 PM::Series: site Buffalo Bayou nr Addicks, TX- varGage height, feet
+9/19/2013 9:27:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varLindane, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varCopper, water, filtered, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varStrontium, water, filtered, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varLead, water, filtered, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varTurbidity, water, unfiltered, nephelometric turbidity units
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-Ethyl-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varOil and grease, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:27:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varPCBs, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varFecal streptococci, KF streptococcus MF method, water, colonies per 100 milliliters
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varSpecific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varMethyl parathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varAmetryn, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varPotassium-40, water, filtered, picocuries per liter
+9/19/2013 9:27:35 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:35 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varPropham, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varBicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter
+9/19/2013 9:27:35 PM::Series: site Buffalo Bayou nr Addicks, TX- varSample accounting number
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varPotassium, water, filtered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varSilica, water, filtered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varDischarge, cubic meters per second
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varNitrate, water, filtered, milligrams per liter as nitrogen
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varZinc, water, filtered, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varChemical oxygen demand, low level, water, unfiltered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varDiazinon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varNoncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varFecal coliform, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varLindane, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varMercury, water, filtered, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue, water, filtered, sum of constituents, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varCalcium, water, filtered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varAgency analyzing sample, code
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varSulfate, water, filtered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varSpecific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varPhosphate, water, unfiltered, milligrams per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varFecal coliform, M-FC MF (0.45 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varAluminum, water, filtered, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varAmmonia, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varAltitude of land surface, feet
+9/19/2013 9:27:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varCyprazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate
+9/19/2013 9:27:36 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:36 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:36 PM::Series: site Buffalo Bayou nr Addicks, TX- varMethomyl, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:37 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varAtrazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varSodium, water, filtered, milligrams per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varHeptachlor epoxide, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varEndrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-Methoxychlor, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varMethylene blue active substances, water, unfiltered, recoverable, milligrams per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varResidue, fixed nonfilterable, milligrams per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varNickel, water, filtered, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varPolychlorinated naphthalenes, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varParathion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:37 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varp,p'-DDT, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varTotal coliform, M-Endo MF method, immediate, water, colonies per 100 milliliters
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varPCBs, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:37 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:37 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:37 PM::Series: site Buffalo Bayou nr Addicks, TX- varHeptachlor, bed sediment, recoverable, dry weight, micrograms per kilogram
+9/19/2013 9:27:38 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:38 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:38 PM::Series: site Buffalo Bayou nr Addicks, TX- varPrometon, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:38 PM::Series: site Buffalo Bayou nr Addicks, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:40 PM::SiteBuffalo Bayou at W Belt Dr, Houston, TX
+9/19/2013 9:27:40 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varPhenolic compounds, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:40 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSodium plus potassium, water, filtered, milligrams per liter as sodium
+9/19/2013 9:27:41 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:41 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSilver, suspended sediment, recoverable, micrograms per liter
+9/19/2013 9:27:41 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:41 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSuspended sediment discharge, tons per day
+9/19/2013 9:27:41 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:41 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCobalt, suspended sediment, recoverable, micrograms per liter
+9/19/2013 9:27:41 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:41 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAmmonia plus organic nitrogen, water, filtered, milligrams per liter as nitrogen
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varPhosphorus, water, unfiltered, milligrams per liter as phosphate
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varMethyl trithion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varNickel, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCarbophenothion, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varDischarge, instantaneous, cubic meters per second
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAcid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varOrganic nitrogen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:41 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varManganese, water, filtered, micrograms per liter
+9/19/2013 9:27:42 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:42 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAmmonia plus organic nitrogen, suspended sediment, total, milligrams per liter as nitrogen
+9/19/2013 9:27:42 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:42 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCadmium, suspended sediment, recoverable, micrograms per liter
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varBarometric pressure, millimeters of mercury
+9/19/2013 9:27:42 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:42 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varNickel, suspended sediment, recoverable, micrograms per liter
+9/19/2013 9:27:42 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:42 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varNitrite plus nitrate, water, filtered, milligrams per liter as nitrogen
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varNitrite plus nitrate, water, unfiltered, milligrams per liter as nitrogen
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varp,p'-DDT, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:42 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varDissolved oxygen, water, unfiltered, milligrams per liter
+9/19/2013 9:27:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varChlorophyll b, periphyton, chromatographic-fluorometric method, milligrams per square meter
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varChlordane (technical), water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSelenium, suspended sediment, total, micrograms per liter
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSodium, water, percent in equivalents of major cations
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varalpha-Endosulfan, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varPhytoplankton, total, cells per milliliter
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varp,p'-DDD, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varFecal coliform, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters
+9/19/2013 9:27:43 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:43 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:43 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varOrganic carbon, water, filtered, milligrams per liter
+9/19/2013 9:27:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varOrthophosphate, water, filtered, milligrams per liter
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varResidue, water, filtered, tons per day
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCarbaryl, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAluminum, water, filtered, micrograms per liter
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varChromium, water, filtered, micrograms per liter
+9/19/2013 9:27:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varJulian date, in-bottle digestion, ddd
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varSodium adsorption ratio, water, number
+9/19/2013 9:27:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varBiomass, periphyton, ash free dry mass, grams per square meter
+9/19/2013 9:27:44 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varIron, water, filtered, micrograms per liter
+9/19/2013 9:27:44 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:44 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:45 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCarbonaceous biochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter
+9/19/2013 9:27:45 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAldrin, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:45 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:45 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
+9/19/2013 9:27:45 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varArsenic, water, unfiltered, micrograms per liter
+9/19/2013 9:27:45 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varCyprazine, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:45 PM::Series: site Buffalo Bayou at W Belt Dr, Houston, TX- varAtraton, water, unfiltered, recoverable, micrograms per liter
+9/19/2013 9:27:45 PM::Object reference not set to an instance of an object.
+9/19/2013 9:27:45 PM::   at HisCentralHarvester2.Harvester.updateInsertVariable(VariableInfoType var, SqlConnection con) in c:\VStudioProjects\VSProjects\HisCentralHarvester2\HisCentralHarvester2\HisCentralHarvester2\HarvesterRun.cs:line 578
